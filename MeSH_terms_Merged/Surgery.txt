@@ -1,0 +1,1654 @@
+Catheterization, Central Venous
+Biliopancreatic Diversion
+Bronchoscopes
+Vagotomy, Truncal
+Esophagogastric fundoplasty
+Skin Transplantation
+Thoracostomy
+Extended radical mastectomy
+Disarticulation
+Gastrostomy site
+Simple mastectomy
+Primary malignant neoplasm
+Surgical Equipment
+Surgical Fixation Devices
+Cautery Device Component
+Coronary Artery Bypass, Off-Pump
+Mediastinoscopy
+Serial Extraction
+Transplantation, Homologous
+Immediate
+transplantation aspects
+Excision of breast tissue
+Tooth Reimplantation
+Vasovasostomy
+Repair of hip
+Orthotic Devices (procedure)
+Surgical ocular refractive procedure
+neurosurgical Ganglionectomy
+Repeat Pattern
+Rhytidoplasty of eyelid
+Endoscopy (procedure)
+Electrosurgery
+Angioplasty, Balloon, Coronary
+Repeat Surgery
+Laparoscopy
+Pancreaticojejunostomy
+Laser ablation
+Salpingostomy
+Fine-needle biopsy
+Glossectomy
+Angioplasty
+Endoscopic Retrograde Cholangiopancreatography
+Anesthesia Recovery Period
+Endarterectomy
+Liver, Artificial
+Thymectomy
+Thoracic Surgical Procedures
+Obstetrical Forceps
+Heart Arrest, Induced
+Penile Implantation
+Esophagoscopes
+Fontan Procedure
+Tissue Expansion
+Microdissection
+Guided Tissue Regeneration
+Heart-Assist Devices
+Tissue Transplantation
+Total nephrectomy
+Castration
+Fertility Preservation
+Gastroscopes
+Data types- Composite
+Sigmoidoscopy (procedure)
+Lymph node excision
+Thoracoplasty
+Laser-generated electromagnetic radiation
+Cardiac Surgery procedures
+Bone-Patellar Tendon-Bone Grafting
+Reattachment of finger
+Induced abortion (procedure)
+Prosthesis Implantation
+Catgut
+Orthotic Devices
+Thyroidectomy
+Pancreaticoduodenectomy
+Cholecystostomy
+mating type switching donor selection
+Mesenchymal Stem Cell Transplantation
+Excision of root of single-rooted tooth
+Auditory Brain Stem Implantation
+Male Circumcision
+Elective Surgical Procedures
+Hemopoietic stem cell transplant
+Choledochostomy
+Hemofiltration
+Laparoscopes
+Trabeculectomy
+Percutaneous insertion of nephrostomy tube
+Minor Surgical Procedures
+Enterostomy procedure
+Heart-Lung Transplantation
+Laryngeal Prosthesis
+Crutches
+Cold Ischemia
+Esophagectomy
+Venous Cutdown
+Cytoreduction Surgical Procedures
+Bone Transplantation
+Angioplasty, Balloon
+Suture Anchors
+transrectal ultrasound
+Colostomy Procedure
+Conization
+Orchiectomy
+Total pneumonectomy
+Herniorrhaphy
+Medical Balloon Device
+Total thymectomy
+Has focus
+Perioperative Care
+Extraction, Obstetrical
+Dissecting hemorrhage
+Thoracoscopes
+Maxillofacial Prosthesis Implantation
+Pessaries
+Warm Ischemia During Surgery
+Sphincterotomy, Transhepatic
+percutaneous nephrostomy procedure
+Gynecologic Surgical Procedures
+Mastectomy
+Surgical Disarticulation
+Loading Technique
+Body Modification, Non-Therapeutic
+Traction
+Consent Type - Hysterectomy
+Mandibular Advancement
+Preoperative Period
+Intraoperative Neurophysiological Monitoring
+Posterior Cruciate Ligament Reconstruction
+Salpingectomy
+Sclerostomy
+Arteriovenous anastomosis procedure
+Facial Transplantation
+Uterine Myomectomy
+Transplantation, Heterotopic
+Sphincterotomy, Endoscopic
+Hand Transplantation
+Cervical Cerclage
+Keratotomy, Radial
+Vacuum Extraction, Obstetrical
+Gingivectomy
+Hemipelvectomy
+Ultrafiltration (procedure)
+Surgical Mesh
+Tissue Dissection
+Laryngoscopes
+laparoscopy (therapeutic)
+Atherectomy
+Pedicle Screws
+Neurosurgical Procedures
+Collapse Therapy
+Focal
+Surgery, Computer-Assisted
+Tympanostomy
+Thrombectomy
+Laser Therapy
+Induction of labor procedure
+Laryngoplasty
+Artificial Larynx Implantation
+Second Look Surgery
+Modified radical mastectomy
+Capsulorhexis
+Dermabrasion
+Hemiarthroplasty
+Bone Marrow Transplantation
+Fine needle aspiration biopsy
+Tympanocentesis
+Vascular Closure Devices
+Kidney Transplantation
+Physiological reperfusion
+Orthopedic Surgeons
+Adrenalectomy
+Surgery specialty
+Islets of Langerhans Transplantation
+Preanesthetic Medication
+Ultrasonic Surgical Procedures
+Vertebroplasty
+Walkers
+Body Fluid Discharge
+Urologic Surgical Procedures, Male
+Anastomosis of pulmonary-subclavian artery by Blalock-Taussig operation
+Duodenoscopy
+operate
+Infusion Pump
+Colostomy site
+Arthroscopy
+Filter (function)
+Heart Bypass, Left
+Repeat Object
+Spinal Puncture
+intraocular lens implantation procedure
+Endovascular Procedures
+Endoscopy, Digestive System
+Trusses
+Ureteroscopy
+Radiosurgery
+Duodenostomy
+Artificial skin
+Tracheotomy procedure
+Splenorenal Shunt, Surgical
+Legal abortion (finding)
+Thoracic Surgery, Video-Assisted
+Stereotaxic Techniques
+Axotomy
+Therapeutic abortion (procedure)
+Surgeon
+Reperfusion Therapy
+Bone plates
+Endoscopes, Gastrointestinal
+Total pancreaticoduodenectomy
+Medical pins
+Vaginal hysterectomy
+Creation of ileostomy
+Oral Surgical Procedures
+Culdoscopy
+Hysteroscopes
+Tonsillectomy
+Carotid Endarterectomy
+Endolymphatic Shunt Implantation
+Keratoplasty, Penetrating
+Angioplasty - Consent Type
+Brain Tissue Transplantation
+Excision of redundant skin of eyelid
+Digestive System Surgical Procedures
+Laryngectomy
+Culdoscopes
+Diagnostic endoscopic examination of ureter
+Endocrine Surgical Procedures
+Obstetric Delivery
+Prophylactic Mastectomy
+Gastrostomy
+Hysterotomy
+Sex Reassignment Surgery
+Mammaplasty
+Norwood Procedures
+Cold Ischemia During Surgery
+Fixation of tendon
+Axillofemoral Bypass Grafting
+Sympathectomy
+Heart Transplantation
+Intra-Aortic Balloon Pumping
+Fracture Fixation, Intramedullary
+Filter - medical device
+Sinus Floor Augmentation
+Urologic Surgical Procedures
+Gastrectomy
+Diathermy
+Image-Guided Biopsy
+Dental Prosthesis Implantation
+Infusion Pumps, Implantable
+Kidneys, Artificial
+Peripheral Stem Cell Transplantation
+Tympanoplasty
+Colonoscopes
+Medical
+Portoenterostomy, Hepatic
+Proctoscopes
+Transplantation of liver
+Has colostomy
+Orbit Evisceration
+Repeat
+Esophagoplasty
+Tracheostomy procedure
+Arthroplasty of the shoulder (procedure)
+Tattooing
+Apical Endodontic Surgery
+Cystoscopes
+Cast Present Or Absent (lab procedure)
+Plastic Surgery, Neck
+Keratoplasty
+Cochlear implant procedure
+Body Parts - Ileostomy
+Transplantation
+Surgical Attire
+Photopheresis
+Urinary Diversion
+Counterpulsation
+Radiography, Interventional
+Foraminotomy
+Hepatectomy
+Apicoectomy
+Abortion, Eugenic
+Microvascular Decompression Surgery
+Proximal Gastric Vagotomy
+Descemet Stripping Endothelial Keratoplasty
+Vestibuloplasty
+Donor Selection
+High-Intensity Focused Ultrasound Ablation
+Discharge, body substance
+Orthodontic braces
+Preoperative Care
+Transjugular intrahepatic portosystemic shunt procedure
+Sympathectomy, Chemical
+Arthroplasty of finger
+Endoscopy of stomach
+Vascular Surgical Procedures
+Hemorrhoidectomy
+Excisional biopsy of lymph node (procedure)
+Percutaneous Coronary Intervention
+Myringoplasty
+Vitreo-retinal surgery
+Internal Fixators
+Tissue Adhesives
+Transmyocardial Laser Revascularization (procedure)
+Uterine Artery Embolization
+Induced abortion (finding)
+Autonomic Nerve Block
+Phacoemulsification
+Nerve Expansion
+Casts body substance
+Hemispherectomy
+Conversion to Open Surgery
+Joint Capsule Release
+Optical filter
+Sigmoidoscopes
+Evisceration of eye proper (procedure)
+Chemexfoliation
+Abdominal Wound Closure Techniques
+Catheterization, Peripheral
+Pancreatectomy
+Autonomic Denervation
+Guided Tissue Regeneration, Periodontal
+Laminoplasty
+Replacement
+Pericardiostomy
+Mandibular prosthesis implantation
+CANE, INCLUDES CANES OF ALL MATERIALS, ADJUSTABLE OR FIXED, WITH TIP
+Cesarean section
+Oral Surgical Procedures, Preprosthetic
+Sentinel Lymph Node Biopsy
+Otorhinolaryngologic Surgical Procedures
+Hemodiafiltration
+Device Removal
+Warm Ischemia
+Pneumonectomy
+Alveoloplasty
+Ovariectomy
+Wound Closure Techniques
+Osteogenesis, Distraction
+Sternotomy (procedure)
+Cementoplasty
+Thoracotomy
+Light Coagulation
+Hypophysectomy, Chemical
+Operative Time
+Cystectomy
+Therapeutic Abortion with Complications
+Artificial pneumothorax for collapse of lung
+Data Table
+Prosthetic arthroplasty of the elbow
+Cord Blood Stem Cell Transplantation
+Colectomy
+Ostomy
+Drapes (device)
+Proctoscopy
+Pharyngectomy
+General surgery specialty
+Heart Valve Prosthesis Implantation
+Bariatric Surgery
+Ultrafiltration Issue Associated with Medical Device
+Transjugular intrahepatic portosystemic shunt morphologic abnormality
+Biliary Tract Surgical Procedures
+Heart Bypass, Right
+split brain
+Consent Type - Percutaneous Nephrostomy
+Surgical aspects
+Orchidopexy
+Urogenital Surgical Procedures
+Stat (do immediately)
+Braces - garment
+Arterial Switch Operation
+Perioperative Period
+Mechanical Thrombolysis
+Ventricular shunt device
+Ablation Techniques
+Microsurgery
+Fracture Fixation
+Ureterostomy - stoma
+Chest Tubes
+Nissen Operation
+Induce (action)
+Dilatation and Curettage
+Ophthalmologic Surgical Procedures
+Transurethral Resection of Prostate
+Location Equipment - Suction
+Repair of the Eyelids
+Mastectomy, Subcutaneous
+Ventriculostomy
+Cataract Extraction
+Thoracentesis
+Denervation
+Surgery - Clinical Class
+Eye Enucleation procedure
+Debridement by Maggots
+Neuroendoscopes
+Internal Mammary-Coronary Artery Anastomosis
+Angioplasty, Balloon, Laser-Assisted
+Cornea excision
+Knee Replacement Arthroplasty (procedure)
+Endoscopic mucosal resection
+External Fixation Devices
+Pericardiocentesis
+Cardiopulmonary Bypass
+Legal abortion (procedure)
+Puncture biopsy
+Symphysiotomy
+Mohs Surgery
+Arthroscopes
+Stapes Mobilization
+Curettage procedure
+Pharyngostomy
+Arthrodesis
+Cardiovascular Surgical Procedures
+Vagotomy
+Abdominoplasty (procedure)
+Orthopedic Procedures
+Hypophysectomy
+Petrosal Sinus Sampling
+Total iridectomy
+Venous blood sampling
+Pneumonolysis
+Esophagoscopy
+Ureteroscopes
+Consent Type - Colonoscopy
+Transcatheter Aortic Valve Replacement
+Amniocentesis
+Creation of ventriculo-peritoneal shunt
+Endolymphatic Shunt Device
+Splenectomy
+Osteotomy
+Bronchoscopy
+Amputation Specimen Code
+Repair of acetabulum (procedure)
+Osteotomy, Sagittal Split Ramus
+Laminectomy
+Mastectomy, Radical
+Tissue Specimen Code
+Stem cell transplant
+Adenoidectomy
+Anterior Cruciate Ligament Reconstruction
+Lipectomy
+Laser Device Component
+Transanal Endoscopic Microsurgery
+Surgical Portacaval Shunt (procedure)
+Chorionic Villi Sampling
+Ulnar Collateral Ligament Reconstruction
+Otologic Surgical Procedures
+curettage specimen
+filter information process
+Tubal sterilization
+Surgical Replantation
+Consciousness Monitors
+Gloves, Surgical
+Surgical Tape
+Panniculectomy
+Craniotomy
+Scleral Buckling
+Intrauterine Cordocentesis
+Scleroplasty
+Total ankle replacement
+Cystotomy
+Operative Blood Salvage (procedure)
+Table - furniture
+rhinoplasty
+Muscle denervation
+Closed Fracture Reduction
+Gastropexy
+Decompression, Surgical
+Dermatologic Surgical Procedures
+Drainage procedure
+Gelatin Sponge, Absorbable
+Corneal Surgery, Laser
+Modality - Angioscopy
+Cervicectomy
+Neck Dissection
+biopsy characteristics
+Braces-Orthopedic appliances
+Bone Wires
+Embolectomy
+Vascularization
+Nerve Block
+Blood Vessel Prosthesis Implantation
+Burr hole procedure
+Suction drainage
+Ambulatory Surgical Procedures
+Open reduction of fracture
+Endoscopes
+Metastasectomy
+Bone Lengthening
+Cardiac ablation
+Myocardial Reperfusion
+Neurosurgeon
+Body Piercing
+Collection of blood specimen for laboratory procedure
+Uterine stomatoplasty
+Monitoring, Intraoperative
+Balloon Aircraft
+Arthroplasty, Replacement
+Arthroplasty
+breast implant procedure
+Extracorporeal Membrane Oxygenation
+Gastric Bypass
+Urinary Sphincter, Artificial
+Organ Harvesting
+Lung Transplantation
+Tendon transfer procedure
+colonoscopy
+Alveolectomy
+Piezosurgery
+Endoscopy, Gastrointestinal
+Vaginal Birth after Cesarean
+Laser Therapy, Low-Level
+Drug Administration via Jejunostomy
+Angioscopy
+Esophagostomy
+Stapes Surgery
+Deafferentation procedure
+Percutaneous replacement of aortic valve using fluoroscopic guidance
+Thoracoscopy
+Artificial limb procedure
+High intensity
+Pericardiectomy
+Magnetic Resonance Imaging, Interventional
+Creation of peritoneovascular shunt
+Colposcopy
+Parathyroidectomy
+Segmental Mastectomy
+Video-Assisted Surgery
+Angioplasty, Laser
+Tracheostomy device
+Lithotripsy, Laser
+Surgical Portosystemic Shunt
+Puncture procedure
+Excision of musculoskeletal ganglion site
+Masks
+Cardiomyoplasty
+Transanal Endoscopic Surgery
+Ossicular Prosthesis Implantation
+Hemoperfusion
+Neuronavigation
+Fetoscopes
+Single-Balloon Enteroscopy
+Artificial Organs
+Creation of jejunostomy
+Mitral Valve Annuloplasty
+Sperm Retrieval
+Osteotomy, Le Fort
+Vitrectomy
+Extracorporeal Circulation
+Appendectomy
+Isogenic transplantation
+Debridement
+Arthrocentesis
+Kyphoplasty
+Sutureless Surgical Procedures
+Postoperative Care
+Therapeutic abortion (finding)
+Tracheostomy Route of Drug Administration
+Heart, Artificial
+Posterior Capsulotomy
+Urine Casts
+Circulatory arrest
+Robotic Surgical Procedures
+Cauterization - action
+Tenodesis
+Transplantation, Autologous
+Alveolar Ridge Augmentation
+Paracentesis
+Angioscopes
+Medical service
+Percutaneous discectomy
+Diskectomy
+Parasympathectomy
+Surgical service
+Interosseous desmitis
+Coronary Artery Bypass Surgery
+Anastomosis, Surgical
+Version, Fetal
+Pancreas, Artificial
+Hip Replacement Arthroplasty (procedure)
+Xenograft procedure
+Ureterostomy procedure
+Dacryocystorhinostomy
+Laryngoscopy
+Anterior Temporal Lobectomy
+Orthopedic Fixation Devices
+Fracture Fixation, Internal
+Electrocoagulation
+Ultrasonography, Interventional
+Orthopedic Cast
+Keratomileusis, Laser In Situ
+Gastroplasty
+Cervical cerclage (physical object)
+Insulin Infusion Systems
+Dental Implantation, Endosseous, Endodontic
+Splint Device
+Replacement - supply
+Consent Type - Sigmoidoscopy
+Sexual sterilization
+Hemostasis, Surgical
+Fasciotomy
+Chemotherapy, Cancer, Regional Perfusion
+Total Disc Replacement
+Lithotripsy
+Double-Balloon Enteroscopy
+Encounter Due to Reversal of Sterilization
+Cell Transplantation
+Lasers
+Balloon Enteroscopy
+Limb Salvage
+Cerebral Revascularization
+Proctocolectomy, Restorative
+Ventriculoperitoneal catheter
+Venesection
+Swan-Ganz Catheterization
+Jaw Fixation Techniques
+Decompressive Craniectomy
+Oocyte Retrieval
+Middle Ear Ventilation
+Cystostomy
+Pap smear
+Foot Orthoses
+Athletic Tape
+Operation on nose
+Malignant Neoplasms
+Ligation
+Laser coagulation
+Mediastinoscopes
+Jejunoileal Bypass
+Female Circumcision
+Iridectomy
+Limb Prosthesis
+Episiotomy
+Prophylactic Surgical Procedures
+Pulmonary Surgical Procedures
+Face Lift
+Transtympanic Micropressure Treatment
+Amputation
+Heart Massage
+Tooth Extraction
+Onset of labor induced (finding)
+Sphenopalatine Ganglion Block
+Laparotomy
+Heart-Lung Machine
+Cholecystectomy, Laparoscopic
+Aspiration of cataract by phacoemulsification
+Surgical Staplers
+Tampons, Surgical
+Intraoperative Care
+Dental Implantation, Subperiosteal
+Cordotomy
+Body tissue
+Bioartificial Organs
+Needle biopsy procedure
+Elective abortion
+Minimally Invasive Surgical Procedures
+Arthroplasty, Subchondral
+Spinal fusion
+Pancreas Transplantation
+Vasectomy
+Sterilization Reversal
+Muscle denervation procedure
+Endometrial Ablation Techniques
+Epikeratophakia
+Arthroplasty of shoulder with synthetic joint prosthesis
+Roux-en-Y Anastomosis
+Childhood Autism Spectrum Test
+Nephrectomy
+Nerve Crush
+Myocardial Revascularization
+Cystoscopy
+Suture Joint
+Prostatectomy
+Composite
+Postoperative Period
+Colposcopes
+Argon Plasma Coagulation
+Vacuum Curettage
+Intraoperative Period
+Labyrinth fenestration
+Trabeculectomy ab externo
+Cryosurgery
+Obstetric Surgical Procedures
+Consent Type - Needle Biopsy
+Morcellation
+Cancer Genus
+Cerebrospinal fluid shunts procedure
+Fetoscopy
+Colpotomy
+Rhizotomy procedure
+Neuroendoscopy
+Puncture wound
+Blade Implantation
+Arthroplasty of the elbow
+Balloon Embolectomy
+Fixed orthodontic appliance
+Diagnostic lumbar puncture
+CD3EAP protein, human
+Assisted (qualifier value)
+Nerve Transfer
+Vascular Grafting (surgical procedure)
+Photorefractive Keratectomy
+Deep Brain Stimulation
+Fetal Tissue Transplantation
+Negative-Pressure Wound Therapy
+Excision of lipoma
+Organ Transplantation
+Orthopedic Equipment
+Sterilization, Involuntary
+Roux-en-y Anastomosis Site
+Dental endosseous implant insertion
+Cholecystectomy procedure
+Gastroenterostomy
+Tenotomy (procedure)
+Core needle biopsy
+Surgical sutures
+Coronary Atherectomy
+Psychosurgery
+Cesarean section (finding)
+Papanicolaou Test
+Bone Screws
+Biopsy
+Cecostomy
+Orthognathic Surgical Procedures
+Cardiac Valve Annuloplasty
+Surgical Instruments
+Laser plant
+Deep hypothermia
+Spinal fusion (procedure)
+Duodenoscopes
+Formation of cutaneous ureterostomy (procedure)
+Repair of ankle
+Endoscopic Ultrasound-Guided Fine Needle Aspiration
+Hand-Assisted Laparoscopy
+Pregnancy Reduction, Multifetal
+Alveolar Bone Grafting
+Hysterectomy
+Natural Orifice Endoscopic Surgery
+Pallidotomy
+Ilizarov Technique
+Operative Surgical Procedures
+Gingivoplasty
+Peritoneovenous Shunts
+Enterostomy (morphologic abnormality)
+Reconstructive Surgical Procedures
+Surgical Stapling
+Tissue Expansion Devices
+Pelvic Exenteration
+Hysteroscopy
+Cerebral Decortication
+External Fixators
+Filters
+Barber Surgeons
+Vitreoretinal Surgery
+Amputated structure (morphologic abnormality)
+Filter Device Component
+Assisted Circulation
+Suture Techniques
+Surgical Sponges
+Surgeons
+Barber Surgeons
+Neurosurgeons
+Orthopedic Surgeons
+Surgical Equipment
+Artificial Organs
+Artificial Limbs
+Bioartificial Organs
+Artificial Heart
+Heart-Assist Devices
+Heart-Lung Machine
+Infusion Pumps
+Implantable Infusion Pumps
+Insulin Infusion Systems
+Artificial Kidneys
+Artificial Larynx
+Artificial Liver
+Artificial Pancreas
+Artificial Skin
+Artificial Urinary Sphincter
+Chest Tubes
+Consciousness Monitors
+Endoscopes
+Angioscopes
+Arthroscopes
+Bronchoscopes
+Colposcopes
+Culdoscopes
+Cystoscopes
+Gastrointestinal Endoscopes
+Colonoscopes
+Sigmoidoscopes
+Duodenoscopes
+Esophagoscopes
+Gastroscopes
+Proctoscopes
+Fetoscopes
+Hysteroscopes
+Laparoscopes
+Laryngoscopes
+Mediastinoscopes
+Neuroendoscopes
+Thoracoscopes
+Ureteroscopes
+Operating Tables
+Orthopedic Equipment
+Artificial Limbs
+Canes
+Crutches
+Orthopedic Fixation Devices
+External Fixators
+Surgical Casts
+Splints
+Internal Fixators
+Bone Nails
+Bone Plates
+Bone Screws
+Pedicle Screws
+Bone Wires
+Suture Anchors
+Orthotic Devices
+Athletic Tape
+Braces
+Foot Orthoses
+Walkers
+Pessaries
+Surgical Attire
+Surgical Gloves
+Masks
+Surgical Drapes
+Surgical Fixation Devices
+Orthopedic Fixation Devices
+External Fixators
+Surgical Casts
+Splints
+Internal Fixators
+Bone Nails
+Bone Plates
+Bone Screws
+Pedicle Screws
+Bone Wires
+Suture Anchors
+Surgical Tape
+Sutures
+Catgut
+Tissue Adhesives
+Vascular Closure Devices
+Surgical Instruments
+Obstetrical Forceps
+Surgical Staplers
+Surgical Mesh
+Surgical Sponges
+Absorbable Gelatin Sponge
+Surgical Tampons
+Tissue Expansion Devices
+Trusses
+Operative Surgical Procedures
+Ablation Techniques
+Catheter Ablation
+Cautery
+Electrocoagulation
+Argon Plasma Coagulation
+Cryosurgery
+Endometrial Ablation Techniques
+High-Intensity Focused Ultrasound Ablation
+Transrectal Ultrasound  High-Intensity Focused
+Laser Therapy
+Laser Angioplasty
+Laser-Assisted Angioplasty  Balloon
+Laser Corneal Surgery
+Laser-Assisted Keratectomy  Subepithelial
+Laser In Situ Keratomileusis
+Photorefractive Keratectomy
+Laser Coagulation
+Laser Lithotripsy
+Ambulatory Surgical Procedures
+Surgical Anastomosis
+Roux-en-Y Anastomosis
+Surgical Arteriovenous Shunt
+Axillofemoral Bypass Grafting
+Blalock-Taussig Procedure
+Cerebrospinal Fluid Shunts
+Ventriculoperitoneal Shunt
+Ventriculostomy
+Cholecystostomy
+Choledochostomy
+Endolymphatic Shunt
+Gastroenterostomy
+Gastric Bypass
+Right Heart Bypass
+Fontan Procedure
+Jejunoileal Bypass
+Pancreaticojejunostomy
+Pericardial Window Techniques
+Peritoneovenous Shunt
+Surgical Portasystemic Shunt
+Surgical Portacaval Shunt
+Transjugular Intrahepatic Portasystemic Shunt
+Surgical Splenorenal Shunt
+Hepatic Portoenterostomy
+Salpingostomy
+Vasovasostomy
+Assisted Circulation
+Counterpulsation
+Intra-Aortic Balloon Pumping
+Heart-Assist Devices
+Bariatric Surgery
+Gastric Bypass
+Gastroplasty
+Jejunoileal Bypass
+Lipectomy
+Biopsy
+Needle Biopsy
+Fine-Needle Biopsy
+Endoscopic Ultrasound-Guided Fine Needle Aspiration
+Large-Core Needle Biopsy
+Chorionic Villi Sampling
+Conization
+Image-Guided Biopsy
+Endoscopic Ultrasound-Guided Fine Needle Aspiration
+Papanicolaou Test
+Sentinel Lymph Node Biopsy
+Spinal Puncture
+Vaginal Smears
+Bloodless Medical and Surgical Procedures
+Non-Therapeutic Body Modification
+Body Piercing
+Female Circumcision
+Male Circumcision
+Tattooing
+Cardiovascular Surgical Procedures
+Cardiac Surgical Procedures
+Arterial Switch Operation
+Cardiac Valve Annuloplasty
+Mitral Valve Annuloplasty
+Cardiomyoplasty
+Induced Heart Arrest
+Deep Hypothermia Induced Circulatory Arrest
+Right Heart Bypass
+Fontan Procedure
+Heart Massage
+Heart Transplantation
+Heart-Lung Transplantation
+Heart Valve Prosthesis Implantation
+Transcatheter Aortic Valve Replacement
+Myocardial Revascularization
+Coronary Angioplasty  Balloon
+Coronary Atherectomy
+Coronary Artery Bypass
+Off-Pump Coronary Artery Bypass
+Internal Mammary-Coronary Artery Anastomosis
+Transmyocardial Laser Revascularization
+Norwood Procedures
+Fontan Procedure
+Pericardial Window Techniques
+Pericardiectomy
+Pericardiocentesis
+Reperfusion
+Myocardial Reperfusion
+Vascular Surgical Procedures
+Axillofemoral Bypass Grafting
+Embolectomy
+Balloon Embolectomy
+Endarterectomy
+Carotid Endarterectomy
+Endovascular Procedures
+Angioplasty
+Balloon Angioplasty
+Coronary Angioplasty  Balloon
+Laser-Assisted Angioplasty  Balloon
+Laser Angioplasty
+Laser-Assisted Angioplasty  Balloon
+Atherectomy
+Coronary Atherectomy
+Angioscopy
+Central Venous Catheterization
+Peripheral Catheterization
+Swan-Ganz Catheterization
+Percutaneous Coronary Intervention
+Coronary Angioplasty  Balloon
+Coronary Atherectomy
+Limb Salvage
+Peritoneovenous Shunt
+Thrombectomy
+Mechanical Thrombolysis
+Vascular Grafting
+Surgical Arteriovenous Shunt
+Blalock-Taussig Procedure
+Blood Vessel Prosthesis Implantation
+Cerebral Revascularization
+Coronary Artery Bypass
+Off-Pump Coronary Artery Bypass
+Internal Mammary-Coronary Artery Anastomosis
+Right Heart Bypass
+Fontan Procedure
+Surgical Portasystemic Shunt
+Surgical Portacaval Shunt
+Transjugular Intrahepatic Portasystemic Shunt
+Surgical Splenorenal Shunt
+Venous Cutdown
+Curettage
+Dilatation and Curettage
+Vacuum Curettage
+Cytoreduction Surgical Procedures
+Debridement
+Surgical Decompression
+Decompressive Craniectomy
+Microvascular Decompression Surgery
+Deep Brain Stimulation
+Device Removal
+Digestive System Surgical Procedures
+Roux-en-Y Anastomosis
+Appendectomy
+Biliary Tract Surgical Procedures
+Biliopancreatic Diversion
+Cholecystectomy
+Laparoscopic Cholecystectomy
+Cholecystostomy
+Choledochostomy
+Hepatic Portoenterostomy
+Endoscopic Sphincterotomy
+Transhepatic Sphincterotomy
+Biliopancreatic Diversion
+Colectomy
+Restorative Proctocolectomy
+Digestive System Endoscopy
+Endoscopic Retrograde Cholangiopancreatography
+Gastrointestinal Endoscopy
+Balloon Enteroscopy
+Double-Balloon Enteroscopy
+Single-Balloon Enteroscopy
+Colonoscopy
+Sigmoidoscopy
+Duodenoscopy
+Endoscopic Mucosal Resection
+Esophagoscopy
+Gastroscopy
+Proctoscopy
+Transanal Endoscopic Surgery
+Transanal Endoscopic Microsurgery
+Endoscopic Sphincterotomy
+Enterostomy
+Cecostomy
+Colostomy
+Duodenostomy
+Ileostomy
+Jejunostomy
+Esophagectomy
+Esophagoplasty
+Esophagostomy
+Fundoplication
+Gastrectomy
+Gastroenterostomy
+Gastric Bypass
+Gastropexy
+Gastroplasty
+Gastrostomy
+Hemorrhoidectomy
+Hepatectomy
+Jejunoileal Bypass
+Liver Transplantation
+Pancreas Transplantation
+Pancreatectomy
+Pancreaticoduodenectomy
+Pancreaticojejunostomy
+Peritoneovenous Shunt
+Dissection
+Microdissection
+Drainage
+Negative-Pressure Wound Therapy
+Paracentesis
+Suction
+Elective Surgical Procedures
+Electrosurgery
+Endocrine Surgical Procedures
+Adrenalectomy
+Castration
+Orchiectomy
+Ovariectomy
+Hypophysectomy
+Chemical Hypophysectomy
+Islets of Langerhans Transplantation
+Parathyroidectomy
+Thyroidectomy
+Extracorporeal Circulation
+Cardiopulmonary Bypass
+Regional Perfusion Chemotherapy  Cancer
+Extracorporeal Membrane Oxygenation
+Left Heart Bypass
+Hemofiltration
+Hemodiafiltration
+Hemoperfusion
+Photopheresis
+Ultrafiltration
+Fasciotomy
+Surgical Hemostasis
+Argon Plasma Coagulation
+Light Coagulation
+Laser Coagulation
+Laparotomy
+Ligation
+Lymph Node Excision
+Neck Dissection
+Sentinel Lymph Node Biopsy
+Mastectomy
+Radical Mastectomy
+Extended Radical Mastectomy
+Modified Radical Mastectomy
+Segmental Mastectomy
+Simple Mastectomy
+Subcutaneous Mastectomy
+Prophylactic Mastectomy
+Metastasectomy
+Microsurgery
+Cerebral Revascularization
+Mohs Surgery
+Transanal Endoscopic Microsurgery
+Minimally Invasive Surgical Procedures
+Endoscopy
+Angioscopy
+Arthroscopy
+Joint Capsule Release
+Bronchoscopy
+Colposcopy
+Conversion to Open Surgery
+Culdoscopy
+Cystoscopy
+Digestive System Endoscopy
+Endoscopic Retrograde Cholangiopancreatography
+Gastrointestinal Endoscopy
+Balloon Enteroscopy
+Double-Balloon Enteroscopy
+Single-Balloon Enteroscopy
+Colonoscopy
+Sigmoidoscopy
+Duodenoscopy
+Endoscopic Mucosal Resection
+Esophagoscopy
+Gastroscopy
+Proctoscopy
+Transanal Endoscopic Surgery
+Transanal Endoscopic Microsurgery
+Endoscopic Sphincterotomy
+Fetoscopy
+Hysteroscopy
+Laparoscopy
+Laparoscopic Cholecystectomy
+Hand-Assisted Laparoscopy
+Laryngoscopy
+Mediastinoscopy
+Natural Orifice Endoscopic Surgery
+Transanal Endoscopic Surgery
+Transanal Endoscopic Microsurgery
+Neuroendoscopy
+Thoracoscopy
+Video-Assisted Thoracic Surgery
+Ureteroscopy
+Video-Assisted Surgery
+Video-Assisted Thoracic Surgery
+Endovascular Procedures
+Angioplasty
+Balloon Angioplasty
+Coronary Angioplasty  Balloon
+Laser-Assisted Angioplasty  Balloon
+Laser Angioplasty
+Laser-Assisted Angioplasty  Balloon
+Atherectomy
+Coronary Atherectomy
+Angioscopy
+Central Venous Catheterization
+Peripheral Catheterization
+Swan-Ganz Catheterization
+Percutaneous Coronary Intervention
+Coronary Angioplasty  Balloon
+Coronary Atherectomy
+Interventional Magnetic Resonance Imaging
+Morcellation
+Interventional Radiography
+Interventional Ultrasonography
+Endoscopic Ultrasound-Guided Fine Needle Aspiration
+Minor Surgical Procedures
+Intraoperative Monitoring
+Intraoperative Neurophysiological Monitoring
+Obstetric Surgical Procedures
+Induced Abortion
+Eugenic Abortion
+Legal Abortion
+Therapeutic Abortion
+Multifetal Pregnancy Reduction
+Cervical Cerclage
+Colposcopy
+Colpotomy
+Culdoscopy
+Obstetric Delivery
+Cesarean Section
+Repeat Cesarean Section
+Episiotomy
+Obstetrical Extraction
+Obstetrical Vacuum Extraction
+Induced Labor
+Vaginal Birth after Cesarean
+Fetal Version
+Fetoscopy
+Hysteroscopy
+Hysterotomy
+Neurosurgical Procedures
+Anterior Temporal Lobectomy
+Brain Tissue Transplantation
+Cerebral Decortication
+Hemispherectomy
+Cerebrospinal Fluid Shunts
+Ventriculoperitoneal Shunt
+Ventriculostomy
+Craniotomy
+Decompressive Craniectomy
+Trephining
+Denervation
+Autonomic Denervation
+Parasympathectomy
+Vagotomy
+Proximal Gastric Vagotomy
+Truncal Vagotomy
+Sympathectomy
+Ganglionectomy
+Chemical Sympathectomy
+Axotomy
+Cordotomy
+Ganglionectomy
+Muscle Denervation
+Nerve Block
+Autonomic Nerve Block
+Sphenopalatine Ganglion Block
+Nerve Crush
+Rhizotomy
+Vagotomy
+Proximal Gastric Vagotomy
+Truncal Vagotomy
+Foraminotomy
+Hypophysectomy
+Laminectomy
+Laminoplasty
+Microvascular Decompression Surgery
+Nerve Transfer
+Neuroendoscopy
+Pallidotomy
+Psychosurgery
+Split-Brain Procedure
+Stereotaxic Techniques
+Neuronavigation
+Radiosurgery
+Ophthalmologic Surgical Procedures
+Blepharoplasty
+Dacryocystorhinostomy
+Eye Enucleation
+Eye Evisceration
+Filtering Surgery
+Sclerostomy
+Trabeculectomy
+Iridectomy
+Light Coagulation
+Laser Coagulation
+Orbit Evisceration
+Refractive Surgical Procedures
+Cataract Extraction
+Capsulorhexis
+Phacoemulsification
+Corneal Transplantation
+Descemet Stripping Endothelial Keratoplasty
+Epikeratophakia
+Penetrating Keratoplasty
+Laser Corneal Surgery
+Laser-Assisted Keratectomy  Subepithelial
+Laser In Situ Keratomileusis
+Photorefractive Keratectomy
+Radial Keratotomy
+Intraocular Lens Implantation
+Posterior Capsulotomy
+Scleroplasty
+Scleral Buckling
+Vitrectomy
+Vitreoretinal Surgery
+Oral Surgical Procedures
+Apicoectomy
+Gingivectomy
+Gingivoplasty
+Glossectomy
+Jaw Fixation Techniques
+Mandibular Advancement
+Maxillofacial Prosthesis Implantation
+Mandibular Prosthesis Implantation
+Preprosthetic Oral Surgical Procedures
+Alveolar Ridge Augmentation
+Alveolectomy
+Alveoloplasty
+Dental Implantation
+Endosseous Dental Implantation
+Blade Implantation
+Endodontic Dental Implantation  Endosseous
+Immediate Dental Implant Loading
+Subperiosteal Dental Implantation
+Vestibuloplasty
+Orthognathic Surgical Procedures
+Alveolar Bone Grafting
+Le Fort Osteotomy
+Sagittal Split Ramus Osteotomy
+Sinus Floor Augmentation
+Tooth Extraction
+Serial Extraction
+Tooth Replantation
+Orthopedic Procedures
+Acetabuloplasty
+Amputation
+Disarticulation
+Hemipelvectomy
+Arthrodesis
+Spinal Fusion
+Arthroplasty
+Anterior Cruciate Ligament Reconstruction
+Bone-Patellar Tendon-Bone Grafting
+Replacement Arthroplasty
+Ankle Arthroplasty  Replacement
+Elbow Arthroplasty  Replacement
+Finger Arthroplasty  Replacement
+Hip Arthroplasty  Replacement
+Knee Arthroplasty  Replacement
+Shoulder Arthroplasty  Replacement
+Hemiarthroplasty
+Total Disc Replacement
+Subchondral Arthroplasty
+Posterior Cruciate Ligament Reconstruction
+Arthroscopy
+Joint Capsule Release
+Bone Lengthening
+Ilizarov Technique
+Distraction Osteogenesis
+Bone Transplantation
+Sinus Floor Augmentation
+Cementoplasty
+Vertebroplasty
+Kyphoplasty
+Diskectomy
+Percutaneous Diskectomy
+Fracture Fixation
+Closed Fracture Reduction
+Internal Fracture Fixation
+Intramedullary Fracture Fixation
+Ilizarov Technique
+Open Fracture Reduction
+Limb Salvage
+Osteotomy
+Orthognathic Surgical Procedures
+Alveolar Bone Grafting
+Le Fort Osteotomy
+Sagittal Split Ramus Osteotomy
+Tendon Transfer
+Tenodesis
+Tenotomy
+Traction
+Ulnar Collateral Ligament Reconstruction
+Ostomy
+Cystostomy
+Dacryocystorhinostomy
+Enterostomy
+Cecostomy
+Colostomy
+Duodenostomy
+Ileostomy
+Jejunostomy
+Esophagostomy
+Gastrostomy
+Middle Ear Ventilation
+Percutaneous Nephrostomy
+Pharyngostomy
+Sclerostomy
+Thoracostomy
+Tracheostomy
+Ureterostomy
+Otorhinolaryngologic Surgical Procedures
+Adenoidectomy
+Laryngectomy
+Laryngoplasty
+Laryngoscopy
+Nasal Surgical Procedures
+Rhinoplasty
+Neck Dissection
+Otologic Surgical Procedures
+Auditory Brain Stem Implantation
+Cochlear Implantation
+Endolymphatic Shunt
+Labyrinth Fenestration
+Middle Ear Ventilation
+Myringoplasty
+Ossicular Replacement
+Stapes Surgery
+Stapes Mobilization
+Transtympanic Micropressure Treatment
+Tympanoplasty
+Pharyngectomy
+Pharyngostomy
+Tonsillectomy
+Tracheostomy
+Tracheotomy
+Pelvic Exenteration
+Perioperative Care
+Intraoperative Care
+Postoperative Care
+Preoperative Care
+Preanesthetic Medication
+Perioperative Period
+Intraoperative Period
+Operative Time
+Postoperative Period
+Anesthesia Recovery Period
+Preoperative Period
+Prophylactic Surgical Procedures
+Prophylactic Mastectomy
+Prosthesis Implantation
+Replacement Arthroplasty
+Ankle Arthroplasty  Replacement
+Elbow Arthroplasty  Replacement
+Finger Arthroplasty  Replacement
+Hip Arthroplasty  Replacement
+Knee Arthroplasty  Replacement
+Shoulder Arthroplasty  Replacement
+Hemiarthroplasty
+Total Disc Replacement
+Auditory Brain Stem Implantation
+Blood Vessel Prosthesis Implantation
+Breast Implantation
+Cochlear Implantation
+Dental Implantation
+Endosseous Dental Implantation
+Blade Implantation
+Endodontic Dental Implantation  Endosseous
+Immediate Dental Implant Loading
+Subperiosteal Dental Implantation
+Heart Valve Prosthesis Implantation
+Transcatheter Aortic Valve Replacement
+Maxillofacial Prosthesis Implantation
+Mandibular Prosthesis Implantation
+Ossicular Replacement
+Penile Implantation
+Punctures
+Needle Biopsy
+Fine-Needle Biopsy
+Large-Core Needle Biopsy
+Blood Specimen Collection
+Cordocentesis
+Petrosal Sinus Sampling
+Phlebotomy
+Paracentesis
+Amniocentesis
+Arthrocentesis
+Cordocentesis
+Pericardiocentesis
+Thoracentesis
+Tympanocentesis
+Spinal Puncture
+Reconstructive Surgical Procedures
+Abdominoplasty
+Acetabuloplasty
+Arthroplasty
+Anterior Cruciate Ligament Reconstruction
+Bone-Patellar Tendon-Bone Grafting
+Replacement Arthroplasty
+Ankle Arthroplasty  Replacement
+Elbow Arthroplasty  Replacement
+Finger Arthroplasty  Replacement
+Hip Arthroplasty  Replacement
+Knee Arthroplasty  Replacement
+Shoulder Arthroplasty  Replacement
+Hemiarthroplasty
+Total Disc Replacement
+Subchondral Arthroplasty
+Posterior Cruciate Ligament Reconstruction
+Cervicoplasty
+Dermatologic Surgical Procedures
+Blepharoplasty
+Chemexfoliation
+Dermabrasion
+Mohs Surgery
+Rhytidoplasty
+Skin Transplantation
+Guided Tissue Regeneration
+Periodontal Guided Tissue Regeneration
+Herniorrhaphy
+Limb Salvage
+Lipectomy
+Mammaplasty
+Breast Implantation
+Rhinoplasty
+Scleroplasty
+Sex Reassignment Surgery
+Tissue Expansion
+Nerve Expansion
+Ulnar Collateral Ligament Reconstruction
+Reoperation
+Second-Look Surgery
+Splenectomy
+Computer-Assisted Surgery
+Robotic Surgical Procedures
+Symphysiotomy
+Thoracic Surgical Procedures
+Cardiac Surgical Procedures
+Arterial Switch Operation
+Cardiac Valve Annuloplasty
+Mitral Valve Annuloplasty
+Cardiomyoplasty
+Induced Heart Arrest
+Deep Hypothermia Induced Circulatory Arrest
+Right Heart Bypass
+Fontan Procedure
+Heart Massage
+Heart Transplantation
+Heart-Lung Transplantation
+Heart Valve Prosthesis Implantation
+Transcatheter Aortic Valve Replacement
+Myocardial Revascularization
+Coronary Angioplasty  Balloon
+Coronary Atherectomy
+Coronary Artery Bypass
+Off-Pump Coronary Artery Bypass
+Internal Mammary-Coronary Artery Anastomosis
+Transmyocardial Laser Revascularization
+Norwood Procedures
+Fontan Procedure
+Pericardial Window Techniques
+Pericardiectomy
+Pericardiocentesis
+Mediastinoscopy
+Pulmonary Surgical Procedures
+Bronchoscopy
+Collapse Therapy
+Pneumonolysis
+Artificial Pneumothorax
+Lung Transplantation
+Heart-Lung Transplantation
+Pneumonectomy
+Sternotomy
+Thoracoplasty
+Thoracoscopy
+Video-Assisted Thoracic Surgery
+Thoracostomy
+Thoracotomy
+Thymectomy
+Tracheostomy
+Tracheotomy
+Transplantation
+Cell Transplantation
+Islets of Langerhans Transplantation
+Stem Cell Transplantation
+Cord Blood Stem Cell Transplantation
+Hematopoietic Stem Cell Transplantation
+Peripheral Blood Stem Cell Transplantation
+Mesenchymal Stem Cell Transplantation
+Cold Ischemia
+Organ Transplantation
+Heart Transplantation
+Heart-Lung Transplantation
+Kidney Transplantation
+Liver Transplantation
+Lung Transplantation
+Heart-Lung Transplantation
+Pancreas Transplantation
+Vascularized Composite Allotransplantation
+Facial Transplantation
+Hand Transplantation
+Replantation
+Tooth Replantation
+Tissue and Organ Harvesting
+Donor Selection
+Fertility Preservation
+Oocyte Retrieval
+Operative Blood Salvage
+Sperm Retrieval
+Tissue Transplantation
+Bone Marrow Transplantation
+Bone Transplantation
+Bone-Patellar Tendon-Bone Grafting
+Brain Tissue Transplantation
+Corneal Transplantation
+Epikeratophakia
+Penetrating Keratoplasty
+Descemet Stripping Endothelial Keratoplasty
+Fetal Tissue Transplantation
+Liver Transplantation
+Skin Transplantation
+Autologous Transplantation
+Heterologous Transplantation
+Heterotopic Transplantation
+Homologous Transplantation
+Isogeneic Transplantation
+Warm Ischemia
+Ultrasonic Surgical Procedures
+Lithotripsy
+Laser Lithotripsy
+Phacoemulsification
+Piezosurgery
+Urogenital Surgical Procedures
+Castration
+Orchiectomy
+Ovariectomy
+Gynecologic Surgical Procedures
+Female Circumcision
+Colposcopy
+Colpotomy
+Culdoscopy
+Dilatation and Curettage
+Vacuum Curettage
+Endometrial Ablation Techniques
+Hysterectomy
+Vaginal Hysterectomy
+Trachelectomy
+Hysteroscopy
+Ovariectomy
+Salpingectomy
+Salpingostomy
+Tubal Sterilization
+Uterine Artery Embolization
+Uterine Myomectomy
+Sex Reassignment Surgery
+Reproductive Sterilization
+Involuntary Sterilization
+Sterilization Reversal
+Vasovasostomy
+Tubal Sterilization
+Vasectomy
+Urologic Surgical Procedures
+Cystectomy
+Cystoscopy
+Cystotomy
+Kidney Transplantation
+Nephrectomy
+Ureteroscopy
+Urinary Diversion
+Cystostomy
+Percutaneous Nephrostomy
+Ureterostomy
+Male Urologic Surgical Procedures
+Male Circumcision
+Orchiectomy
+Orchiopexy
+Penile Implantation
+Prostatectomy
+Transurethral Resection of Prostate
+Transrectal Ultrasound  High-Intensity Focused
+Vasectomy
+Vasovasostomy
+Wound Closure Techniques
+Abdominal Wound Closure Techniques
+Negative-Pressure Wound Therapy
+Suture Techniques
+Surgical Stapling
+Tenodesis
+Sutureless Surgical Procedures

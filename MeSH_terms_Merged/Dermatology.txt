@@ -1,0 +1,1003 @@
+Lupus Erythematosus, Systemic
+Granuloma Annulare
+Chondromalacia Patellae
+Keratoderma, Palmoplantar, Epidermolytic
+Osteochondritis
+Dermatitis Herpetiformis
+Skin Abnormalities
+Juvenile rheumatoid arthritis
+Varicose Ulcer
+Hypotrichosis
+Scabies <infestation>
+Furunculosis
+Cutis Laxa
+Ichthyosis Vulgaris
+Fox Fordyce disease
+ALBINOIDISM, OCULOCUTANEOUS, AUTOSOMAL DOMINANT
+Skin Diseases, Bacterial
+Pityriasis Rosea
+Melanosis coli
+Acneiform Eruptions
+Skin Diseases, Viral
+Pityriasis
+Tinea <invertebrate>
+Ectodermal Dysplasia
+Hermanski-Pudlak Syndrome
+Panniculitis, Peritoneal
+Specimen Source Codes - Carbuncle
+Vesicular eczema of hands and/or feet
+Cutis marmorata
+Unilateral Breast Carcinoma
+Junctional Epidermolysis Bullosa
+Gynecomastia Adverse Event
+Erythrasma
+Scleromyxedema
+Breast Carcinoma
+Hypopigmentation Adverse Event
+Dermatitis, Atopic
+Exfoliative dermatitis
+FBN1 gene
+Acellular Dermis
+Staphylococcal Skin Infections
+Herpes Labialis
+Neoplasms, Connective Tissue
+Carcinoma in Situ
+Foot Diseases
+Mast Cell Neoplasm
+Giant Cell Arteritis
+Actinic keratosis
+Seborrheic dermatitis of scalp
+Lentigo
+Mixed Connective Tissue Disease
+Skin Diseases, Metabolic
+Herpes Simplex Infections
+Alopecia Areata
+Linear IgA Bullous Dermatosis
+Sjogren-Larsson Syndrome
+Ectodermal Dysplasia 3, Anhidrotic
+Hyperhidrosis disorder
+Scurfiness of scalp
+Keratosis
+Erythema Induratum
+Familial partial lipodystrophy
+Solitary Myofibromatosis
+Immersion Foot
+Auriculotemporal Syndrome
+Argyria <eukaryote>
+Leukokeratosis, Hereditary Mucosal
+Tietze's Syndrome
+Exanthema
+Mucocutaneous Lymph Node Syndrome
+Sebaceous Gland Neoplasms
+Bullous pemphigoid
+Hepatoerythropoietic Porphyria
+Xeroderma Pigmentosum
+Aspergillosis
+Dermatologist
+Hyperkeratosis
+Galactorrhea not associated with childbirth
+Rosacea
+Pruritus Ani
+Hydroa Vacciniforme
+Pemphigus
+Unilateral Breast Neoplasms
+Mastitis
+Hidradenitis
+Skin Diseases, Genetic
+Lipedema
+Keloid
+Orbital Cellulitis
+Weill-Marchesani syndrome
+Piebaldism
+Torre-Muir syndrome
+NCI CTEP SDC Mastocytosis Sub-Category Terminology
+Breast Neoplasms, Male
+Peutz-Jeghers Syndrome
+Pemphigoid, Benign Mucous Membrane
+Leishmaniasis Infection Pathway
+Mucopolysaccharidoses
+Mucopolysaccharidosis VI
+Skin Vesicle
+Dyskeratosis Congenita
+Ecthyma
+Ichthyosiform Erythroderma, Congenital
+Acne
+Steatocystoma multiplex
+carbuncle
+Drug Eruptions
+Dermatitis, Toxicodendron
+Diffuse Scleroderma
+Argyria
+Caplan Syndrome
+Homocystinuria
+Pyoderma
+Albinism, Ocular
+Porokeratosis of Mibelli
+Sweating, Gustatory
+Dermatitis, Irritant
+Menkes Kinky Hair Syndrome
+Sebaceous Gland Diseases
+Nephrogenic Fibrosing Dermopathy
+Skin Diseases, Eczematous
+Aspergillosis, Allergic Bronchopulmonary
+Pemphigoid Gestationis
+Ichthyoses
+Dermis
+Panniculitis
+Syphilis, Cutaneous
+Histiocytoid hemangioma
+Psoriasis
+Porphyria Cutanea Tarda
+Breast Diseases
+Mammary Neoplasms
+Erythropoietic Protoporphyria
+Granulomatous Mastitis
+Collagen Diseases
+Hyalinosis, Systemic
+Rheumatoid Arthritis
+Diabetic Foot
+Staphylococcal Scalded Skin Syndrome
+Ehlers-Danlos Syndrome
+Benign Mastocytoma
+Blistering eruption
+Turner Syndrome, Male
+Myxoid cyst
+Furunculosis of skin AND/OR subcutaneous tissue
+Skin
+Cafe-au-Lait Spots
+Ellis-Van Creveld Syndrome
+Alternariosis
+Parakeratosis
+Erythema Multiforme
+Scleroderma, Limited
+Dermatitis, Phototoxic
+Trichothiodystrophy Syndromes
+Triple Negative Breast Neoplasms
+Chloracne
+Foot Ulcer
+Peyronie Disease
+Exanthema Subitum
+Urticaria Pigmentosa
+Cellulitis
+Juvenile Xanthogranuloma
+Breast
+Osteogenesis Imperfecta
+Pruritus Vulvae
+Sunburn
+Lactation Disorders
+Larva Migrans
+Hereditary nephritis
+Skin Diseases, Infectious
+Hyperpigmentation
+Ductal
+Cutaneous Candidiasis
+Angioedemas, Hereditary
+Intertrigo
+Lichen Sclerosus et Atrophicus
+Lupus Vulgaris
+Mucocutaneous leishmaniasis
+Loose Anagen Hair Syndrome
+Lipomatosis
+Albinism, Oculocutaneous
+CREST Syndrome
+Leishmaniasis
+keratoacanthoma
+Leishmaniasis, Cutaneous
+Scalp Dermatoses
+Mucinosis, Follicular
+Eczema
+Lichenoid Eruptions
+Erythema Chronicum Migrans
+Granuloma Inguinale
+Solar Erythema
+Mycetoma
+Impetigo
+Buruli Ulcer
+Scleredema Adultorum
+Radiodermatitis
+Hirsutism
+Fusariosis
+Acanthosis Nigricans
+Mastocytoma
+Lice Infestations
+Diaper Rash
+Condylomata Acuminata
+Drug Hypersensitivity Syndrome
+Melanosis
+Ichthyosis Bullosa of Siemens
+Epidermis
+Breast Fibrocystic Disease
+Pityriasis Lichenoides
+Apocrine Glands
+Lobomycosis
+Onchocerciasis
+Rhinophyma
+Sickle Cell Dactylitis
+Dermatitis, Allergic Contact
+Hair follicle structure
+Rheumatoid Nodule
+Dermatomyositis
+Polychondritis, Relapsing
+Pruritus
+Serum Sickness
+Contact Dermatitis
+Benign symmetrical lipomatosis
+Morgellons Disease
+Cartilage Diseases
+Lichen Nitidus
+Candidiasis, Chronic Mucocutaneous
+Epidermodysplasia Verruciformis
+Adiposis Dolorosa
+Pityriasis Rubra Pilaris
+Hypertrichosis
+Dermatology field
+Nail Diseases
+Blister of skin AND/OR mucosa
+Nails, Ingrown
+Placental Steroid Sulfatase Deficiency
+HIV-Associated Lipodystrophy Syndrome
+Pityriasis <bird>
+Skin callus
+Inflammatory Breast Carcinoma
+Photosensitivity Disorders
+Port-Wine Stain
+Neuroaspergillosis
+Lipomatosis, Multiple Symmetrical
+Rheumatism
+Acne Vulgaris
+Epidermolysis Bullosa Acquisita
+Sporotrichosis
+Epidermolysis Bullosa Dystrophica
+Acantholysis
+Mucopolysaccharidosis II
+Sweat Gland Neoplasms
+Breast Cyst
+Mucopolysaccharidosis IV
+Rosacea <invertebrate>
+Cutaneous Mastocytosis
+Necrobiosis Lipoidica
+Epidermolysis Bullosa Simplex
+Miliaria <bird>
+Scabies <Mollusca>
+Tinea Versicolor
+Rhinoscleroma
+Epithelioid hemangioma of skin
+Parapsoriasis
+Palmoplantar Keratosis
+Fibromatosis, Plantar
+Dermatitis, Photoallergic
+Osteopoikilosis (disorder)
+Skin Pigmentation Disorder
+Chromoblastomycosis
+Familial generalized lipodystrophy
+Galactorrhea associated with childbirth
+Strawberry nevus of skin
+Localized scleroderma
+Bronchomalacia
+Rothmund-Thomson syndrome
+Dermatologic disorders
+Keratosis Follicularis
+Capillary malformation (disorder)
+Hypopigmentation disorder
+Buschke-Lowenstein Tumor
+Christ-Siemens-Touraine syndrome
+Livedo Reticularis
+Hereditary Angioedema Type III
+Seborrheic keratosis
+Sneddon Syndrome
+Tinea Pedis
+Hand Dermatoses
+Pemphigus <invertebrate>
+Focal Dermal Hypoplasia
+Albinism
+Paronychia <plant>
+Sclerema Neonatorum
+LATS1 gene
+Skin Diseases, Vesiculobullous
+Necrolytic Migratory Erythema
+Sweet Syndrome
+Tinea Capitis
+Seborrheic dermatitis
+Necrobiotic Xanthogranuloma
+Paronychia Inflammation
+Hypohidrosis
+Congenital ichthyosis
+Pigmentation Disorders
+Hereditary lymphedema and yellow nails
+Adult type dermatomyositis
+Dermatomycoses
+Mucinoses
+LATS1 wt Allele
+Tinea
+Yaws
+Ichthyosis, X-Linked
+Hyalohyphomycosis
+Tracheobronchomalacia
+Mucopolysaccharidosis III
+LEOPARD Syndrome
+Hair Diseases
+Papillon-Lefevre Disease
+Lupus Erythematosus, Cutaneous
+Miliaria
+Epidermolysis Bullosa
+Diffuse
+Pectus carinatum
+Stevens-Johnson Syndrome
+Familial benign pemphigus
+Mucopolysaccharidosis I
+Juvenile arthritis
+Piedra
+Mucopolysaccharidosis VII
+Adult-Onset Still Disease
+Pyoderma Gangrenosum
+Mastocytosis
+Porphyria, Erythropoietic
+Diffuse cutaneous leishmaniasis
+Pseudoxanthoma Elasticum
+Connective Tissue Diseases
+Foot Dermatoses
+Atrophoderma maculatum
+Tinea Favosa
+Kaposi Varicelliform Eruption
+Zlotogora-Ogur syndrome
+Porokeratosis
+Serum Sickness Adverse Event
+Epidermal cells
+Hereditary Angioedema Type I
+Acute Generalized Exanthematous Pustulosis
+Systemic Scleroderma
+Arthritis, Psoriatic
+Dermatitis, Occupational
+Uterine Fibroids
+Acrodermatitis
+Rheumatoid Vasculitis
+Lupus Vasculitis, Central Nervous System
+Malignant Atrophic Papulosis
+Dupuytren Contracture
+Lupus Nephritis
+Leg Dermatoses
+Molluscum Contagiosum
+Necrobiotic Disorders
+Angiomatosis, Bacillary
+Sjogren's Syndrome
+Skin Mastocytoma
+Erythrokeratodermia variabilis
+Acne Keloid
+Laryngomalacia
+Sweat Gland Diseases
+Lupus Erythematosus, Discoid
+Variegate Porphyria
+Vitiligo
+Takayasu Arteritis
+Inflammation of non-human mammary gland
+Ichthyosis linearis circumflexa
+Folliculitis
+Erythema
+Erysipelas
+Erythema Infectiosum
+Lichen Planus
+Skin Diseases, Papulosquamous
+Acne Conglobata
+Lipomatosis, Familial Benign Cervical
+Skin Diseases, Vascular
+Porphyrias, Hepatic
+Facial Dermatoses
+Skin Neoplasms
+Alport Syndrome
+Erythema Nodosum
+Cryopyrin-Associated Periodic Syndromes
+Hyperostosis, Sternocostoclavicular
+Cervicofacial actinomycosis
+Gynecomastia
+Neurocutaneous Syndromes
+Marfan Syndrome
+Carcinoma, Lobular
+Hereditary Autoinflammatory Diseases
+Hyperkeratosis, Epidermolytic
+Noonan Syndrome
+Hereditary Breast and Ovarian Cancer Syndrome
+Bulla
+Onychomycosis
+Galactorrhea
+Congenital Nonbullous Ichthyosiform Erythroderma
+Myxedema
+Chiari-Frommel Syndrome
+Hyperpigmentation Adverse Event
+Pressure Ulcer
+Angioedema
+Felty Syndrome
+Leg Ulcer
+Middle Ear Cholesteatoma
+Sweat Glands
+Neurodermatitis
+Behcet Syndrome
+Polyarteritis Nodosa
+Eccrine Glands
+Digital Dermatitis
+Skin Diseases, Parasitic
+Bloch Sulzberger syndrome
+Systemic Lupus Erythematosus Pathway
+Polymyalgia Rheumatica
+Pachyonychia Congenita
+Onycholysis
+Cerebral Phaeohyphomycosis
+Congenital pectus carinatum
+Hereditary Coproporphyria
+Pinta
+Nicolau Syndrome
+Skin Ulcer
+Perioral Dermatitis
+VITILIGO-ASSOCIATED MULTIPLE AUTOIMMUNE DISEASE SUSCEPTIBILITY 1 (finding)
+Sebaceous Glands
+Cholesteatoma
+Dermatitis
+Familial Multiple Lipomatosis
+Nevus elasticus
+Hidradenitis Suppurativa
+Panniculitis, Lupus Erythematosus
+Alopecia
+Prurigo
+Lipodystrophy
+Cutaneous Fistula
+Lichen Planus, Oral
+Nail-Patella Syndrome
+Acute intermittent porphyria
+Tracheomalacia
+Tuberculosis, Cutaneous
+Myofibroma (morphologic abnormality)
+Panniculitis, Nodular Nonsuppurative
+Palmar-plantar erythrodysesthesia syndrome
+Monilethrix
+Mycetoma (invertebrate)
+Blastomycosis
+Skin Specimen
+Warts
+Urticaria
+Skin
+Dermis
+Acellular Dermis
+Epidermis
+Hair Follicle
+Sebaceous Glands
+Sweat Glands
+Apocrine Glands
+Eccrine Glands
+Dermatology
+Dermatologists
+Skin and Connective Tissue Diseases
+Connective Tissue Diseases
+Anetoderma
+Cartilage Diseases
+Chondromalacia Patellae
+Laryngomalacia
+Osteochondritis
+Pectus Carinatum
+Relapsing Polychondritis
+Tietze's Syndrome
+Tracheobronchomalacia
+Bronchomalacia
+Tracheomalacia
+Cellulitis
+Orbital Cellulitis
+Collagen Diseases
+Ehlers-Danlos Syndrome
+Epidermolysis Bullosa Dystrophica
+Keloid
+Acne Keloid
+Necrobiotic Disorders
+Granuloma Annulare
+Necrobiosis Lipoidica
+Necrobiotic Xanthogranuloma
+Hereditary Nephritis
+Osteogenesis Imperfecta
+Cutis Laxa
+Dermatomyositis
+Dupuytren Contracture
+Plantar Fibromatosis
+Homocystinuria
+Lipedema
+Cutaneous Lupus Erythematosus
+Discoid Lupus Erythematosus
+Lupus Erythematosus Panniculitis
+Systemic Lupus Erythematosus
+Lupus Nephritis
+Central Nervous System Lupus Vasculitis
+Marfan Syndrome
+Mixed Connective Tissue Disease
+Mucinoses
+Ganglion Cysts
+Follicular Mucinosis
+Mucopolysaccharidoses
+Mucopolysaccharidosis I
+Mucopolysaccharidosis II
+Mucopolysaccharidosis III
+Mucopolysaccharidosis IV
+Mucopolysaccharidosis VI
+Mucopolysaccharidosis VII
+Myxedema
+Scleredema Adultorum
+Scleromyxedema
+Connective Tissue Neoplasms
+Myofibroma
+Noonan Syndrome
+Osteopoikilosis
+Panniculitis
+Erythema Induratum
+Lupus Erythematosus Panniculitis
+Nodular Nonsuppurative Panniculitis
+Peritoneal Panniculitis
+Penile Induration
+Pseudoxanthoma Elasticum
+Rheumatic Diseases
+Juvenile Arthritis
+Rheumatoid Arthritis
+Caplan Syndrome
+Felty Syndrome
+Rheumatoid Nodule
+Rheumatoid Vasculitis
+Sjogren's Syndrome
+Adult-Onset Still's Disease
+Sternocostoclavicular Hyperostosis
+Polymyalgia Rheumatica
+Localized Scleroderma
+Systemic Scleroderma
+Diffuse Scleroderma
+Limited Scleroderma
+CREST Syndrome
+Weill-Marchesani Syndrome
+Skin Diseases
+Acneiform Eruptions
+Acne Keloid
+Acne Vulgaris
+Acne Conglobata
+Chloracne
+Angiolymphoid Hyperplasia with Eosinophilia
+Breast Diseases
+Breast Cyst
+Breast Neoplasms
+Breast Carcinoma In Situ
+Male Breast Neoplasms
+Breast Carcinoma  Ductal
+Lobular Carcinoma
+Hereditary Breast and Ovarian Cancer Syndrome
+Inflammatory Breast Neoplasms
+Unilateral Breast Neoplasms
+Triple Negative Breast Neoplasms
+Fibrocystic Breast Disease
+Gynecomastia
+Lactation Disorders
+Galactorrhea
+Chiari-Frommel Syndrome
+Mastitis
+Granulomatous Mastitis
+Cutaneous Fistula
+Dermatitis
+Acrodermatitis
+Dandruff
+Atopic Dermatitis
+Contact Dermatitis
+Allergic Contact Dermatitis
+Photoallergic Dermatitis
+Toxicodendron Dermatitis
+Irritant Dermatitis
+Phototoxic Dermatitis
+Diaper Rash
+Occupational Dermatitis
+Exfoliative Dermatitis
+Dermatitis Herpetiformis
+Perioral Dermatitis
+Seborrheic Dermatitis
+Drug Eruptions
+Acute Generalized Exanthematous Pustulosis
+Drug Hypersensitivity Syndrome
+Erythema Nodosum
+Hand-Foot Syndrome
+Nicolau Syndrome
+Serum Sickness
+Stevens-Johnson Syndrome
+Eczema
+Dyshidrotic Eczema
+Intertrigo
+Neurodermatitis
+Radiodermatitis
+Dermatomyositis
+Erythema
+Erythema Chronicum Migrans
+Erythema Induratum
+Erythema Infectiosum
+Erythema Multiforme
+Stevens-Johnson Syndrome
+Erythema Nodosum
+Erythrokeratodermia Variabilis
+Sweet Syndrome
+Exanthema
+Exanthema Subitum
+Facial Dermatoses
+Perioral Dermatitis
+Foot Diseases
+Plantar Fibromatosis
+Foot Dermatoses
+Tinea Pedis
+Foot Ulcer
+Immersion Foot
+Hair Diseases
+Folliculitis
+Acne Keloid
+Hirsutism
+Hypertrichosis
+Hypotrichosis
+Alopecia
+Alopecia Areata
+Loose Anagen Hair Syndrome
+Follicular Mucinosis
+Menkes Kinky Hair Syndrome
+Monilethrix
+Piedra
+Hand Dermatoses
+Keratoacanthoma
+Keratosis
+Callosities
+Cholesteatoma
+Middle Ear Cholesteatoma
+Darier Disease
+Erythrokeratodermia Variabilis
+Ichthyosis
+Congenital Ichthyosiform Erythroderma
+Epidermolytic Hyperkeratosis
+Lamellar Ichthyosis
+Netherton Syndrome
+Ichthyosis Bullosa of Siemens
+Ichthyosis Vulgaris
+X-Linked Ichthyosis
+Sjogren-Larsson Syndrome
+Palmoplantar Keratoderma
+Diffuse Keratoderma  Palmoplantar
+Epidermolytic Keratoderma  Palmoplantar
+Papillon-Lefevre Disease
+Actinic Keratosis
+Seborrheic Keratosis
+Parakeratosis
+Porokeratosis
+Leg Dermatoses
+Lipomatosis
+Adiposis Dolorosa
+Familial Multiple Lipomatosis
+Multiple Symmetrical Lipomatosis
+Cutaneous Lupus Erythematosus
+Discoid Lupus Erythematosus
+Lupus Erythematosus Panniculitis
+Mastocytosis
+Mastocytoma
+Skin Mastocytoma
+Cutaneous Mastocytosis
+Skin Mastocytoma
+Urticaria Pigmentosa
+Morgellons Disease
+Nail Diseases
+Nail-Patella Syndrome
+Ingrown Nails
+Onycholysis
+Onychomycosis
+Pachyonychia Congenita
+Steatocystoma Multiplex
+Paronychia
+Yellow Nail Syndrome
+Necrobiotic Disorders
+Granuloma Annulare
+Necrobiosis Lipoidica
+Necrobiotic Xanthogranuloma
+Necrolytic Migratory Erythema
+Nephrogenic Fibrosing Dermopathy
+Panniculitis
+Erythema Induratum
+Lupus Erythematosus Panniculitis
+Nodular Nonsuppurative Panniculitis
+Photosensitivity Disorders
+Photoallergic Dermatitis
+Phototoxic Dermatitis
+Hydroa Vacciniforme
+Sunburn
+Xeroderma Pigmentosum
+Pigmentation Disorders
+Argyria
+Cafe-au-Lait Spots
+Hyperpigmentation
+Melanosis
+Acanthosis Nigricans
+Lentigo
+LEOPARD Syndrome
+Peutz-Jeghers Syndrome
+Hypopigmentation
+Albinism
+Ocular Albinism
+Oculocutaneous Albinism
+Hermanski-Pudlak Syndrome
+Piebaldism
+Vitiligo
+Incontinentia Pigmenti
+Urticaria Pigmentosa
+Xeroderma Pigmentosum
+Yellow Nail Syndrome
+Prurigo
+Pruritus
+Pruritus Ani
+Pruritus Vulvae
+Pyoderma
+Ecthyma
+Pyoderma Gangrenosum
+Rosacea
+Rhinophyma
+Scalp Dermatoses
+Dandruff
+Tinea Capitis
+Tinea Favosa
+Scleredema Adultorum
+Localized Scleroderma
+Systemic Scleroderma
+Diffuse Scleroderma
+Limited Scleroderma
+CREST Syndrome
+Sebaceous Gland Diseases
+Acne Vulgaris
+Acne Conglobata
+Seborrheic Dermatitis
+Follicular Mucinosis
+Rhinophyma
+Sebaceous Gland Neoplasms
+Muir-Torre Syndrome
+Skin Abnormalities
+Acrodermatitis
+Anetoderma
+Dyskeratosis Congenita
+Ectodermal Dysplasia
+Anhidrotic Ectodermal Dysplasia 1
+Anhidrotic Ectodermal Dysplasia 3
+Autosomal Recessive Ectodermal Dysplasia  Hypohidrotic
+Ellis-Van Creveld Syndrome
+Focal Dermal Hypoplasia
+Neurocutaneous Syndromes
+Pachyonychia Congenita
+Steatocystoma Multiplex
+Ehlers-Danlos Syndrome
+Epidermolysis Bullosa
+Epidermolysis Bullosa Acquisita
+Epidermolysis Bullosa Dystrophica
+Junctional Epidermolysis Bullosa
+Epidermolysis Bullosa Simplex
+Ichthyosis
+Congenital Ichthyosiform Erythroderma
+Epidermolytic Hyperkeratosis
+Lamellar Ichthyosis
+Netherton Syndrome
+Ichthyosis Bullosa of Siemens
+Ichthyosis Vulgaris
+X-Linked Ichthyosis
+Sjogren-Larsson Syndrome
+Incontinentia Pigmenti
+Port-Wine Stain
+Pseudoxanthoma Elasticum
+Rothmund-Thomson Syndrome
+Sclerema Neonatorum
+Trichothiodystrophy Syndromes
+Xeroderma Pigmentosum
+Eczematous Skin Diseases
+Atopic Dermatitis
+Contact Dermatitis
+Allergic Contact Dermatitis
+Photoallergic Dermatitis
+Toxicodendron Dermatitis
+Irritant Dermatitis
+Phototoxic Dermatitis
+Diaper Rash
+Occupational Dermatitis
+Exfoliative Dermatitis
+Seborrheic Dermatitis
+Eczema
+Dyshidrotic Eczema
+Intertrigo
+Neurodermatitis
+Genetic Skin Diseases
+Albinism
+Ocular Albinism
+Oculocutaneous Albinism
+Hermanski-Pudlak Syndrome
+Piebaldism
+Cutis Laxa
+Darier Disease
+Atopic Dermatitis
+Dyskeratosis Congenita
+Ectodermal Dysplasia
+Anhidrotic Ectodermal Dysplasia 1
+Anhidrotic Ectodermal Dysplasia 3
+Autosomal Recessive Ectodermal Dysplasia  Hypohidrotic
+Ellis-Van Creveld Syndrome
+Focal Dermal Hypoplasia
+Neurocutaneous Syndromes
+Pachyonychia Congenita
+Steatocystoma Multiplex
+Ehlers-Danlos Syndrome
+Epidermolysis Bullosa
+Epidermolysis Bullosa Acquisita
+Epidermolysis Bullosa Dystrophica
+Junctional Epidermolysis Bullosa
+Epidermolysis Bullosa Simplex
+Erythrokeratodermia Variabilis
+Hereditary Autoinflammatory Diseases
+Behcet Syndrome
+Cryopyrin-Associated Periodic Syndromes
+Systemic Hyalinosis
+Congenital Ichthyosiform Erythroderma
+Epidermolytic Hyperkeratosis
+Lamellar Ichthyosis
+Ichthyosis Bullosa of Siemens
+Ichthyosis Vulgaris
+X-Linked Ichthyosis
+Incontinentia Pigmenti
+Palmoplantar Keratoderma
+Diffuse Keratoderma  Palmoplantar
+Epidermolytic Keratoderma  Palmoplantar
+Papillon-Lefevre Disease
+Hereditary Mucosal Leukokeratosis
+Monilethrix
+Muir-Torre Syndrome
+Netherton Syndrome
+Benign Familial Pemphigus
+Porokeratosis
+Erythropoietic Porphyria
+Hepatic Porphyrias
+Hereditary Coproporphyria
+Acute Intermittent Porphyria
+Porphyria Cutanea Tarda
+Hepatoerythropoietic Porphyria
+Variegate Porphyria
+Erythropoietic Protoporphyria
+Pseudoxanthoma Elasticum
+Rothmund-Thomson Syndrome
+Sjogren-Larsson Syndrome
+Trichothiodystrophy Syndromes
+Xeroderma Pigmentosum
+Infectious Skin Diseases
+Dermatomycoses
+Blastomycosis
+Chronic Mucocutaneous Candidiasis
+Cutaneous Candidiasis
+Chromoblastomycosis
+Hyalohyphomycosis
+Alternariosis
+Aspergillosis
+Allergic Bronchopulmonary Aspergillosis
+Neuroaspergillosis
+Cerebral Phaeohyphomycosis
+Fusariosis
+Lobomycosis
+Mycetoma
+Sporotrichosis
+Tinea
+Onychomycosis
+Tinea Capitis
+Tinea Favosa
+Tinea Pedis
+Tinea Versicolor
+Paronychia
+Bacterial Skin Diseases
+Cervicofacial Actinomycosis
+Bacillary Angiomatosis
+Digital Dermatitis
+Ecthyma
+Erysipelas
+Erythema Chronicum Migrans
+Erythrasma
+Granuloma Inguinale
+Hidradenitis Suppurativa
+Mycetoma
+Pinta
+Rhinoscleroma
+Staphylococcal Skin Infections
+Furunculosis
+Carbuncle
+Impetigo
+Staphylococcal Scalded Skin Syndrome
+Cutaneous Syphilis
+Cutaneous Tuberculosis
+Erythema Induratum
+Lupus Vulgaris
+Yaws
+Parasitic Skin Diseases
+Larva Migrans
+Leishmaniasis
+Cutaneous Leishmaniasis
+Diffuse Cutaneous Leishmaniasis
+Mucocutaneous Leishmaniasis
+Lice Infestations
+Onchocerciasis
+Scabies
+Viral Skin Diseases
+Erythema Infectiosum
+Exanthema Subitum
+Herpes Simplex
+Herpes Labialis
+Kaposi Varicelliform Eruption
+Molluscum Contagiosum
+Warts
+Condylomata Acuminata
+Buschke-Lowenstein Tumor
+Epidermodysplasia Verruciformis
+Metabolic Skin Diseases
+Lipodystrophy
+HIV-Associated Lipodystrophy Syndrome
+Congenital Generalized Lipodystrophy
+Familial Partial Lipodystrophy
+Necrobiosis Lipoidica
+Papulosquamous Skin Diseases
+Seborrheic Dermatitis
+Lichenoid Eruptions
+Lichen Nitidus
+Lichen Planus
+Oral Lichen Planus
+Lichen Sclerosus et Atrophicus
+Pityriasis Lichenoides
+Parapsoriasis
+Pityriasis Lichenoides
+Pityriasis
+Pityriasis Lichenoides
+Pityriasis Rosea
+Pityriasis Rubra Pilaris
+Psoriasis
+Psoriatic Arthritis
+Vascular Skin Diseases
+Bacillary Angiomatosis
+Behcet Syndrome
+Giant Cell Arteritis
+Livedo Reticularis
+Malignant Atrophic Papulosis
+Mucocutaneous Lymph Node Syndrome
+Polyarteritis Nodosa
+Pyoderma Gangrenosum
+Sneddon Syndrome
+Takayasu Arteritis
+Urticaria
+Angioedema
+Hereditary Angioedemas
+Hereditary Angioedema Type III
+Hereditary Angioedema Types I and II
+Vesiculobullous Skin Diseases
+Acantholysis
+Blister
+Dermatitis Herpetiformis
+Dyshidrotic Eczema
+Epidermolysis Bullosa
+Epidermolysis Bullosa Acquisita
+Epidermolysis Bullosa Dystrophica
+Junctional Epidermolysis Bullosa
+Epidermolysis Bullosa Simplex
+Erythema Multiforme
+Stevens-Johnson Syndrome
+Hydroa Vacciniforme
+Linear IgA Bullous Dermatosis
+Benign Mucous Membrane Pemphigoid
+Bullous Pemphigoid
+Pemphigoid Gestationis
+Pemphigus
+Benign Familial Pemphigus
+Skin Neoplasms
+Sebaceous Gland Neoplasms
+Muir-Torre Syndrome
+Sweat Gland Neoplasms
+Skin Ulcer
+Buruli Ulcer
+Leg Ulcer
+Foot Ulcer
+Diabetic Foot
+Varicose Ulcer
+Pressure Ulcer
+Pyoderma Gangrenosum
+Sweat Gland Diseases
+Hidradenitis
+Hidradenitis Suppurativa
+Hyperhidrosis
+Gustatory Sweating
+Hypohidrosis
+Miliaria
+Fox-Fordyce Disease
+Sweat Gland Neoplasms
+Juvenile Xanthogranuloma

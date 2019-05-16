@@ -1,0 +1,1983 @@
+Ventriculography, First-Pass
+Ventricular Septal Rupture
+Shwartzman Phenomenon
+Ventricular Fibrillation Adverse Event
+Malignant Atrophic Papulosis
+Coronary sinus structure
+Death from overwork
+Wolff-Parkinson-White Syndrome
+Susac Syndrome
+Intracranial Aneurysm
+Aortic Aneurysm
+Erythrocyte volume
+Microscopic Angioscopy
+Vascular Remodeling
+Structure of valve of vein
+Structure of anatomic arteriovenous anastomosis
+Aortic aneurysm without mention of rupture NOS
+Forced expiratory volume function
+Anterior Myocardial Infarction by ECG Finding
+Heterotaxy Syndrome
+Heart Aneurysm
+Lymphopoiesis
+Liver Circulation
+Pericarditis Adverse Event
+Leukopoiesis
+Plethysmography, Impedance
+Blood-Aqueous Barrier
+Aneurysm, Infected
+Blood Bactericidal Activity
+Exit Block by ECG Finding
+Blood-Nerve Barrier
+Hematoma, Subdural
+Hypotension
+Photoplethysmography
+Body Surface Potential Mapping
+Oxygen saturation measurement
+Carotid Artery Injuries
+Out-of-Hospital Cardiac Arrest
+Discordant ventriculoarterial connection
+Cell Respiration
+Hematoma, Subdural, Intracranial
+Elevated
+Splenic Infarction
+Exudative retinopathy
+Radionuclide Ventriculography
+Externalized Heart <Experimental Organism>
+Blood pressure finding
+Idiopathic hypertrophic subaortic stenosis
+Mitral Valve Prolapse Syndrome
+Embolism
+Structure of cerebral vein
+Arteriosclerosis Obliterans
+Brugada Syndrome (disorder)
+Cardiology service
+Aneurysm, Ruptured
+Angiodysplasia
+Heart Function Tests
+Subacute Bacterial Endocarditis
+Dextrocardia
+Central Nervous System Venous Angioma
+Structure of renal vein
+Cutis marmorata
+Epigastric Arteries
+Single umbilical artery
+Aortic valve structure
+Budd-Chiari Syndrome
+Pulmonary Wedge Pressure
+Tachycardia, Atrioventricular Nodal Reentry
+Whole Blood Coagulation Time
+Bleeding time result
+Sturge-Weber Syndrome
+Congenital atresia of pulmonary valve
+Temporal Arteries
+Angioscopy
+Atrial Function, Left
+Media layer
+Heart Sounds
+Thoracic aorta
+Vasculitis Adverse Event
+Blood Viscosity
+Blood - brain barrier anatomy
+Echocardiography, Doppler
+Code System Type - Internal
+Vasculitis
+Endothelium, Vascular
+Maximal Midexpiratory Flow Rate measurement
+Diagnostic Techniques, Cardiovascular
+Low Cardiac Output
+FBN1 gene
+Infarction, Posterior Cerebral Artery
+Structure of venule
+Hematoma Adverse Event
+Ventilation-Perfusion Ratio
+TelecommunicationCapabilities <voice>
+Platelet Adhesiveness
+Carcinoid Heart Disease
+ST Elevation Myocardial Infarction by ECG Finding
+Carotid Artery Diseases
+Giant Cell Arteritis
+Structure of subclavian artery
+Portal vein structure
+Respiratory Tract Absorption
+Acute Coronary Syndrome
+Thoracic Arteries
+Forced expiratory volume procedure
+Ventricular Function
+Erythrocyte aggregation measurement
+Carotid Intima-Media Thickness
+Structure of carotid sinus
+Bradycardia
+Resistance.airway:FldResist:Pt:Airway:Qn
+Ventricular Dysfunction, Right
+Basal Ganglia Cerebrovascular Disease
+NOTCH3 wt Allele
+Bronchoconstriction
+Varicose Ulcer
+Capillary Resistance
+Oculovestibuloauditory syndrome
+Subarachnoid Hemorrhage, Intracranial
+Intracranial Arteriovenous Malformation
+Masked Hypertension
+Angiodysplasia of colon
+Portal System
+Congestive heart failure
+Atrial Remodeling
+Cavernous
+Sinus Arrhythmia Adverse Event
+Electrophysiologic Techniques, Cardiac
+Cardiology discipline
+Inferior Wall Myocardial Infarction
+Maximal Expiratory Flow Rate measurement
+Blue Toe Syndrome
+Structure of popliteal vein
+Brain Ischemia
+Compliance:Compli:Pt:Lung:Qn
+Pulse Rate
+Arteriovenous fistula
+Pulmonary Gas Exchange
+Venous Blood Pressure
+Torsades de Pointes
+Neurovascular Coupling
+Blood Cell Count
+Parasystole
+May-Thurner Syndrome
+Platelet aggregation test result
+Mucocutaneous Lymph Node Syndrome
+Peripheral Vascular Diseases
+Myocardial Contraction
+Lymphocyte Count measurement
+Neovascularization, Physiologic
+Expiration, function
+Aortitis
+CREST Syndrome
+Postpericardiotomy Syndrome
+Varicocele
+Tunica Intima
+CADASIL Syndrome
+Voice Quality
+Cardiac Volume
+Fibrin Clot Lysis Time
+Pulmonary Valve Stenosis
+Inhalation Route of Drug Administration
+Congenital atresia of pulmonary artery
+Consent Type - Coronary Angiography
+Brain Infarction
+Cardiomyopathy, Alcoholic
+Pulmonary Ventilation
+Subaortic stenosis
+Respiratory Sounds
+Blood Plasma Volume
+Hand-Arm Vibration Syndrome
+Cerebrovascular Circulation
+Cerebral Amyloid Angiopathy
+Extramedullary Hematopoiesis Function
+Blood viscosity measurement
+Traumatic cerebral hemorrhage
+Mucociliary Clearance
+Aortography
+Veins
+Placental Circulation
+Systole
+Hemostasis procedure
+KSS gene
+Capillary Leak Syndrome
+Heart Septal Defects
+Great saphenous vein structure
+Systemic Vasculitis
+Blood Pressure
+Erythrocyte aggregation function
+Electrocardiogram: myocardial infarction (finding)
+Bradycardia by ECG Finding
+Central Nervous System Vascular Malformations
+Basal Ganglia Hemorrhage
+Arteriovenous anastomosis procedure
+Stroke, Lacunar
+Moyamoya disease 1
+Subarachnoid Hemorrhage, Traumatic
+Congenital stenosis of pulmonary artery
+Pulmonary veins
+Dissecting hemorrhage
+Patent ductus arteriosus - persisting type
+Structure of basilar artery
+Pulse Wave Analysis
+Blood-Retinal Barrier
+Diabetic Angiopathies
+Optic Neuropathy, Ischemic
+Venous Thrombosis
+Alagille Syndrome
+Intracranial Arteriosclerosis
+Thromboembolism
+Respiratory rate
+Atrial Pressure
+Shy-Drager Syndrome
+Discrete Subaortic Stenosis
+Cardiomegaly
+Epicardial Mapping
+Myocardial Ischemia
+Structure of ciliary artery
+Mesenteric Arteries
+Iliac Aneurysm
+Ventricular Dysfunction
+Cardiomyopathy, Dilated
+Peripheral Arterial Diseases
+Churg-Strauss Syndrome
+Diastolic phase
+Systemic arterial pressure
+Retinal Vasculitis
+Ankle brachial pressure index (observable entity)
+Spinal Cord Ischemia
+Brain Hemorrhage, Traumatic
+Fabry Disease
+Blood Pressure Monitoring, Ambulatory
+Heart Rate Determination
+Takotsubo Cardiomyopathy
+Structure of anterior cerebral artery
+Aortic Aneurysm, Abdominal
+Structure of splenic vein
+Carotid Stenosis
+Pre-Excitation, Mahaim-Type
+Coronary Restenosis
+Heart Rupture, Post-Infarction
+ELN gene
+Structure of brachial artery
+Acquired Immunodeficiency Syndrome
+Intracranial Hemorrhage, Hypertensive
+Edema, Cardiac
+Breath Holding
+Sinus Tachycardia Adverse Event
+Hematoma
+Myoblasts, Cardiac
+DiGeorge Syndrome
+Stroke Volume
+Structure of uterine artery
+Vectorcardiography
+Vasculitis, Central Nervous System
+Tissue Dissection
+Fat embolism as early complication of trauma (disorder)
+Double Outlet Right Ventricle
+Stable angina
+Respiratory Transport
+Vascular Neoplasms
+Shock, Cardiogenic
+Thrombosis of blood vessel
+Coronary Thrombosis
+Peak expiratory flow rate
+Coronary Stenosis
+Myocardial infarction:Finding:Point in time:^Patient:Ordinal
+Loeys-Dietz Syndrome
+Structure of axillary artery
+Aortic Valve Insufficiency
+Arterial pulse pressure
+TT - Thrombin time result
+Vasoconstriction [PE]
+Premature ventricular contractions
+Electrocardiography
+Air embolism as early complication of trauma (disorder)
+Ehlers-Danlos Syndrome
+Endocardial Fibroelastosis
+Infarction, Anterior Cerebral Artery
+Collateral Circulation
+Waldenstrom Macroglobulinemia
+Renal Artery Obstruction
+Left ventricular hypertrophy:Finding:Point in time:^Patient:Ordinal
+Sinus Arrhythmia
+Vertebral Artery Dissection
+Phagocytosis
+Atrial Flutter by ECG Finding
+Cardiac Output, High
+Coronary angiography
+Renal Plasma Flow, Effective
+Intracranial Thrombosis
+Gated Blood-Pool Imaging
+Internal
+Structure of purkinje fibers
+Echocardiography, Three-Dimensional
+Closing Volume
+Mesenteric Vascular Occlusion
+Postthrombotic Syndrome
+Vascular Stiffness
+Pulmonary artery structure
+Blood Clot
+Aortic Valve Stenosis
+Vascular Patency
+Hypertrophic
+Clot retraction
+Erythrocyte aggregation result
+Sinus Tachycardia
+Hemorrhoids Adverse Event
+Cardiac Output
+Hepatic artery
+Myocardial rupture
+Tricuspid Valve Stenosis
+Pituitary Apoplexy
+Echocardiography, Stress
+Coronary Vessel Anomalies
+Blood Volume Determination
+Cardiac foramen ovale
+Hypertrophy
+Rheumatic mitral stenosis
+Sudden onset (attribute)
+Renin-angiotensin system
+Hemangioma of the Central Nervous System
+Hematocrit procedure
+Blood Circulation Time
+Fibromuscular Dysplasia
+Varicosity
+Brain Stem Hemorrhage, Traumatic
+Cardiac Catheterization Procedures
+Abdominal aorta structure
+Angina Pectoris
+Angioedemas, Hereditary
+Smooth
+Capillary vessel
+Pulmonary Circulation
+Foramen Ovale, Patent
+Ventricular Dysfunction, Left
+Supraventricular Tachycardia Adverse Event
+Complete Blood Count
+Fat embolism (disorder)
+Postphlebitic Syndrome
+Carney Complex
+Raynaud Disease
+Tachycardia, Sinoatrial Nodal Reentry
+White Coat Hypertension
+Ventricular Fibrillation by ECG Finding
+Structure of vasa vasorum
+Pulmonary Stenosis
+continuous electrocardiogram sinus tachycardia
+Heart Block by ECG Finding
+Airway resistance
+Prolonged QT interval
+Osmotic Fragility test
+Sagittal Sinus Thrombosis
+Lung residual volume measurement
+Pericardial sac structure
+Familial Cerebral Amyloid Angiopathy
+Pneumopericardium
+Wolff-Parkinson-White Syndrome Adverse Event
+Thoracic Outlet Syndrome
+Heart sounds:Find:Pt:Heart:Nom
+Arteritis
+Heart Septum
+Coronary-Subclavian Steal Syndrome
+Ataxia Telangiectasia
+Infarction, Middle Cerebral Artery
+Pulmonary Elimination
+Character String Data Type
+Subclavian Steal Syndrome
+Dextrocardia by ECG Finding
+Cardiac Arrest
+Tidal Volume
+Hypertension, Renovascular
+Spinal Cord Vascular Diseases
+Cor Triatriatum
+Erythromelalgia
+Angiomatosis, Bacillary
+Left Ventricular Function
+Coronary Occlusion
+Systole <eukaryote>
+Bleeding time procedure
+Reticulocytosis
+Atherosclerosis
+Blood capillaries
+Pulmonary Subvalvular Stenosis
+Hematoma, Subdural, Chronic
+Endomyocardial Fibrosis
+Tachycardia
+Lutembacher Syndrome
+Cervical Rib Syndrome
+Ventricular septum
+Tricuspid valve structure
+Radionuclide Angiography
+Leriche Syndrome
+Functional Residual Capacity
+Hematopoiesis
+Scurvy
+Cranial Sinuses
+Ballistocardiography
+Mitral Valve Stenosis
+Angiomatosis
+Inspiration function
+Structure of auricular appendage
+Supraventricular Tachycardia by ECG Finding
+Cardiac Tamponade
+Mitral Valve
+Ectopia Cordis
+Cavernous Sinus Thrombosis
+3-Methylglutaconic aciduria type 2
+Structure of maxillary artery
+Platelet Count measurement
+Hypoplastic Left Heart Syndrome
+Familial restrictive cardiomyopathy (disorder)
+Dilated Cardiomyopathy Pathway
+Restrictive cardiomyopathy
+Arterio-Arterial Fistula
+Hypoxia-Ischemia, Brain
+Supravalvular aortic stenosis
+Mesenteric vascular insufficiency
+Tachycardia, Paroxysmal
+Cerebrovascular accident
+Arteries
+Heart rate:Number = Count/Time:Point in time:^Fetus:Quantitative
+Angiocardiography
+Anterior Spinal Artery Syndrome
+Capacity.total:Volume:Point in time:Respiratory system:Quantitative
+Maximal Expiratory Flow-Volume Curves
+Microcirculation
+Cardiomyopathies
+Structure of central retinal artery
+Granulomatosis with polyangiitis
+Heart Valves
+Coronary Artery Disease
+Cardiac conduction system
+Cerebral arterial aneurysm
+Microscopic Polyarteritis
+Capacity.inspiratory:Volume:Point in time:Respiratory system:Quantitative
+Cardiac Death
+Atrial Fibrillation
+Cardiovascular finding
+Sinus Pericranii
+Premature Cardiac Complex
+Isolated Noncompaction of the Ventricular Myocardium
+Cineangiography
+Intracranial
+Romano-Ward Syndrome
+Hematoma, Epidural, Cranial
+Bundle of His
+Structure of atrioventricular node
+Splanchnic Circulation
+Cerebral Small Vessel Diseases
+Tachycardia, Ectopic Atrial
+Rh Isoimmunization
+Vascular anomaly
+Ultrasonography, Doppler, Pulsed
+Intracranial hemorrhage following injury
+Tachycardia by ECG Finding
+Myocarditis Adverse Event
+Aneurysm
+Colitis, Ischemic
+Post-Exercise Hypotension
+Blood coagulation
+Supraventricular tachycardia
+Vasculitis of the skin
+Angiography, Digital Subtraction
+Pericarditis
+Aortic Valve Prolapse
+Pericarditis, Tuberculous
+Arteriolosclerosis
+Renal hypertension
+Hereditary hemorrhagic telangiectasia
+Coloring Excipient
+Crisscross Heart
+Cerebral Infarction
+High
+Angina, Unstable
+Heart Failure, Diastolic
+Adverse Event Associated with Vascular
+Coronary Artery Vasospasm
+Singing
+Ventricular Fibrillation
+Portal Pressure
+Fetal Heart
+Embolism, Paradoxical
+Yawning
+Venography - procedure
+Structure of transverse sinus
+Scimitar Syndrome
+Patent ductus arteriosus
+Vascular
+Structure of umbilical artery
+Platelet Activation
+Hemangioma, Cavernous
+Long QT Syndrome
+Structure of renal artery
+Diastole
+Walk Test
+Modality - Angioscopy
+Cardiovascular Diseases
+Physiologic intraventricular pressure
+Expiratory Reserve Volume
+Pulmonary Valve Insufficiency
+Heart Valve Prolapse
+Peak expiratory flow rate measurement
+Pulmonary Embolism
+Vascular System Injuries
+Sinoatrial Block
+Obscure African cardiomyopathy
+Myocarditis
+ST segment elevation myocardial infarction
+Vasodilation
+Familial cardiomyopathy
+Dyspnea, Paroxysmal
+Superior vena cava structure
+Intravascular systolic.tibial artery/Brachial artery:PresRto:Pt:Arterial system:Qn
+Muscle
+Pulmonary Diffusing Capacity
+Phenomenon
+Pulmonary trunk sinus
+Endoleak
+Pulse phenomenon
+Cerebrovascular Disorders
+Myelopoiesis
+Jervell-Lange Nielsen Syndrome
+Transient Cerebral Ischemia
+Inferior vena cava structure
+Celiac Artery
+Structure of arteriole
+Venous Insufficiency
+Transposition of Great Vessels
+Diabetic Cardiomyopathies
+Plethysmography, Whole Body
+Retinal Vein Occlusion
+Heart Atrium
+Common carotid artery
+Vital capacity
+Chagas Cardiomyopathy
+External carotid artery structure
+Plethysmography
+Structure of popliteal artery
+Sneezing
+Phonocardiography
+Diabetic Retinopathy
+Ventricular Septal Defects
+Hyperemia
+Structure of subclavian vein
+Retinal Artery Occlusion
+Microvascular Angina
+Sarcoglycanopathies
+Echocardiography, Four-Dimensional
+Tricuspid Valve Insufficiency
+Myocardial Infarction ECG Assessment
+Blood Circulation
+CARDIOVASCULAR SYSTEM DRUGS
+Vertebrobasilar Insufficiency
+Brain Stem Infarctions
+Cardiac Electrophysiology
+Upper Extremity Deep Vein Thrombosis
+Tuberculosis, Cardiovascular
+angiogram
+Heart Failure, Systolic
+Livedo Reticularis
+Hereditary Angioedema Type III
+Turner Syndrome
+Left Ventricular Hypertrophy
+Forced Expiratory Flow Rates
+Preexcitation Syndrome
+Kallikrein-Kinin System
+Structure of vertebral artery
+Structure of ductus arteriosus
+acute
+Apraxia, oculomotor, Cogan type
+Central Nervous System
+Red Blood Cell Count measurement
+Airway Remodeling
+Lung Compliance
+Hemorrhoids
+Cardiovascular Infections
+Heart Neoplasm
+Respiratory Sinus Arrhythmia by ECG Finding
+Carotid artery dissection
+Electrocardiography, Ambulatory
+Blood Flow Velocity
+Cerebrovascular Trauma
+Capillary Permeability
+Coagulation thrombin induced:Time:Pt:PPP:Qn:Coag
+Coagulation tissue factor induced:Time:Pt:PPP:Qn:Coag
+Structure of posterior cerebral artery
+Subarachnoid Hemorrhage
+Pericardial effusion
+Vital capacity test
+Ventricular Flutter by ECG Finding
+Pericytes
+Vasa Nervorum
+Traumatic intracranial hemorrhage
+Cardiac Arrhythmia
+CD4 Count determination procedure
+Aortopulmonary Septal Defect
+Accelerated Idioventricular Rhythm
+Structure of brachiocephalic vein
+GULOP gene
+Endocarditis
+Meningeal Arteries
+Sick Sinus Syndrome Adverse Event
+Aneurysm, Dissecting
+Syphilis, Cardiovascular
+White Blood Cell Count procedure
+Coronary Arteriosclerosis
+Structure of radial artery
+Pericardial fluid (substance)
+Aortic Arch Syndromes
+Structure of azygous vein
+Cholesterol Embolism
+Vasoplegia
+respiratory gaseous exchange in organisms
+Saphenous Vein
+Putaminal Hemorrhage
+Tilt-Table Test
+Inhalation Dosing Unit
+Inspiratory Reserve Volume
+Blood-Air Barrier
+Vascular Hemostatic Disorders
+Dementia, Vascular
+Cerebral Hemorrhage
+Activated Partial Thromboplastin Time measurement
+Structure of trunk of portal vein
+LEOPARD Syndrome
+Sick Sinus Syndrome
+Cytophagocytosis
+Bundle-Branch Block
+Tricuspid Atresia
+color additive
+Fluid, Pericardial - Specimen Source Code
+Eisenmenger Complex
+Hemostatic function
+Voice
+Arrhythmogenic Right Ventricular Dysplasia
+Heart Block
+Respiratory Sinus Arrhythmia
+Clot retraction procedure
+CD4/CD8 ratio procedure
+Magnetocardiography
+Structure of cavernous sinus
+Atrial Function, Right
+False aneurysm of artery
+Purpura, Hyperglobulinemic
+Cardiovascular Physiological Phenomena
+Moyamoya Disease
+Torsade de Pointes Adverse Event
+Pulmonary Infarction
+Atrial Function
+Heart failure
+Mitral Valve Insufficiency
+Respiratory physiology
+Cardio-Renal Syndrome
+Thrombosis
+Hemorheology
+Vascular Diseases
+Structure of ulnar artery
+Trilogy of Fallot
+Pulmonary valve structure
+Vena cava structure
+Sneddon Syndrome
+Renal Blood Flow, Effective
+Myocardial Stunning
+Pseudoxanthoma Elasticum
+Pseudoaneurysm
+Vascular constriction (function)
+Voice G-code
+Atrioventricular Nodal Reentry Tachycardia by ECG Finding
+Microaneurysm
+Pregnancy Complications, Cardiovascular
+Ventricular Flutter Adverse Event
+Reticulocyte count (procedure)
+Microvessels
+Turner Syndrome, Male
+Iliac Vein
+Cerebral Arterial Diseases
+Capillary fragility measurement
+Cranial
+Hereditary Angioedema Type I
+Phonation
+Structure of ophthalmic artery
+Truncus Arteriosus, Persistent
+Capacity.functional residual:Volume:Point in time:Respiratory system:Quantitative
+Pericardial effusion body substance
+Vascular resistance
+Kearns-Sayre syndrome
+Stenosis, Pulmonary Vein
+Ventricular Flutter
+Intracranial Embolism
+Cardiography, Impedance
+Rheumatoid Vasculitis
+Lupus Vasculitis, Central Nervous System
+Atrial Premature Complexes
+Coronary Circulation
+MELAS Syndrome
+Myocardial bridging
+Mammary Arteries
+Sinus Thrombosis, Intracranial
+Hypertensive Retinopathy
+Structure of iliac artery
+Multi-infarct dementia
+Structure of atrioventricular canal cushion
+Vascular Capacitance
+Ever diagnosed by a doctor as having an abdominal aortic aneurysm:Finding:Point in time:^Patient:Ordinal
+Superior mesenteric artery structure
+Intracranial Hemorrhages
+Primary Graft Dysfunction
+Electrocardiogram
+Non-Bacterial Thrombotic Endocarditis
+Atrial Fibrillation by ECG Finding
+Cardiotocography
+Central venous pressure
+Adams-Stokes Syndrome
+Lown-Ganong-Levine Syndrome
+Arterial system
+Finding of platelet count
+Vasospasm, Intracranial
+Exercise stress test
+Respiratory Dead Space
+Thrombophlebitis
+Angioedema
+Cardiologists
+Myocardium
+Vascular Fistula
+carotid internal
+Structure of inferior mesenteric artery
+Functional residual capacity measurement
+Blood Gas Monitoring, Transcutaneous
+Ventricular Tachycardia by ECG Finding
+Structure of cerebral artery
+Carotid Arteries
+Tachycardia, Ventricular
+Intra-Abdominal Hypertension
+Hypotension Adverse Event
+Takayasu Arteritis
+Internal Carotid Artery Thrombosis
+Air Embolism
+Myocardial Infarction
+Fluorescein Angiography
+Henoch-Schoenlein Purpura
+Cardiovascular Abnormalities
+Carotid Artery Thrombosis
+Heart
+Magnetic Resonance Angiography
+Erythrocyte Indices
+Multiple Myeloma
+Negation
+Inferior Myocardial Infarction by ECG Finding
+Pulmonary Veno-Occlusive Disease (disorder)
+Williams Syndrome
+Intima
+Heart Auscultation
+Cryoglobulinemia
+Endarteritis
+Tachycardia, Ectopic Junctional
+Structure of splenic artery
+Bronchoconstriction [PE]
+22q11 Deletion Syndrome
+Anterior Compartment Syndrome
+Hereditary bundle branch system defect
+Anterior myocardial infarction
+Structure of brachiocephalic artery
+Central venous pressure finding
+Maximal Midexpiratory Flow Rate
+Residual volume
+Aortic Rupture
+Internal carotid artery structure
+Laser-Doppler Flowmetry
+Carotid-Cavernous Sinus Fistula
+Arterial Occlusive Diseases
+Lateral Medullary Syndrome
+Ventricular Outflow Obstruction
+Rheumatic Heart Disease
+Commotio Cordis
+Structure of sinus of Valsalva
+Acid-Base Equilibrium
+Marfan Syndrome
+Right Ventricular Hypertrophy
+Atrial Flutter
+Sinus Arrest, Cardiac
+Osmotic fragility (finding)
+Tibial Arteries
+Tetralogy of Fallot
+Congenital arteriovenous malformation
+Bland White Garland Syndrome
+Portal Venous System
+Compartment syndromes
+TAZ gene
+Klippel-Trenaunay-Weber Syndrome
+Fractional Flow Reserve, Myocardial
+Heart Rate, Fetal
+Breaths:Number = Count/Time:Point in time:Respiratory system:Quantitative
+Ostium secundum atrial septal defect
+Cranial foramen ovale
+Structure of bronchial artery
+Lemierre Syndrome
+Hypertrophic Cardiomyopathy
+Cardiomegaly, Exercise-Induced
+Ventricular Tachycardia Adverse Event
+Cardiovascular Deconditioning
+hemodynamics (procedure)
+CARDIOVASCULAR SYSTEM DIAGNOSTIC RADIOPHARMACEUTICALS
+Kartagener Syndrome
+Intermittent Claudication
+Hypertension Adverse Event
+Ischemic contracture
+Blood pressure determination
+Non-Infective Endocarditis
+Angina Pectoris, Variant
+Platelet aggregation measurement
+Structure of mesenteric vein
+Erythrocyte Deformability
+Structure of central vein of the retina
+Aortic Diseases
+Vein of Galen Malformations
+Renal Plasma Flow
+Respiratory Mechanics
+Multifocal atrial tachycardia
+Hemodynamics
+Myocardial Perfusion Imaging
+Airway Resistance Test
+Structure of hepatic vein
+Cranial epidural space
+Arteriovenous hemangioma
+Capillary Fragility
+Atrial Septal Defects
+Extramedullary Hematopoiesis (disorder)
+Intracranial Arterial Diseases
+Myocardial Reperfusion Injury
+Phlebitis
+Diabetic Foot
+Tricuspid Valve Prolapse
+Umbilical vein
+chronic
+Thrombin Time Assay
+Cerebral Blood Volume
+Ventricular Remodeling
+Hemodynamic resistance:Resis:Pt:Circulatory system:Qn
+Inspiratory Capacity
+Bone structure of cranium
+Cerebral Angiography
+Venous Thromboembolism
+Endocardium Specimen
+Echocardiography, Transesophageal
+Adventitia
+Behcet Syndrome
+Total Lung Capacity
+Regional Blood Flow
+Swan-Ganz Catheterization
+Structure of papillary muscle
+Polyarteritis Nodosa
+Structure of middle cerebral artery
+Embolus
+Vasodilation disorder
+Aortic coarctation
+Fibrinolysis
+Bacterial Endocarditis
+Ventricular Function, Right
+Saint Lucia
+Systolic phase
+Structure of axillary vein
+Congenital Heart Defects
+CENTRAL NERVOUS SYSTEM DIAGNOSTIC RADIOPHARMACEUTICALS
+Lateral Sinus Thrombosis
+Reperfusion Injury
+Structure of jugular vein
+Atrial Flutter Adverse Event
+Coronary Vessels
+Circle of Willis
+Embolism, Amniotic Fluid
+Work of Breathing
+Coronary heart disease
+Pregnancy associated hypertension
+Telangiectasis
+Hematocrit level
+Endocardial Cushion Defects
+Myocytes, Cardiac
+Leukomalacia, Periventricular
+Atrial Fibrillation Adverse Event
+Aorta
+Pulmonary artery stenosis
+Blood Volume
+Heart valve disease
+Coronary Aneurysm
+Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis
+Platelet aggregation
+Blood-Testis Barrier
+Femoral vein
+Erythropoiesis
+Cor pulmonale
+Prothrombin time assay
+Maximum breathing capacity function
+Vasodilation [PE]
+Blood Physiological Phenomena
+Arteriosclerosis
+Renin-Angiotensin Pathway
+Reticulocyte count result
+Tunica Media
+Physiologic pulse
+Truncus Arteriosus
+Ventricular pressure result
+Superior sagittal sinus
+Echocardiography
+Hepatic Vein Thrombosis
+Levocardia
+Thrombopoiesis
+heart rate
+Paroxysmal nocturnal dyspnea
+Nevus elasticus
+Structure of blood vessel of retina
+Blood - brain barrier function
+Atrioventricular Block
+Structure of femoral artery
+Traumatic
+Endocardium
+Aortic Aneurysm, Thoracic
+Volume.residual:Volume:Point in time:Respiratory system:Quantitative
+Gastric Antral Vascular Ectasia
+Vascular Headaches
+Von Hippel-Lindau Syndrome
+Hypotension, Orthostatic
+Pericarditis, Constrictive
+Pulsatile Flow
+Thromboangiitis Obliterans
+Erythrocyte Aging
+Ebstein Anomaly
+Blood Vessel
+Nasal Absorption
+Respiration
+Baroreflex
+Kinetocardiography
+Andersen Syndrome
+Ventricular Parasystole by ECG Finding
+Gastroepiploic Artery
+Transient Ischemic Attack
+Hepatic Veno-Occlusive Disease
+Glycogen Storage Disease Type IIb
+Assay of fibrinolysis
+Noonan Syndrome
+Superior Vena Cava Syndrome
+Blood Group Incompatibility
+Volkmann Contracture
+Maximal Voluntary Ventilation
+Heart Ventricle
+Cardiovascular system
+Maximal Expiratory Flow Rate
+Glomerular Filtration Barrier
+Hypertensive disease
+Malignant Hypertension
+Color
+Valsalva Maneuver
+Portography
+Diving Reflex
+Vibration syndrome
+Separate
+Interatrial septum
+Structure of chordae tendineae cordis
+Prehypertension
+Renal Circulation
+Sinoatrial Node
+Heart Diseases
+Circulatory and Respiratory Physiological Phenomena
+Blood Physiological Phenomena
+Acid-Base Equilibrium
+Bleeding Time
+Blood Bactericidal Activity
+Blood Cell Count
+Erythrocyte Count
+Reticulocyte Count
+Leukocyte Count
+Lymphocyte Count
+CD4 Lymphocyte Count
+CD4-CD8 Ratio
+Platelet Count
+Blood Group Incompatibility
+Rh Isoimmunization
+Blood Volume
+Cerebral Blood Volume
+Erythrocyte Volume
+Plasma Volume
+Erythrocyte Aging
+Erythrocyte Indices
+Fibrin Clot Lysis Time
+Hematopoiesis
+Erythropoiesis
+Extramedullary Hematopoiesis
+Leukopoiesis
+Lymphopoiesis
+Myelopoiesis
+Thrombopoiesis
+Hemorheology
+Blood Viscosity
+Erythrocyte Aggregation
+Erythrocyte Deformability
+Hematocrit
+Platelet Aggregation
+Hemostasis
+Blood Coagulation
+Fibrinolysis
+Platelet Activation
+Clot Retraction
+Platelet Adhesiveness
+Platelet Aggregation
+Osmotic Fragility
+Partial Thromboplastin Time
+Phagocytosis
+Cytophagocytosis
+Platelet Adhesiveness
+Prothrombin Time
+Reticulocytosis
+Thrombin Time
+Whole Blood Coagulation Time
+Cardiovascular Physiological Phenomena
+Atrial Function
+Left Atrial Function
+Right Atrial Function
+Atrial Pressure
+Atrial Remodeling
+Blood Circulation
+Cerebrovascular Circulation
+Neurovascular Coupling
+Collateral Circulation
+Coronary Circulation
+Myocardial Fractional Flow Reserve
+Microcirculation
+Placental Circulation
+Pulmonary Circulation
+Regional Blood Flow
+Renal Circulation
+Effective Renal Blood Flow
+Renal Plasma Flow
+Effective Renal Plasma Flow
+Splanchnic Circulation
+Liver Circulation
+Capillary Fragility
+Capillary Permeability
+Exercise-Induced Cardiomegaly
+Cardiovascular Deconditioning
+Carotid Intima-Media Thickness
+Diving Reflex
+Hemodynamics
+Atrial Pressure
+Baroreflex
+Blood Pressure
+Arterial Pressure
+Pulmonary Wedge Pressure
+Venous Pressure
+Central Venous Pressure
+Portal Pressure
+Blood Volume
+Cerebral Blood Volume
+Erythrocyte Volume
+Plasma Volume
+Cardiac Output
+Stroke Volume
+Cardiac Volume
+Heart Rate
+Fetal Heart Rate
+Respiratory Sinus Arrhythmia
+Heart Sounds
+Hemorheology
+Blood Flow Velocity
+Blood Viscosity
+Pulsatile Flow
+Kallikrein-Kinin System
+Pulse
+Renin-Angiotensin System
+Valsalva Maneuver
+Vascular Capacitance
+Vascular Resistance
+Capillary Resistance
+Vasoconstriction
+Vasodilation
+Ventricular Pressure
+Myocardial Contraction
+Diastole
+Systole
+Physiologic Neovascularization
+Vascular Patency
+Vascular Remodeling
+Vascular Stiffness
+Ventricular Function
+Left Ventricular Function
+Right Ventricular Function
+Ventricular Pressure
+Ventricular Remodeling
+Respiratory Physiological Phenomena
+Airway Remodeling
+Airway Resistance
+Lung Compliance
+Mucociliary Clearance
+Phonation
+Singing
+Pulmonary Circulation
+Pulmonary Diffusing Capacity
+Pulmonary Elimination
+Pulmonary Ventilation
+Forced Expiratory Flow Rates
+Maximal Expiratory Flow Rate
+Maximal Expiratory Flow-Volume Curves
+Maximal Midexpiratory Flow Rate
+Peak Expiratory Flow Rate
+Forced Expiratory Volume
+Maximal Voluntary Ventilation
+Respiration
+Breath Holding
+Respiratory Mechanics
+Bronchoconstriction
+Exhalation
+Inhalation
+Respiratory Rate
+Respiratory Transport
+Pulmonary Gas Exchange
+Respiratory Dead Space
+Respiratory Sounds
+Respiratory Tract Absorption
+Nasal Absorption
+Sneezing
+Total Lung Capacity
+Closing Volume
+Functional Residual Capacity
+Expiratory Reserve Volume
+Residual Volume
+Vital Capacity
+Expiratory Reserve Volume
+Inspiratory Capacity
+Inspiratory Reserve Volume
+Tidal Volume
+Valsalva Maneuver
+Ventilation-Perfusion Ratio
+Voice
+Voice Quality
+Work of Breathing
+Yawning
+Cardiovascular System
+Blood-Air Barrier
+Blood-Aqueous Barrier
+Blood-Brain Barrier
+Blood-Nerve Barrier
+Blood-Retinal Barrier
+Blood-Testis Barrier
+Blood Vessels
+Adventitia
+Arteries
+Aorta
+Abdominal Aorta
+Thoracic Aorta
+Sinus of Valsalva
+Arterioles
+Axillary Artery
+Basilar Artery
+Brachial Artery
+Brachiocephalic Trunk
+Bronchial Arteries
+Carotid Arteries
+Common Carotid Artery
+External Carotid Artery
+Internal Carotid Artery
+Carotid Sinus
+Celiac Artery
+Cerebral Arteries
+Anterior Cerebral Artery
+Circle of Willis
+Middle Cerebral Artery
+Posterior Cerebral Artery
+Temporal Arteries
+Ciliary Arteries
+Coronary Vessels
+Epigastric Arteries
+Femoral Artery
+Gastroepiploic Artery
+Hepatic Artery
+Iliac Artery
+Maxillary Artery
+Meningeal Arteries
+Mesenteric Arteries
+Inferior Mesenteric Artery
+Superior Mesenteric Artery
+Ophthalmic Artery
+Popliteal Artery
+Pulmonary Artery
+Radial Artery
+Renal Artery
+Retinal Artery
+Splenic Artery
+Subclavian Artery
+Thoracic Arteries
+Mammary Arteries
+Tibial Arteries
+Ulnar Artery
+Umbilical Arteries
+Uterine Artery
+Vertebral Artery
+Microvessels
+Arterioles
+Arteriovenous Anastomosis
+Capillaries
+Venules
+Retinal Vessels
+Retinal Artery
+Retinal Vein
+Tunica Intima
+Vascular Endothelium
+Pericytes
+Tunica Media
+Vascular Muscle  Smooth
+Vasa Nervorum
+Vasa Vasorum
+Veins
+Axillary Vein
+Azygos Vein
+Brachiocephalic Veins
+Cerebral Veins
+Coronary Vessels
+Coronary Sinus
+Cranial Sinuses
+Cavernous Sinus
+Superior Sagittal Sinus
+Transverse Sinuses
+Femoral Vein
+Hepatic Veins
+Iliac Vein
+Jugular Veins
+Popliteal Vein
+Portal System
+Mesenteric Veins
+Portal Vein
+Splenic Vein
+Umbilical Veins
+Pulmonary Veins
+Renal Veins
+Retinal Vein
+Saphenous Vein
+Subclavian Vein
+Venae Cavae
+Inferior Vena Cava
+Superior Vena Cava
+Venous Valves
+Venules
+Glomerular Filtration Barrier
+Heart
+Endocardium
+Fetal Heart
+Ductus Arteriosus
+Truncus Arteriosus
+Heart Atria
+Atrial Appendage
+Heart Conduction System
+Atrioventricular Node
+Bundle of His
+Purkinje Fibers
+Sinoatrial Node
+Heart Septum
+Atrial Septum
+Endocardial Cushions
+Foramen Ovale
+Ventricular Septum
+Heart Valves
+Aortic Valve
+Chordae Tendineae
+Mitral Valve
+Papillary Muscles
+Pulmonary Valve
+Tricuspid Valve
+Heart Ventricles
+Myocardium
+Cardiac Myoblasts
+Cardiac Myocytes
+Papillary Muscles
+Pericardium
+Pericardial Fluid
+Blood Pressure
+Heart Rate
+Cardiology
+Cardiac Electrophysiology
+Cardiovascular Diseases
+Cardiovascular Abnormalities
+Congenital Heart Defects
+22q11 Deletion Syndrome
+DiGeorge Syndrome
+Alagille Syndrome
+Aortic Coarctation
+Arrhythmogenic Right Ventricular Dysplasia
+Barth Syndrome
+Cor Triatriatum
+Coronary Vessel Anomalies
+Bland White Garland Syndrome
+Myocardial Bridging
+Crisscross Heart
+Dextrocardia
+Kartagener Syndrome
+Patent Ductus Arteriosus
+Ebstein Anomaly
+Ectopia Cordis
+Eisenmenger Complex
+Heart Septal Defects
+Aortopulmonary Septal Defect
+Persistent Truncus Arteriosus
+Endocardial Cushion Defects
+Atrial Heart Septal Defects
+Patent Foramen Ovale
+Lutembacher Syndrome
+Ventricular Heart Septal Defects
+Heterotaxy Syndrome
+Hypoplastic Left Heart Syndrome
+Isolated Noncompaction of the Ventricular Myocardium
+LEOPARD Syndrome
+Levocardia
+Marfan Syndrome
+Noonan Syndrome
+Tetralogy of Fallot
+Transposition of Great Vessels
+Double Outlet Right Ventricle
+Tricuspid Atresia
+Trilogy of Fallot
+Turner Syndrome
+Vascular Malformations
+Arteriovenous Malformations
+Arteriovenous Fistula
+Carotid-Cavernous Sinus Fistula
+Intracranial Arteriovenous Malformations
+Vein of Galen Malformations
+Central Nervous System Vascular Malformations
+Central Nervous System Venous Angioma
+Central Nervous System Hemangioma  Cavernous
+Intracranial Arteriovenous Malformations
+Vein of Galen Malformations
+Sinus Pericranii
+May-Thurner Syndrome
+Pulmonary Atresia
+Scimitar Syndrome
+Single Umbilical Artery
+Vascular Fistula
+Arterio-Arterial Fistula
+Bland White Garland Syndrome
+Arteriovenous Fistula
+Carotid-Cavernous Sinus Fistula
+Cardiovascular Infections
+Bacterial Endocarditis
+Subacute Bacterial Endocarditis
+Cardiovascular Syphilis
+Cardiovascular Tuberculosis
+Tuberculous Pericarditis
+Heart Diseases
+Cardiac Arrhythmias
+Sinus Arrhythmia
+Sick Sinus Syndrome
+Cardiac Sinus Arrest
+Atrial Fibrillation
+Atrial Flutter
+Bradycardia
+Brugada Syndrome
+Premature Cardiac Complexes
+Atrial Premature Complexes
+Ventricular Premature Complexes
+Commotio Cordis
+Heart Block
+Adams-Stokes Syndrome
+Atrioventricular Block
+Bundle-Branch Block
+Sick Sinus Syndrome
+Sinoatrial Block
+Long QT Syndrome
+Andersen Syndrome
+Jervell-Lange Nielsen Syndrome
+Romano-Ward Syndrome
+Parasystole
+Pre-Excitation Syndromes
+Lown-Ganong-Levine Syndrome
+Mahaim-Type Pre-Excitation
+Wolff-Parkinson-White Syndrome
+Tachycardia
+Paroxysmal Tachycardia
+Reciprocating Tachycardia
+Atrioventricular Nodal Reentry Tachycardia
+Sinoatrial Nodal Reentry Tachycardia
+Supraventricular Tachycardia
+Ectopic Atrial Tachycardia
+Ectopic Junctional Tachycardia
+Sinus Tachycardia
+Ventricular Tachycardia
+Accelerated Idioventricular Rhythm
+Torsades de Pointes
+Ventricular Fibrillation
+Ventricular Flutter
+Carcinoid Heart Disease
+High Cardiac Output
+Low Cardiac Output
+Cardiac Tamponade
+Cardiomegaly
+Dilated Cardiomyopathy
+Left Ventricular Hypertrophy
+Right Ventricular Hypertrophy
+Cardiomyopathies
+Arrhythmogenic Right Ventricular Dysplasia
+Alcoholic Cardiomyopathy
+Dilated Cardiomyopathy
+Hypertrophic Cardiomyopathy
+Familial Cardiomyopathy  Hypertrophic
+Restrictive Cardiomyopathy
+Chagas Cardiomyopathy
+Diabetic Cardiomyopathies
+Endocardial Fibroelastosis
+Isolated Noncompaction of the Ventricular Myocardium
+Endomyocardial Fibrosis
+Glycogen Storage Disease Type IIb
+Kearns-Sayre Syndrome
+Myocardial Reperfusion Injury
+Myocarditis
+Sarcoglycanopathies
+Endocarditis
+Bacterial Endocarditis
+Subacute Bacterial Endocarditis
+Non-Infective Endocarditis
+Heart Aneurysm
+Heart Arrest
+Cardiac Death  Sudden
+Karoshi Death
+Out-of-Hospital Cardiac Arrest
+Congenital Heart Defects
+22q11 Deletion Syndrome
+DiGeorge Syndrome
+Aortic Coarctation
+Arrhythmogenic Right Ventricular Dysplasia
+Barth Syndrome
+Cor Triatriatum
+Coronary Vessel Anomalies
+Bland White Garland Syndrome
+Myocardial Bridging
+Crisscross Heart
+Dextrocardia
+Kartagener Syndrome
+Patent Ductus Arteriosus
+Ebstein Anomaly
+Eisenmenger Complex
+Heart Septal Defects
+Aortopulmonary Septal Defect
+Persistent Truncus Arteriosus
+Endocardial Cushion Defects
+Atrial Heart Septal Defects
+Patent Foramen Ovale
+Lutembacher Syndrome
+Ventricular Heart Septal Defects
+Heterotaxy Syndrome
+Hypoplastic Left Heart Syndrome
+Isolated Noncompaction of the Ventricular Myocardium
+LEOPARD Syndrome
+Levocardia
+Marfan Syndrome
+Noonan Syndrome
+Tetralogy of Fallot
+Transposition of Great Vessels
+Double Outlet Right Ventricle
+Tricuspid Atresia
+Trilogy of Fallot
+Turner Syndrome
+Heart Failure
+Cardio-Renal Syndrome
+Paroxysmal Dyspnea
+Cardiac Edema
+Diastolic Heart Failure
+Systolic Heart Failure
+Heart Neoplasms
+Carney Complex
+Heart Rupture
+Post-Infarction Heart Rupture
+Ventricular Septal Rupture
+Heart Valve Diseases
+Aortic Valve Insufficiency
+Aortic Valve Stenosis
+Subvalvular Aortic Stenosis
+Hypertrophic Cardiomyopathy
+Familial Cardiomyopathy  Hypertrophic
+Discrete Subaortic Stenosis
+Supravalvular Aortic Stenosis
+Williams Syndrome
+Heart Valve Prolapse
+Aortic Valve Prolapse
+Mitral Valve Prolapse
+Tricuspid Valve Prolapse
+Mitral Valve Insufficiency
+Mitral Valve Stenosis
+Pulmonary Atresia
+Pulmonary Valve Insufficiency
+Pulmonary Valve Stenosis
+LEOPARD Syndrome
+Pulmonary Subvalvular Stenosis
+Tricuspid Atresia
+Tricuspid Valve Insufficiency
+Tricuspid Valve Stenosis
+Myocardial Ischemia
+Acute Coronary Syndrome
+Angina Pectoris
+Unstable Angina
+Variant Angina Pectoris
+Stable Angina
+Microvascular Angina
+Coronary Disease
+Coronary Aneurysm
+Coronary Artery Disease
+Coronary Occlusion
+Coronary Stenosis
+Coronary Restenosis
+Coronary Thrombosis
+Coronary Vasospasm
+Coronary-Subclavian Steal Syndrome
+Myocardial Infarction
+Anterior Wall Myocardial Infarction
+Inferior Wall Myocardial Infarction
+Non-ST Elevated Myocardial Infarction
+Cardiogenic Shock
+ST Elevation Myocardial Infarction
+Myocardial Reperfusion Injury
+Myocardial Stunning
+Pericardial Effusion
+Pericarditis
+Constrictive Pericarditis
+Tuberculous Pericarditis
+Pneumopericardium
+Postpericardiotomy Syndrome
+Pulmonary Heart Disease
+Rheumatic Heart Disease
+Ventricular Dysfunction
+Left Ventricular Dysfunction
+Takotsubo Cardiomyopathy
+Right Ventricular Dysfunction
+Ventricular Outflow Obstruction
+Aortic Valve Stenosis
+Subvalvular Aortic Stenosis
+Discrete Subaortic Stenosis
+Supravalvular Aortic Stenosis
+Pulmonary Valve Stenosis
+Pulmonary Subvalvular Stenosis
+Cardiovascular Pregnancy Complications
+Amniotic Fluid Embolism
+Vascular Diseases
+Aneurysm
+Dissecting Aneurysm
+Dissection Carotid Artery  Internal
+Loeys-Dietz Syndrome
+Vertebral Artery Dissection
+False Aneurysm
+Infected Aneurysm
+Ruptured Aneurysm
+Aortic Rupture
+Aortic Aneurysm
+Abdominal Aortic Aneurysm
+Thoracic Aortic Aneurysm
+Aortic Rupture
+Loeys-Dietz Syndrome
+Coronary Aneurysm
+Endoleak
+Heart Aneurysm
+Iliac Aneurysm
+Intracranial Aneurysm
+Microaneurysm
+Angiodysplasia
+Gastric Antral Vascular Ectasia
+Angiomatosis
+Bacillary Angiomatosis
+Klippel-Trenaunay-Weber Syndrome
+Sturge-Weber Syndrome
+von Hippel-Lindau Disease
+Angioedema
+Hereditary Angioedemas
+Hereditary Angioedema Type III
+Hereditary Angioedema Types I and II
+Aortic Diseases
+Aortic Aneurysm
+Abdominal Aortic Aneurysm
+Thoracic Aortic Aneurysm
+Aortic Rupture
+Loeys-Dietz Syndrome
+Aortic Arch Syndromes
+Takayasu Arteritis
+Aortitis
+Leriche Syndrome
+Arterial Occlusive Diseases
+Arteriosclerosis
+Arteriolosclerosis
+Arteriosclerosis Obliterans
+Atherosclerosis
+Peripheral Arterial Disease
+Coronary Artery Disease
+Intracranial Arteriosclerosis
+Vascular Dementia
+Intermittent Claudication
+Carotid Stenosis
+Fibromuscular Dysplasia
+Leriche Syndrome
+Malignant Atrophic Papulosis
+Mesenteric Vascular Occlusion
+Moyamoya Disease
+Renal Artery Obstruction
+Retinal Artery Occlusion
+Susac Syndrome
+Pulmonary Artery Stenosis
+Thromboangiitis Obliterans
+Arteriovenous Malformations
+Arteriovenous Fistula
+Carotid-Cavernous Sinus Fistula
+Intracranial Arteriovenous Malformations
+Vein of Galen Malformations
+Capillary Leak Syndrome
+Cerebrovascular Disorders
+Basal Ganglia Cerebrovascular Disease
+Basal Ganglia Hemorrhage
+Putaminal Hemorrhage
+Brain Ischemia
+Brain Infarction
+Brain Stem Infarctions
+Lateral Medullary Syndrome
+Cerebral Infarction
+Multi-Infarct Dementia
+Anterior Cerebral Artery Infarction
+Middle Cerebral Artery Infarction
+Posterior Cerebral Artery Infarction
+Brain Hypoxia-Ischemia
+Transient Ischemic Attack
+Vertebrobasilar Insufficiency
+Subclavian Steal Syndrome
+Carotid Artery Diseases
+Carotid Artery Injuries
+Dissection Carotid Artery  Internal
+Carotid Artery Thrombosis
+Carotid-Cavernous Sinus Fistula
+Carotid Stenosis
+Moyamoya Disease
+Cerebral Small Vessel Diseases
+CADASIL
+Familial Cerebral Amyloid Angiopathy
+Fabry Disease
+MELAS Syndrome
+Microscopic Polyangiitis
+Lacunar Stroke
+Cerebrovascular Trauma
+Carotid Artery Injuries
+Dissection Carotid Artery  Internal
+Carotid-Cavernous Sinus Fistula
+Traumatic Subarachnoid Hemorrhage
+Vertebral Artery Dissection
+Intracranial Arterial Diseases
+Cerebral Arterial Diseases
+CADASIL
+Cerebral Amyloid Angiopathy
+Familial Cerebral Amyloid Angiopathy
+Anterior Cerebral Artery Infarction
+Middle Cerebral Artery Infarction
+Posterior Cerebral Artery Infarction
+Moyamoya Disease
+Intracranial Aneurysm
+Intracranial Arteriosclerosis
+Vascular Dementia
+Intracranial Arteriovenous Malformations
+Vein of Galen Malformations
+Intracranial Embolism and Thrombosis
+Carotid Artery Thrombosis
+Intracranial Embolism
+Intracranial Thrombosis
+Intracranial Sinus Thrombosis
+Cavernous Sinus Thrombosis
+Lateral Sinus Thrombosis
+Sagittal Sinus Thrombosis
+Intracranial Hemorrhages
+Cerebral Hemorrhage
+Basal Ganglia Hemorrhage
+Putaminal Hemorrhage
+Traumatic Cerebral Hemorrhage
+Hypertensive Intracranial Hemorrhage
+Traumatic Intracranial Hemorrhage
+Traumatic Brain Hemorrhage
+Traumatic Brain Stem Hemorrhage
+Traumatic Cerebral Hemorrhage
+Cranial Hematoma  Epidural
+Subdural Hematoma
+Acute Hematoma  Subdural
+Chronic Hematoma  Subdural
+Intracranial Hematoma  Subdural
+Traumatic Subarachnoid Hemorrhage
+Pituitary Apoplexy
+Subarachnoid Hemorrhage
+Traumatic Subarachnoid Hemorrhage
+Periventricular Leukomalacia
+Sneddon Syndrome
+Stroke
+Brain Infarction
+Brain Stem Infarctions
+Lateral Medullary Syndrome
+Cerebral Infarction
+Multi-Infarct Dementia
+Anterior Cerebral Artery Infarction
+Middle Cerebral Artery Infarction
+Posterior Cerebral Artery Infarction
+Lacunar Stroke
+Vascular Headaches
+Central Nervous System Vasculitis
+Central Nervous System AIDS Arteritis
+Giant Cell Arteritis
+Central Nervous System Lupus Vasculitis
+Intracranial Vasospasm
+Ischemic Colitis
+Compartment Syndromes
+Anterior Compartment Syndrome
+Intra-Abdominal Hypertension
+Ischemic Contracture
+Diabetic Angiopathies
+Diabetic Foot
+Diabetic Retinopathy
+Embolism and Thrombosis
+Embolism
+Air Embolism
+Amniotic Fluid Embolism
+Fat Embolism
+Cholesterol Embolism
+Blue Toe Syndrome
+Pulmonary Embolism
+Pulmonary Infarction
+Thromboembolism
+Intracranial Embolism and Thrombosis
+Carotid Artery Thrombosis
+Intracranial Embolism
+Intracranial Thrombosis
+Intracranial Sinus Thrombosis
+Cavernous Sinus Thrombosis
+Lateral Sinus Thrombosis
+Sagittal Sinus Thrombosis
+Paradoxical Embolism
+Venous Thromboembolism
+Thrombosis
+Coronary Thrombosis
+Venous Thrombosis
+Budd-Chiari Syndrome
+Postthrombotic Syndrome
+Retinal Vein Occlusion
+Thrombophlebitis
+Lemierre Syndrome
+Upper Extremity Deep Vein Thrombosis
+Hand-Arm Vibration Syndrome
+Hemorrhoids
+Hemostatic Disorders
+Cryoglobulinemia
+Ehlers-Danlos Syndrome
+Cavernous Hemangioma
+Central Nervous System Hemangioma  Cavernous
+Multiple Myeloma
+Pseudoxanthoma Elasticum
+Hyperglobulinemic Purpura
+Scurvy
+Shwartzman Phenomenon
+Hereditary Hemorrhagic Telangiectasia
+Waldenstrom Macroglobulinemia
+Hepatic Veno-Occlusive Disease
+Hyperemia
+Hypertension
+Malignant Hypertension
+Pregnancy-Induced Hypertension
+Renal Hypertension
+Renovascular Hypertension
+Hypertensive Retinopathy
+Masked Hypertension
+White Coat Hypertension
+Hypotension
+Orthostatic Hypotension
+Post-Exercise Hypotension
+Shy-Drager Syndrome
+Mesenteric Ischemia
+Myocardial Ischemia
+Acute Coronary Syndrome
+Angina Pectoris
+Unstable Angina
+Variant Angina Pectoris
+Stable Angina
+Microvascular Angina
+Coronary Disease
+Coronary Aneurysm
+Coronary Artery Disease
+Coronary Occlusion
+Coronary Stenosis
+Coronary Restenosis
+Coronary Thrombosis
+Coronary Vasospasm
+Coronary-Subclavian Steal Syndrome
+Myocardial Infarction
+Anterior Wall Myocardial Infarction
+Inferior Wall Myocardial Infarction
+No-Reflow Phenomenon
+Non-ST Elevated Myocardial Infarction
+Cardiogenic Shock
+ST Elevation Myocardial Infarction
+Myocardial Reperfusion Injury
+Ischemic Optic Neuropathy
+Peripheral Vascular Diseases
+Blue Toe Syndrome
+Erythromelalgia
+Livedo Reticularis
+May-Thurner Syndrome
+Peripheral Arterial Disease
+Phlebitis
+Postphlebitic Syndrome
+Thrombophlebitis
+Lemierre Syndrome
+Raynaud Disease
+CREST Syndrome
+Prehypertension
+Pulmonary Veno-Occlusive Disease
+Reperfusion Injury
+Myocardial Reperfusion Injury
+Primary Graft Dysfunction
+Retinal Vein Occlusion
+Scimitar Syndrome
+Spinal Cord Vascular Diseases
+Spinal Cord Ischemia
+Anterior Spinal Artery Syndrome
+Splenic Infarction
+Pulmonary Vein Stenosis
+Superior Vena Cava Syndrome
+Telangiectasis
+Ataxia Telangiectasia
+CREST Syndrome
+Retinal Telangiectasis
+Hereditary Hemorrhagic Telangiectasia
+Thoracic Outlet Syndrome
+Cervical Rib Syndrome
+Varicocele
+Varicose Veins
+Varicose Ulcer
+Vascular Fistula
+Arterio-Arterial Fistula
+Bland White Garland Syndrome
+Arteriovenous Fistula
+Carotid-Cavernous Sinus Fistula
+Vascular Neoplasms
+Vascular System Injuries
+Vasculitis
+Aortitis
+Arteritis
+Central Nervous System AIDS Arteritis
+Endarteritis
+Giant Cell Arteritis
+Polyarteritis Nodosa
+Takayasu Arteritis
+Behcet Syndrome
+Cogan Syndrome
+Malignant Atrophic Papulosis
+Mucocutaneous Lymph Node Syndrome
+Phlebitis
+Thrombophlebitis
+Lemierre Syndrome
+Schoenlein-Henoch Purpura
+Retinal Vasculitis
+Shwartzman Phenomenon
+Systemic Vasculitis
+Anti-Neutrophil Cytoplasmic Antibody-Associated Vasculitis
+Churg-Strauss Syndrome
+Microscopic Polyangiitis
+Granulomatosis with Polyangiitis
+Polyarteritis Nodosa
+Rheumatoid Vasculitis
+Thromboangiitis Obliterans
+Central Nervous System Vasculitis
+Central Nervous System AIDS Arteritis
+Giant Cell Arteritis
+Central Nervous System Lupus Vasculitis
+Cutaneous Vasculitis  Leukocytoclastic
+Vasoplegia
+Venous Insufficiency
+Postphlebitic Syndrome
+Postthrombotic Syndrome
+Cardiovascular Diagnostic Techniques
+Angiography
+Angiocardiography
+Digital Subtraction Angiography
+Aortography
+Cerebral Angiography
+Cineangiography
+Coronary Angiography
+Fluorescein Angiography
+Magnetic Resonance Angiography
+Phlebography
+Portography
+Radionuclide Angiography
+Radionuclide Ventriculography
+Gated Blood-Pool Imaging
+First-Pass Ventriculography
+Angioscopy
+Blood Circulation Time
+Blood Flow Velocity
+Blood Pressure Determination
+Ankle Brachial Index
+Ambulatory Blood Pressure Monitoring
+Blood Volume Determination
+Capillary Fragility
+Carotid Intima-Media Thickness
+Heart Function Tests
+Angiocardiography
+Ballistocardiography
+Cardiac Catheterization
+Swan-Ganz Catheterization
+Cardiac Output
+Stroke Volume
+Impedance Cardiography
+Cardiotocography
+Coronary Angiography
+Echocardiography
+Doppler Echocardiography
+Color Echocardiography  Doppler
+Pulsed Echocardiography  Doppler
+Stress Echocardiography
+Three-Dimensional Echocardiography
+Four-Dimensional Echocardiography
+Transesophageal Echocardiography
+Electrocardiography
+Ambulatory Electrocardiography
+Vectorcardiography
+Body Surface Potential Mapping
+Cardiac Electrophysiologic Techniques
+Epicardial Mapping
+Exercise Test
+Walk Test
+Heart Auscultation
+Phonocardiography
+Heart Rate Determination
+Kinetocardiography
+Magnetocardiography
+Myocardial Perfusion Imaging
+Oximetry
+Transcutaneous Blood Gas Monitoring
+Pulse
+Radionuclide Ventriculography
+Gated Blood-Pool Imaging
+First-Pass Ventriculography
+Valsalva Maneuver
+Laser-Doppler Flowmetry
+Microscopic Angioscopy
+Plethysmography
+Photoplethysmography
+Impedance Plethysmography
+Impedance Cardiography
+Whole Body Plethysmography
+Pulse Wave Analysis
+Tilt-Table Test
+Electrocardiography
+Ambulatory Electrocardiography
+Vectorcardiography
+Myocardial Contraction
+Diastole
+Systole
+Cardiac Arrhythmias
+Sinus Arrhythmia
+Sick Sinus Syndrome
+Cardiac Sinus Arrest
+Atrial Fibrillation
+Atrial Flutter
+Bradycardia
+Premature Cardiac Complexes
+Atrial Premature Complexes
+Ventricular Premature Complexes
+Heart Block
+Adams-Stokes Syndrome
+Atrioventricular Block
+Bundle-Branch Block
+Sick Sinus Syndrome
+Sinoatrial Block
+Long QT Syndrome
+Andersen Syndrome
+Romano-Ward Syndrome
+Parasystole
+Tachycardia
+Paroxysmal Tachycardia
+Reciprocating Tachycardia
+Atrioventricular Nodal Reentry Tachycardia
+Sinoatrial Nodal Reentry Tachycardia
+Supraventricular Tachycardia
+Ectopic Atrial Tachycardia
+Ectopic Junctional Tachycardia
+Sinus Tachycardia
+Ventricular Tachycardia
+Accelerated Idioventricular Rhythm
+Torsades de Pointes
+Ventricular Fibrillation
+Ventricular Flutter
+Cardiologists

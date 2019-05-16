@@ -1,0 +1,445 @@
+Science of nutrition
+Reducing diet
+Meat Flavor
+Food Additives
+Absinthe
+Cheese Flavor
+Sesame Oil
+Feeding patient
+Food, Organic
+Food, Fortified
+Yogurt
+Vegetable Products
+Teas, Herbal
+Vegetable Proteins
+Red Meat
+Vitamins
+Oral Mucosal Absorption
+Diet (animal life circumstance)
+Protein Digestion (research activity)
+Food allergenic extracts
+Flour
+Alcohol consumption
+Chocolate
+Diet, Atherogenic
+feeding of newborn
+Dietary Fats, Unsaturated
+Diet therapy
+Egg Yolk (Dietary)
+Milk Proteins
+Soybean Proteins
+Dietary Proteins
+Nutritional status
+Yeast, Dried
+Flavoring
+Condiments
+Provitamins
+Nuts
+Corn Oil
+Vegan diet
+Candy
+Whole Grains
+Raw Foods
+Diet, High-Fat
+Prenatal Nutritional Physiological Phenomena
+Healthy Diet
+Intestinal Absorption
+Radioactive Seed Implant Dosing Unit
+Poultry Products
+Dietary Carbohydrates
+Wine
+Foods, Specialized
+Whey Proteins
+Nutrition, Trace Elements Research Activity
+Breast Milk Expression
+Infant formula (finding)
+Cacao Plant
+Honey
+Kefir
+Chewing
+Breakfast
+Appetite Regulation
+Prebiotics
+Feeding Activity
+Herbivory
+Dairy Products
+Diet, Western
+Sports Nutritional Physiological Phenomena
+Special Diet Therapy
+Diet, Protein-Restricted
+Gluten-Free Diet
+Infant bottle fed (finding)
+Buttermilk
+Nutrition function
+Poultry preparation
+Coffee Flavor
+Ghee
+Milk (body substance)
+Adolescent Nutritional Physiological Phenomena
+Coffee
+Soybean Oil
+Beverages
+Foods and Diets - category
+Ketogenic Diet
+Strict vegetarian
+Soy Foods
+Molasses
+Alcoholic Beverages
+egg yolk (chicken) allergenic extract
+Ice Cream
+Soymilk
+Low sodium diet
+Frozen Foods
+Sweetening Agents
+Diet Fads
+Appetite Quality Question
+Fasting
+Silage
+Dietary Fats
+bottles/feed (qualifier value)
+Drinking Water
+Fruit Flavor
+Fast Foods
+Probiotics
+Diet, Macrobiotic
+Behavior
+Dietary Fiber
+VITAMINS [VA Class]
+Low-Calorie Diet
+Nutritionist
+High Fructose Corn Syrup
+Digestion
+Milk, Human
+Chewing Gum (food)
+Desire for food
+Milk Substitutes
+Dietary Sucrose
+Glycemic Index
+Drinking function
+Carnivory
+Cottonseed Oil
+Plant seeds
+Hunger
+Infant Food
+olive oil
+Shellfish
+Vegetarian diet
+Food, Preserved
+Caloric Restriction
+Infant formula
+Egg Whites - dietary
+Whey
+Energy Intake
+Agricultural Crops
+size
+Non-Nutritive Sweeteners
+Fowls, Domestic
+Animal Nutritional Physiological Phenomena
+Behavior:-:Point in time:^Patient:-
+Percent energy intake
+Fish Flour
+Diet
+Diet, Paleolithic
+Portion Size
+Lunch
+Edible Grain
+Gastrointestinal Absorption
+Gastric Absorption
+Carbonated Beverages
+Bread
+Butter
+Diet, Carbohydrate-Restricted
+Food Preservatives
+Animal feed (substance)
+Honey Flavor
+Recommended Dietary Allowances
+Serving
+Elder Nutritional Physiological Phenomena
+Basal Diet
+Vegetables
+Bottle feeding
+Spices
+Soy Milk
+Cheese
+Aquatic animal as human food
+Tea
+Animal raised for meat production
+Maternal Nutritional Physiological Phenomena
+Beer
+Diabetic Diet
+Nutritional Requirements
+secretion of saliva
+Dietary Supplements
+Diet, Mediterranean
+Nutritional Physiological Phenomena
+Nutrition outcomes
+Fat-Restricted Diet
+Breast Feeding
+Does drink from a bottle (finding)
+Egg Food Product
+Diet and nutrition:Finding:Point in time:^Patient:Narrative
+Milk Specimen
+Synbiotics
+Shellfish - dietary
+Kombucha Tea
+Nutritive Value
+Seed entity
+Milk - dietary
+Safflower Oil
+Food
+Diet, Cariogenic
+Trace Elements
+Fruit
+Glycemic Load
+Vegetable Juices
+Koumiss
+Food and Nutrition
+Food, Formulated
+Functional Food
+Meat
+Child Nutritional Physiological Phenomena
+Food, Genetically Modified
+Weaning
+Micronutrients
+Meal (occasion for eating)
+Intestinal Reabsorption
+Chewing Gum
+Eating
+Food Preferences
+Vitamin IV solution additives
+infant nutrition
+Energy Drinks
+Theobroma cacao, cocoa, chocolate
+Breastfeeding (mother)
+Carbonated Water
+Snacks
+Fish Products
+Teas, Medicinal
+Fat Substitutes
+Cow's milk
+Poultry Meat
+Human milk preparation
+Sialorrhea
+Diet, Carbohydrate Loading
+Seeding
+Meat Products
+Nutritive Sweeteners
+Margarine
+Egg Proteins, Dietary
+Cultured Milk Products
+Nut Device Component
+Seafood
+Chocolate Flavor
+and Nutrition Diet  Food
+Beverages
+Alcoholic Beverages
+Absinthe
+Beer
+Wine
+Carbonated Beverages
+Carbonated Water
+Coffee
+Drinking Water
+Carbonated Water
+Energy Drinks
+Fruit and Vegetable Juices
+Milk
+Buttermilk
+Kefir
+Koumiss
+Human Milk
+Whey
+Milk Substitutes
+Infant Formula
+Soy Milk
+Tea
+Kombucha Tea
+Herbal Teas
+Medicinal Teas
+Food
+Bread
+Candy
+Chewing Gum
+Chocolate
+Condiments
+Spices
+Agricultural Crops
+Animal Feed
+Silage
+Edible Grain
+Whole Grains
+Dairy Products
+Butter
+Ghee
+Cultured Milk Products
+Buttermilk
+Cheese
+Kefir
+Koumiss
+Yogurt
+Ice Cream
+Margarine
+Milk
+Buttermilk
+Kefir
+Koumiss
+Human Milk
+Milk Proteins
+Whey Proteins
+Whey
+Whey Proteins
+Dietary Carbohydrates
+Dietary Sucrose
+High Fructose Corn Syrup
+Dietary Fats
+Butter
+Ghee
+Unsaturated Dietary Fats
+Corn Oil
+Cottonseed Oil
+Olive Oil
+Safflower Oil
+Sesame Oil
+Soybean Oil
+Margarine
+Dietary Fiber
+Prebiotics
+Dietary Proteins
+Dietary Egg Proteins
+Milk Proteins
+Whey Proteins
+Vegetable Proteins
+Dietary Supplements
+Prebiotics
+Probiotics
+Synbiotics
+Dried Yeast
+Eggs
+Dietary Egg Proteins
+Egg White
+Egg Yolk
+Fast Foods
+Flour
+Food Additives
+Fat Substitutes
+Flavoring Agents
+Sweetening Agents
+Non-Nutritive Sweeteners
+Nutritive Sweeteners
+Dietary Sucrose
+High Fructose Corn Syrup
+Food Preservatives
+Fortified Food
+Genetically Modified Food
+Organic Food
+Preserved Food
+Frozen Foods
+Specialized Foods
+Formulated Food
+Infant Formula
+Infant Food
+Infant Formula
+Fruit
+Functional Food
+Honey
+Meals
+Breakfast
+Lunch
+Snacks
+Meat
+Meat Products
+Poultry
+Poultry Products
+Red Meat
+Seafood
+Fish Products
+Fish Flour
+Shellfish
+Micronutrients
+Trace Elements
+Vitamins
+Provitamins
+Molasses
+Nuts
+Raw Foods
+Seeds
+Edible Grain
+Whole Grains
+Vegetables
+Vegetable Products
+Soy Foods
+Soy Milk
+Soybean Proteins
+Vegetable Proteins
+Nutritional Physiological Phenomena
+Animal Nutritional Physiological Phenomena
+Appetite Regulation
+Breast Feeding
+Child Nutritional Physiological Phenomena
+Adolescent Nutritional Physiological Phenomena
+Infant Nutritional Physiological Phenomena
+Bottle Feeding
+Breast Feeding
+Breast Milk Expression
+Weaning
+Diet
+Carbohydrate Loading Diet
+Diabetic Diet
+Atherogenic Diet
+Carbohydrate-Restricted Diet
+Diet Fads
+Cariogenic Diet
+Fat-Restricted Diet
+Gluten-Free Diet
+High-Fat Diet
+Mediterranean Diet
+Paleolithic Diet
+Protein-Restricted Diet
+Reducing Diet
+Sodium-Restricted Diet
+Vegetarian Diet
+Macrobiotic Diet
+Vegan Diet
+Western Diet
+Energy Intake
+Caloric Restriction
+Fasting
+Healthy Diet
+Ketogenic Diet
+Portion Size
+Serving Size
+Digestion
+Salivation
+Eating
+Drinking
+Mastication
+Elder Nutritional Physiological Phenomena
+Feeding Behavior
+Bottle Feeding
+Breast Feeding
+Breast Milk Expression
+Carnivory
+Fasting
+Food Preferences
+Herbivory
+Gastrointestinal Absorption
+Gastric Absorption
+Intestinal Absorption
+Intestinal Reabsorption
+Oral Mucosal Absorption
+Hunger
+Appetite
+Appetite Regulation
+Maternal Nutritional Physiological Phenomena
+Prenatal Nutritional Physiological Phenomena
+Nutritional Requirements
+Recommended Dietary Allowances
+Nutritional Status
+Nutritive Value
+Glycemic Index
+Glycemic Load
+Sports Nutritional Physiological Phenomena
+Weaning
+Nutritional Status
+Nutritionists
+Nutritionists

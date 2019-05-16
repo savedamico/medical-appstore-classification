@@ -1,0 +1,1841 @@
+Parosteal Osteosarcoma
+Urticaria Pigmentosa
+Enchondromatosis
+Fusion Proteins, bcr-abl
+Hemangioblastoma
+Precursor Cell Lymphoblastic Leukemia Lymphoma
+Dendritic cell sarcoma, not otherwise specified
+Mouth Neoplasms
+Hypothalamic Neoplasms
+Leukemia, Plasma Cell
+Pleural Effusion, Malignant
+Glandular
+Carcinoma, Lewis Lung
+Nodular tenosynovitis
+Cystadenocarcinoma, Mucinous
+Tumors of Adrenal Cortex
+Mucocele of salivary gland
+Sertoli-Leydig Cell Tumor
+Mixed Tumor, Mullerian
+ovarian neoplasm
+Prolymphocyte (cell)
+Negative Number
+Branchioma
+Paget's Disease, Mammary
+Malignant Fibrous Histiocytoma
+Adenosarcoma
+Mongolian Spot
+Carcinoma, Ehrlich Tumor
+Carcinoma, Krebs 2
+Carcinoma, Giant Cell
+Torre-Muir syndrome
+Hydatidiform Mole
+Chordoma
+Prostatic Neoplasms
+Thyroid Nodule
+Neoplasms, Gonadal Tissue
+Cutaneous
+Maxillary Sinus Neoplasms
+Atypical Squamous Cells of the Cervix
+Cell Transformation, Viral
+Choriocarcinoma, Non-gestational
+Adenoma, Chromophobe
+Astrocytoma
+basophilic
+Adrenocortical carcinoma
+Vulvar Neoplasms
+Myeloid Leukemia
+Fibrous histiocytoma of tendon sheath
+eosinophilic
+Central Nervous System Venous Angioma
+Chondromatosis
+Sebaceous Adenocarcinoma
+Unilateral Breast Carcinoma
+Neoplasms, Second Primary
+Oxyphilic Adenoma
+Cervical Squamous Intraepithelial Neoplasia
+Circulating
+Negative
+ABL1 wt Allele
+Ovarian Cysts
+Sturge-Weber Syndrome
+Cocarcinogenesis
+Embryonal Neoplasm
+Intraspinal Neoplasm
+liposarcoma
+Benign melanocytic nevus
+Breast Carcinoma
+Ductal
+Head
+Chemotherapy, Adjuvant
+Tonsillar Neoplasms
+Myofibromatosis
+Histiocytic sarcoma
+Neoplastic Cell Transformation
+Renal Cell Carcinoma
+Carcinoma 256, Walker
+Precursor B-Cell Lymphoblastic Leukemia-Lymphoma
+NCI CTEP SDC AIDS-related Lymphoma Sub-Category Terminology
+Radicular Cyst
+Neoplasms, Connective Tissue
+Hereditary Nonpolyposis Colorectal Neoplasms
+Carcinoma in Situ
+Glomus Tympanicum Tumor
+Mucosa-Associated Lymphoid Tissue Lymphoma
+Mast Cell Neoplasm
+Renal Cell Carcinoma Pathway
+Sarcoma 37
+Yolk Sac Tumor
+Tracheal Neoplasms
+Neoplastic Syndromes, Hereditary
+Intestinal Neoplasms
+Prostatic Neoplasms, Castration-Resistant
+Undifferentiated
+Juvenile
+Denys-Drash Syndrome
+Squamous Cell Neoplasms
+Papilloma
+Solitary Myofibromatosis
+Megakaryoblast Cell Count
+Congenital Mesoblastic Nephroma
+NCI CTEP SDC Gestational Trophoblastic Disease Sub-Category Terminology
+Cavernous
+Urologic Neoplasms
+Ependymoma
+Malignant Mixed Tumor, Not Otherwise Specified
+Plexiform Neurofibroma
+Islet Cell Adenoma
+Mucocele
+Jaw Cysts
+Genital Neoplasms, Female
+Follicular thyroid carcinoma
+Adenomatoid Tumor
+Malignant Vipoma
+Kasabach-Merritt syndrome
+Teratocarcinoma
+Cutaneous Route of Drug Administration
+Sebaceous Gland Neoplasms
+Liver Neoplasms, Experimental
+Pheochromocytoma
+Adrenal Cortical Adenoma
+Leukemia, T-Cell
+Pineal germinoma
+Pregnancy Complications, Neoplastic
+Pseudomyxoma Peritonei
+Ileal Neoplasms
+Neoplasms, Fibroepithelial
+Mixed Neoplasm
+Myoma
+Choriocarcinoma
+Sarcoma - category (morphologic abnormality)
+Odontogenic Cysts
+Ductal Breast Carcinoma
+Carcinoid Tumor
+Iris Neoplasms
+Pulmonary Blastoma
+Cystadenocarcinoma
+Neoplasms, Radiation-Induced
+Nervous System Neoplasms
+Limbic Encephalitis
+Aberrant Crypt Foci
+Unilateral Breast Neoplasms
+Adenoma, Basophil
+Carcinoma, Signet Ring Cell
+Sarcoma, Yoshida
+Histiocytic Disorders, Malignant
+Pleural Solitary Fibrous Tumor
+Li-Fraumeni Syndrome
+Squamous Intraepithelial Lesions of the Cervix
+Retinal Neoplasms
+Carcinosarcoma
+Cholangiocarcinoma
+neurofibroma
+NCI CTEP SDC Mesothelioma Sub-Category Terminology
+Malignant Peripheral Nerve Sheath Tumor
+Xeroderma Pigmentosum
+melanoma
+Cecal Neoplasms
+MYELODYSPLASTIC SYNDROME
+Megakaryoblasts
+Salivary Gland Neoplasms
+Basal Cell Nevus Syndrome
+Neuroectodermal Tumor, Primitive
+Positive
+Fibromatosis, Aggressive
+Neoplasms, Muscle Tissue
+Experimental Organism Basal Cell Carcinoma
+NCI CTEP SDC Chondrosarcoma Sub-Category Terminology
+Pilonidal Cyst
+NCI CTEP SDC Mastocytosis Sub-Category Terminology
+Squamous cell carcinoma - category
+Uterine Cervical Neoplasm
+Breast Neoplasms, Male
+Pancreatic Pseudocyst
+Positive Number
+Neoplasms, Multiple Primary
+Anaplastic thyroid carcinoma
+Carcinoma, Brown-Pearce
+Ranula (disorder)
+Myxoid/Round Cell Liposarcoma
+Meigs Syndrome
+Brain Stem Neoplasms
+Neuroendocrine Tumors
+Glomus Tumor
+Craniopharyngioma
+Optic Nerve Glioma
+Adenocarcinoma, Clear Cell
+leukemia
+Pleural Neoplasms
+BCR-ABL Fusion Gene
+Avian Leukosis
+Encephalitis
+Melanocytic nevus of skin
+Cementoma
+Carcinoid Heart Disease
+Bone Cysts, Aneurysmal
+Choledochal Cyst
+Subependymal Glioma
+Histiocytoma
+Cerebellar Neoplasms
+Gingival Neoplasms
+Neoplasms, Nerve Tissue
+Osteoblastoma
+Cystic dermoid choristoma
+Dentigerous Cyst
+Arachnoid Cysts
+Pigmented villonodular synovitis
+Lobular
+Nevus, Spindle Cell
+Glioblastoma Multiforme Pathway
+Malignant Mixed Tumor
+Adenolymphoma
+Carcinoma, Skin Appendage
+NCI CTEP SDC Neuroblastoma Sub-Category Terminology
+Mastocytosis, Systemic
+Hairy Cell Leukemia
+Lymphatic Metastasis
+Vaginal Neoplasms
+Optic Nerve Neoplasms
+Nevus, Intradermal
+Endometrial Stromal Tumors
+Histiocytoma, Benign Fibrous
+Mammary Neoplasms
+Polychromatophilic erythroblast
+Precancerous Conditions
+Cystadenocarcinoma, Serous
+Somatostatinoma
+Diffuse
+Leukemic Infiltration
+Esophageal Neoplasms
+Hematologic Neoplasms
+Parathyroid Neoplasms
+Tissue Type Code - Basal cell carcinoma
+Lipomatous neoplasm
+Leukemia, Radiation-Induced
+Femoral Neoplasms
+Benign Mastocytoma
+Biliary Tract Neoplasm
+Merkel cell carcinoma
+Epithelioid hemangioendothelioma, malignant
+Solitary fibrous tumor
+Digestive System Neoplasms
+Neoplasms, Post-Traumatic
+Leukemia, Experimental
+Sarcoma, Avian
+Leukemia, Feline
+Myxoid cyst
+Meningioma, benign, no ICD-O subtype
+Paget Disease Extramammary
+Desmoplastic fibroma
+Leukemia, B-Cell
+insulinoma
+Lymphomatoid Granulomatosis
+Promyelocyte count procedure
+Pulmonary Sclerosing Hemangioma
+Eccrine porocarcinoma
+Adenoid Cystic Carcinoma
+Thymoma
+Luteoma
+Paranasal Sinus Neoplasms
+Immunoblastic Large-Cell Lymphoma
+Retroperitoneal Neoplasms
+Complex
+THM gene
+Triple Negative Breast Neoplasms
+Fibroid Tumor
+Mesenchymoma
+Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse
+Mucinous
+Mesothelioma
+Angiomyolipoma
+Adenocarcinoma, Scirrhous
+Positive Charge
+Myxosarcoma
+Uterine Neoplasms
+Carcinoma
+Breast
+Jejunal Neoplasms
+Ocular adnexa structure
+Hemangioma of the Central Nervous System
+Perianal Squamous Intraepithelial Neoplasia
+Central neuroblastoma
+MTTP wt Allele
+Paraganglioma
+Myelolipoma
+Seminoma
+NCI CTEP SDC Osteosarcoma Sub-Category Terminology
+Central Nervous System Cysts
+Tuberous Sclerosis
+Urethral Neoplasms
+Carney Complex
+Nevus sebaceous
+NCI CTEP SDC Rhabdomyosarcoma Sub-Category Terminology
+Choroid Neoplasms
+Neoplasms
+Peutz-Jeghers Syndrome
+Fallopian Tube Neoplasms
+Ossifying Fibroma
+Reticulosarcoma
+Adenofibroma
+Thymus Neoplasms
+Hutchinson's Melanotic Freckle
+Angiomyolipoma of kidney
+ACTH Syndrome, Ectopic
+Lymphangioma
+Multiple Pulmonary Nodules
+Carcinoma, Small Cell
+T-Cell Large Granular Lymphocyte Leukemia
+Rhabdomyosarcoma, Embryonal
+Pharyngeal Neoplasms
+Gonadoblastoma
+Mastocytoma
+Marginal Zone B-Cell Lymphoma
+Prostatic Intraepithelial Neoplasias
+Mycosis Fungoides
+Pancreatic Endocrine Carcinoma
+Neoplasms, Bone Tissue
+Sarcoma 180
+Pilomatrixoma
+Rectal Neoplasms
+Sister Mary Joseph's Nodule
+Pancreas
+Neoplasm Micrometastasis
+Sezary Syndrome
+Buschke-Lowenstein Tumor
+Multiple fibrofolliculomas
+Promyelocytes
+Carcinogenesis
+Multiple Endocrine Neoplasia Type 1
+Verrucous carcinoma
+Hereditary Non-Polyposis Colon Cancer Type 2
+Meningeal Neoplasms
+Animal Mammary Neoplasms
+Chondrosarcoma, Mesenchymal
+Malignant Mixed Mesodermal (Mullerian) Tumor
+Cyst
+Pancoast Syndrome
+Appendiceal Neoplasms
+Opsoclonus-Myoclonus Syndrome
+Hamartoma Syndrome, Multiple
+Papillary adenocarcinoma
+Urachal Cyst
+Apudoma
+Ewings sarcoma
+Neurofibrosarcoma
+Leukemia P388
+Cutaneous Fibrous Histiocytoma
+Giant Cell Tumor of Bone
+Strawberry nevus of skin
+Lymphoma, AIDS-Related
+percent positive cells
+Paraneoplastic Cerebellar Degeneration
+Mammary Neoplasms, Experimental
+Eyelid Neoplasms
+Primary Effusion Lymphoma
+Acute Undifferentiated Leukemia
+Squamous cell carcinoma
+Melanoma, Amelanotic
+Otorhinolaryngologic Neoplasms
+Eye Neoplasms
+Adenocarcinoma
+Germ Cells
+Ganglioneuroblastoma
+Paraneoplastic Syndromes, Nervous System
+leiomyosarcoma
+Hamartoma
+Proteus Syndrome
+Lipomatosis, Multiple
+Fibrosarcoma
+Cartilaginous exostosis
+Multiple Endocrine Neoplasia Type 2a
+Liver neoplasms
+Pulmonary Adenomatosis, Ovine
+Head - Component of Device
+BCR negative
+Teratoma
+Soft Tissue Neoplasms
+Immunoproliferative Small Intestinal Disease
+Syringoma
+Medullary carcinoma of thyroid
+Anaplasia
+Chronic phase
+Intraocular Lymphoma
+Sarcoma, Clear Cell
+Poroma
+Precursor Lymphoid Neoplasm
+Neoplasms, Unknown Primary
+Leukoplakia, Oral
+oligodendroglioma
+Dermatofibrosarcoma Protuberans
+Peritoneal Neoplasms
+Anus Neoplasms
+Glomus Jugulare Tumor
+Alveolar Soft Part Sarcoma
+Nevus
+Hidrocystoma
+Embryonal Carcinoma
+Precursor T-Cell Lymphoblastic Leukemia-Lymphoma
+Melanoma Pathway
+Mesothelioma, Cystic
+Cervical Intraepithelial Neoplasia
+Mandibular Neoplasms
+Ductal Carcinoma
+Epithelial cyst
+Lymphoma, Follicular
+Hemangioma
+NCI CTEP SDC Ewing Sarcoma Sub-Category Terminology
+Laryngeal neoplasm
+APC gene
+Hemangioendothelioma
+Primary intraocular non-Hodgkin malignant lymphoma
+Osteoma
+Glucagonoma
+Lymphangioma, Cystic
+Gestational trophoblastic disease
+Halo nevus
+Adult T-Cell Lymphoma/Leukemia
+Pituitary Neoplasms
+Angiofibroma
+NCI CTEP SDC Renal Cell Carcinoma Sub-Category Terminology
+Pancreatic Somatostatinoma
+Hemangioma, Cavernous
+Bladder Neoplasm
+gallbladder neoplasm
+Skull Neoplasms
+Lymphoma, Primary Cutaneous Anaplastic Large Cell
+Leiomyoma, Epithelioid
+Pineal Gland Neoplasm
+Sweat Gland Neoplasms
+Bowen's Disease
+Breast Cyst
+Uterine adnexae structure
+Hodgkin Disease
+Prorubricyte Count
+Lymphocele Adverse Event
+Mucinous Adenocarcinoma
+Cutaneous Mastocytosis
+Cystadenocarcinoma, Papillary
+Facial Neoplasms
+Leukemia, Mast-Cell
+Carcinoma, Transitional Cell
+Atypical
+Melanoma, Experimental
+Large
+Acanthoma
+Adamantinoma
+Bone Cysts
+Giant Cell Tumors
+Adenomatous Polyposis Coli
+Adenoma, Sweat Gland
+Neoplasm, Residual
+Mesenteric Cyst
+Thyroid Neoplasm
+hemangiopericytoma
+Fibromatosis, Plantar
+Esophageal Cyst
+Bile duct adenoma
+Bone neoplasms
+Sigmoid Neoplasms
+Lymphatic Vessel Tumors
+NCI CTEP SDC Basal Cell Carcinoma Sub-Category Terminology
+Lymphoid leukemia
+Sarcoma
+Leydig Cell Tumor
+Leydig cell tumor, benign
+Positive Finding
+NCI CTEP SDC Melanoma Sub-Category Terminology
+Mucoepidermoid Tumor
+Neoplasm Seeding
+Mesonephric tumor
+Struma Ovarii
+Enteropathy-Associated T-Cell Lymphoma
+fibroma
+NCI CTEP SDC Wilms Tumor Sub-Category Terminology
+Krukenberg Tumor
+Acute leukemia
+Mesothelial Neoplasms
+Lung Neoplasms
+B-Cell Lymphomas
+Jaw Neoplasms
+Carcinoma, Neuroendocrine
+Basal cell carcinoma
+Gland
+Plasmacytoma - category
+Serous Neoplasm
+Angiomyoma
+BCR positive
+Dermatofibrosarcoma
+Granulocytic Sarcoma
+Bronchial Neoplasms
+Actinic keratosis
+Extra-Adrenal Paraganglioma
+Thoracic Neoplasms
+Genus Chalazion
+Neoplasm Regression, Spontaneous
+Sublingual Gland Neoplasms
+Basal Cell Neoplasm
+Neurofibromatosis 2
+Linitis Plastica
+B cell+T cell
+Leukemia, Large Granular Lymphocytic
+Carcinoma, Endometrioid
+Heart Neoplasm
+Acinar Cell Carcinoma
+Neurofibromatosis 1
+Negative Finding
+Dysgerminoma
+Gardner Syndrome
+Ureteral Neoplasms
+granulosa cell tumor
+Myeloid
+Papillary
+Lymphangioleiomyomatosis
+Myelomonocyte
+Nose Neoplasms
+Erythroplasia
+Inflammatory Breast Carcinoma
+Follicular cyst
+Myxoma
+Lipoblastoma
+Orbital Neoplasms
+Malignant neoplasm of muscle
+Neoplastic Cell
+Smooth Muscle Tumor
+Non-Small Cell Lung Carcinoma
+Paraneoplastic Endocrine Syndromes
+Hepatoblastoma
+B-Lymphocytes
+Nevus, Blue
+Mast-Cell Sarcoma
+Neuroma
+Mediastinal Neoplasms
+Leukoplakia
+gliosarcoma
+Small cell carcinoma of lung
+Ganglioglioma
+Mammary Analogue Secretory Carcinoma
+Phyllodes Tumor
+Neck Neoplasms
+Olfactory Neuroblastoma
+Polycythemia Vera
+Anal Gland Neoplasms
+Odontogenic Tumors
+Hereditary Multiple Exostoses
+Medullary Neoplasms
+Cystic
+Basophilic normoblast
+Adrenal Gland Neoplasms
+Chondroblastoma
+Sarcoma, Small Cell
+Germinoma
+Fibroadenoma of breast
+Myoepithelioma
+Chondroma
+Lymphomatoid Papulosis
+Neoplasm Invasiveness
+Neoplasms, Vascular Tissue
+Tongue Neoplasms
+Oncologists
+Dermoid Cyst
+Neoplastic Processes
+Infratentorial Neoplasms
+Dendritic Cell Sarcoma, Follicular
+Mastocytosis
+Venereal Tumors, Veterinary
+Squamous odontogenic tumor
+synovial sarcoma
+Stomach Neoplasms
+Composite Lymphoma
+Perivascular Epithelioid Cell Neoplasms
+Pallister-Hall syndrome
+Cystadenoma, Mucinous
+Well Differentiated Oligodendroglioma
+Nerve Sheath Tumors
+Parotid Neoplasms
+Ganglioneuroma
+Osteoid osteoma
+Brain Neoplasms
+Neurocytoma
+Splenic Neoplasms
+Bronchogenic Carcinoma
+Melanocytic nevus
+Choroid Plexus Papilloma
+Liver carcinoma
+Myelitis, Transverse
+Genital Neoplasms, Male
+Leukemia L1210
+Medulloblastoma
+Plasma Cell Neoplasm
+Alveolar rhabdomyosarcoma
+Mixed Salivary Gland Tumor
+Polycystic Ovary Syndrome
+Neoplasms by Histologic Type
+Cystadenofibroma
+Hemangiosarcoma
+Neoplasms, Fibrous Tissue
+Glioma
+Bone Marrow Neoplasms
+Uveal Neoplasms
+Peripheral
+Carcinoid tumor no ICD-O subtype
+Leukemia, Monocytic, Chronic
+Dupuytren Contracture
+Choroid Plexus Neoplasms
+Eccrine acrospiroma
+Multiple Endocrine Neoplasia Type 2b
+Bile Duct Neoplasms
+Mesonephroma
+Lymphocele
+Lip Neoplasms
+Islet Cell Tumor
+Trophoblastic Tumor, Placental Site
+Amelanotic Skin Melanoma
+Skin Mastocytoma
+Brenner Tumor
+Osteosarcoma of bone
+Pelvic Neoplasms
+Inverted Papilloma
+Nonodontogenic Cysts
+Neurilemmoma
+Calcifying Odontogenic Cyst
+Blood group antibody N
+Duodenal Neoplasms
+Basal Cell Carcinoma Pathway
+Angiolipoma
+Synovial Cyst
+Popliteal Cyst
+Lymphangiomyoma
+Leukemia L5178
+Fibroadenoma
+Eccrine Poroma
+Acrospiroma
+Odontoma
+Paraneoplastic Syndromes, Ocular
+Immunoblast Count
+NCI CTEP SDC Non-Hodgkin Lymphoma Sub-Category Terminology
+aspartic acid receptor
+Neuroectodermal Tumors
+Sex Cord-Stromal Tumor
+Adenoma, Acidophil
+Sarcoma, Experimental
+Osteochondromatosis
+Cerebral Ventricle Neoplasms
+Ewings sarcoma-primitive neuroectodermal tumor (PNET)
+Lymphoma, Extranodal NK-T-Cell
+HYDATIDIFORM MOLE, RECURRENT, 1
+Genitourinary Neoplasms
+acute
+Multiple Endocrine Neoplasia
+Conjunctival Neoplasms
+lymphangiosarcoma
+Adenomatosis, Pulmonary
+Endometrial Stromal Sarcoma
+Colonic Neoplasms
+Palatal Neoplasms
+Kaposi Sarcoma
+Angiokeratoma
+Adenomatous Polyps
+Neoplasms, Hormone-Dependent
+Adenocarcinoma in Situ
+Meningioma
+Plasmablastic lymphoma
+Experimental Organism Islet Cell Adenoma Neoplasm
+Carcinoma, Lobular
+Neoplasms, Neuroepithelial
+Cervical dysplasia
+Epithelioma
+Skin Neoplasms
+Paraneoplastic Syndromes
+Paraneoplastic Polyneuropathy
+Neoplasms by Site
+Leiomyomatosis
+Neuroblastoma
+Oligodendroglioma, no ICD-O subtype
+Klatskin Tumor
+Marginal Zone
+Adenoma
+Acute lymphocytic leukemia
+Rhabdomyoma
+Prolactinoma
+NCI CTEP SDC Retinoblastoma Sub-Category Terminology
+Adenomyoepithelioma
+Hereditary Breast and Ovarian Cancer Syndrome
+Oropharyngeal Neoplasms
+Spinal Neoplasms
+Nelson Syndrome
+Penile Neoplasms
+Neoplasm Recurrence, Local
+Respiratory Tract Neoplasms
+Central Nervous System Neoplasms
+Inverted Squamous Cell Papilloma
+Pagetoid reticulosis
+Gastrointestinal Neoplasms
+Ear Neoplasms
+Desmoplastic Small Round Cell Tumor
+Sertoli-Leydig cell tumor of intermediate differentiation
+Lipoma
+Enzootic bovine leukosis
+Dysplastic Nevus Syndrome
+Blast Phase
+Neuroectodermal Tumor, Melanotic
+Malignant Carcinoid Syndrome
+Malignant mesothelioma
+Non-infiltrating
+Cystadenoma
+Bronchioloalveolar Adenocarcinoma
+T-Cell Lymphoma
+Supratentorial Neoplasms
+Langerhans Cell Sarcoma
+Vascular Neoplasms
+Congenital bronchogenic cyst
+Plasmacytoma
+Tarlov Cysts
+Waldenstrom Macroglobulinemia
+chronic
+Chronic Lymphocytic Leukemia
+Fibromatosis, Abdominal
+Zollinger-Ellison syndrome
+Retinoblastoma
+Neoplasm Metastasis
+Medullary carcinoma
+Multiple Myeloma
+WAGR Syndrome
+Neurofibromatoses
+Endometrial Neoplasms
+Carcinoma, Large Cell
+Meibomian Cyst
+Periodontal Cyst
+Mucoepidermoid Carcinoma
+Cranial Nerve Neoplasms
+Preleukemia
+Nasopharyngeal Neoplasms
+Ameloblastoma
+Adenoma, Villous
+atypia morphology
+Accelerated phase
+Mediastinal Cyst
+Colorectal Neoplasms
+Hydatidiform Mole, Invasive
+Hurthle Cell Tumor
+Maxillary Neoplasms
+Acoustic Neuroma
+Skull Base Neoplasms
+Lambert-Eaton Myasthenic Syndrome
+Carotid Body Paraganglioma
+complex (molecular entity)
+Adrenal Rest Tumor
+Immunoblast
+Epithelioid hemangioendothelioma
+Carcinogenesis, Co-Carcinogenesis
+Adenosquamous carcinoma
+Gastrinoma
+Neoplasms, Experimental
+Negative Charge
+Lymphoma, Non-Hodgkin
+Endocrine Gland Neoplasms
+Spinal Cord Neoplasms
+ACTH-Secreting Pituitary Adenoma
+Rhabdoid Tumor
+Adenomyoma
+Tumor of the Pineal Region
+Carcinoma, Basosquamous
+Burkitt Lymphoma
+Granular cell tumor
+Dendritic Cell Sarcoma, Interdigitating
+Growth Hormone-Secreting Pituitary Adenoma
+Rhabdomyosarcoma
+Myomatous neoplasm
+Nevus of Ota
+Liposarcoma, Myxoid
+Thyroglossal Cyst
+Prolymphocyte Count
+Carcinoma, Papillary
+Nephroblastoma
+Uterine Fibroids
+Papilloma, Intraductal
+Pancreatic Cyst
+Submandibular Gland Neoplasms
+Myosarcoma
+Carcinoma, Pancreatic Ductal
+Lymphoma
+Testicular Neoplasms
+Pancreatic Neoplasm
+Epidural Neoplasms
+Hepatocellular Adenoma
+TP53 gene
+Parovarian Cyst
+Gastrointestinal Stromal Tumors
+Neurothekeoma
+Hypopharyngeal Neoplasms
+Myofibroma (morphologic abnormality)
+Cystadenoma, Papillary
+Peripheral Nervous System Neoplasms
+Cystadenoma, Serous
+Trophoblastic Neoplasms
+Thecoma
+Organoid Nevus Phakomatosis
+Primitive
+Colloid Cysts
+Kidney Neoplasm
+Leukoplakia, Hairy
+Osteosarcoma
+Meningeal Carcinomatosis
+Vipoma
+Glioblastoma
+Negative - answer
+Abdominal Neoplasms
+Chondrosarcoma
+Sertoli Cell Tumor
+Mesoblastic Nephroma
+Common Bile Duct Neoplasms
+Gestational Trophoblastic Neoplasms
+Neoplasm of skin with adnexal differentiation
+Neoplasms
+Cysts
+Arachnoid Cysts
+Bone Cysts
+Aneurysmal Bone Cysts
+Jaw Cysts
+Nonodontogenic Cysts
+Odontogenic Cysts
+Basal Cell Nevus Syndrome
+Dentigerous Cyst
+Calcifying Odontogenic Cyst
+Periodontal Cyst
+Radicular Cyst
+Branchioma
+Breast Cyst
+Bronchogenic Cyst
+Chalazion
+Choledochal Cyst
+Colloid Cysts
+Dermoid Cyst
+Epidermal Cyst
+Esophageal Cyst
+Follicular Cyst
+Ganglion Cysts
+Lymphocele
+Mediastinal Cyst
+Mesenteric Cyst
+Mucocele
+Ovarian Cysts
+Polycystic Ovary Syndrome
+Pancreatic Cyst
+Pancreatic Pseudocyst
+Parovarian Cyst
+Pilonidal Sinus
+Ranula
+Synovial Cyst
+Popliteal Cyst
+Tarlov Cysts
+Thyroglossal Cyst
+Urachal Cyst
+Hamartoma
+Multiple Hamartoma Syndrome
+Proteus Syndrome
+Pallister-Hall Syndrome
+Tuberous Sclerosis
+Neoplasms by Histologic Type
+Malignant Histiocytic Disorders
+Follicular Dendritic Cell Sarcoma
+Interdigitating Dendritic Cell Sarcoma
+Histiocytic Sarcoma
+Langerhans Cell Sarcoma
+Leukemia
+Enzootic Bovine Leukosis
+Experimental Leukemia
+Avian Leukosis
+Leukemia L1210
+Leukemia L5178
+Leukemia P388
+Feline Leukemia
+Hairy Cell Leukemia
+Lymphoid Leukemia
+B-Cell Leukemia
+B-Cell Leukemia  Lymphocytic  Chronic
+B-Cell Leukemia  Prolymphocytic
+Acute Leukemia  Biphenotypic
+Prolymphocytic Leukemia
+B-Cell Leukemia  Prolymphocytic
+T-Cell Leukemia  Prolymphocytic
+T-Cell Leukemia
+Large Granular Lymphocytic Leukemia
+Adult T-Cell Leukemia-Lymphoma
+T-Cell Leukemia  Prolymphocytic
+Precursor Cell Lymphoblastic Leukemia-Lymphoma
+Precursor B-Cell Lymphoblastic Leukemia-Lymphoma
+Precursor T-Cell Lymphoblastic Leukemia-Lymphoma
+Mast-Cell Leukemia
+Myeloid Leukemia
+BCR-ABL Positive Leukemia  Myelogenous  Chronic
+Blast Crisis
+Accelerated Phase Leukemia  Myeloid
+Chronic-Phase Leukemia  Myeloid
+Acute Leukemia  Myeloid
+Acute Leukemia  Basophilic
+Acute Leukemia  Eosinophilic
+Acute Leukemia  Erythroblastic
+Mast-Cell Leukemia
+Acute Leukemia  Megakaryoblastic
+Acute Leukemia  Monocytic
+Acute Leukemia  Promyelocytic
+BCR-ABL Negative Leukemia  Myeloid  Chronic  Atypical
+Acute Leukemia  Myelomonocytic
+Chronic Leukemia  Myelomonocytic
+Juvenile Leukemia  Myelomonocytic
+Myeloid Sarcoma
+Plasma Cell Leukemia
+Radiation-Induced Leukemia
+Lymphatic Vessel Tumors
+Lymphangioma
+Cystic Lymphangioma
+Lymphangiomyoma
+Lymphangioleiomyomatosis
+Lymphangiosarcoma
+Lymphoma
+Composite Lymphoma
+Hodgkin Disease
+Immunoproliferative Small Intestinal Disease
+Intraocular Lymphoma
+Non-Hodgkin Lymphoma
+B-Cell Lymphoma
+Burkitt Lymphoma
+AIDS-Related Lymphoma
+Marginal Zone Lymphoma  B-Cell
+Diffuse Lymphoma  Large B-Cell
+Plasmablastic Lymphoma
+Primary Effusion Lymphoma
+Lymphomatoid Granulomatosis
+Follicular Lymphoma
+Immunoblastic Lymphoma  Large-Cell
+Mantle-Cell Lymphoma
+T-Cell Lymphoma
+Enteropathy-Associated T-Cell Lymphoma
+Extranodal NK-T-Cell Lymphoma
+Anaplastic Lymphoma  Large-Cell
+Cutaneous Lymphoma  T-Cell
+Primary Cutaneous Anaplastic Large Cell Lymphoma
+Lymphomatoid Papulosis
+Mycosis Fungoides
+Pagetoid Reticulosis
+Sezary Syndrome
+Peripheral Lymphoma  T-Cell
+Complex and Mixed Neoplasms
+Adenolymphoma
+Pleomorphic Adenoma
+Adenomyoepithelioma
+Adenomyoma
+Adenosarcoma
+Adenosquamous Carcinoma
+Carcinosarcoma
+Walker Carcinoma 256
+Composite Lymphoma
+Hepatoblastoma
+Mesenchymoma
+Malignant Mixed Tumor
+Mesodermal Mixed Tumor
+Mullerian Mixed Tumor
+Myoepithelioma
+Wilms Tumor
+Denys-Drash Syndrome
+WAGR Syndrome
+Mesoblastic Nephroma
+Pulmonary Blastoma
+Rhabdoid Tumor
+Endometrial Stromal Sarcoma
+Thymoma
+Connective and Soft Tissue Neoplasms
+Adipose Tissue Neoplasms
+Angiolipoma
+Angiomyolipoma
+Lipoma
+Lipoblastoma
+Liposarcoma
+Myxoid Liposarcoma
+Myelolipoma
+Connective Tissue Neoplasms
+Chondroblastoma
+Chondroma
+Chondromatosis
+Chondrosarcoma
+Mesenchymal Chondrosarcoma
+Endometrial Stromal Tumors
+Gastrointestinal Stromal Tumors
+Giant Cell Tumors
+Giant Cell Tumor of Bone
+Giant Cell Tumor of Tendon Sheath
+Pigmented Villonodular Synovitis
+Mastocytosis
+Mast-Cell Sarcoma
+Mastocytoma
+Skin Mastocytoma
+Cutaneous Mastocytosis
+Skin Mastocytoma
+Urticaria Pigmentosa
+Systemic Mastocytosis
+Mast-Cell Leukemia
+Myofibroma
+Myxoma
+Carney Complex
+Neurothekeoma
+Myxosarcoma
+Bone Tissue Neoplasms
+Ossifying Fibroma
+Giant Cell Tumor of Bone
+Osteoblastoma
+Osteochondroma
+Osteochondromatosis
+Multiple Hereditary Exostoses
+Osteoma
+Osteoid Osteoma
+Osteosarcoma
+Juxtacortical Osteosarcoma
+Ewing Sarcoma
+Fibrous Tissue Neoplasms
+Fibroma
+Dupuytren Contracture
+Desmoplastic Fibroma
+Ossifying Fibroma
+Abdominal Fibromatosis
+Aggressive Fibromatosis
+Plantar Fibromatosis
+Fibrosarcoma
+Dermatofibrosarcoma
+Neurofibrosarcoma
+Histiocytoma
+Benign Fibrous Histiocytoma
+Malignant Fibrous Histiocytoma
+Myofibromatosis
+Fibroepithelial Neoplasms
+Adenofibroma
+Cystadenofibroma
+Brenner Tumor
+Fibroadenoma
+Solitary Fibrous Tumors
+Pleural Solitary Fibrous Tumor
+Clear Cell Sarcoma
+Small Cell Sarcoma
+Synovial Sarcoma
+Muscle Tissue Neoplasms
+Granular Cell Tumor
+Leiomyoma
+Angiomyoma
+Epithelioid Leiomyoma
+Leiomyomatosis
+Leiomyosarcoma
+Myoma
+Rhabdomyoma
+Myosarcoma
+Rhabdomyosarcoma
+Alveolar Rhabdomyosarcoma
+Embryonal Rhabdomyosarcoma
+Alveolar Soft Part Sarcoma
+Smooth Muscle Tumor
+Perivascular Epithelioid Cell Neoplasms
+Angiomyolipoma
+Lymphangioleiomyomatosis
+Sarcoma
+Adenosarcoma
+Carcinosarcoma
+Walker Carcinoma 256
+Chondrosarcoma
+Mesenchymal Chondrosarcoma
+Desmoplastic Small Round Cell Tumor
+Endometrial Stromal Tumors
+Endometrial Stromal Sarcoma
+Fibrosarcoma
+Dermatofibrosarcoma
+Neurofibrosarcoma
+Hemangiosarcoma
+Malignant Fibrous Histiocytoma
+Leiomyosarcoma
+Liposarcoma
+Myxoid Liposarcoma
+Lymphangiosarcoma
+Mesodermal Mixed Tumor
+Myosarcoma
+Rhabdomyosarcoma
+Alveolar Rhabdomyosarcoma
+Embryonal Rhabdomyosarcoma
+Myxosarcoma
+Osteosarcoma
+Juxtacortical Osteosarcoma
+Ewing Sarcoma
+Phyllodes Tumor
+Alveolar Soft Part Sarcoma
+Clear Cell Sarcoma
+Experimental Sarcoma
+Sarcoma 37
+Sarcoma 180
+Avian Sarcoma
+Yoshida Sarcoma
+Kaposi Sarcoma
+Myeloid Sarcoma
+Small Cell Sarcoma
+Synovial Sarcoma
+Germ Cell and Embryonal Neoplasms
+Embryonal Carcinoma
+Chordoma
+Germinoma
+Dysgerminoma
+Seminoma
+Gonadoblastoma
+Mesonephroma
+Endodermal Sinus Tumor
+Neuroectodermal Tumors
+Craniopharyngioma
+Neuroepithelial Neoplasms
+Ganglioneuroma
+Glioma
+Astrocytoma
+Glioblastoma
+Ependymoma
+Subependymal Glioma
+Ganglioglioma
+Gliosarcoma
+Medulloblastoma
+Oligodendroglioma
+Optic Nerve Glioma
+Neurocytoma
+Primitive Neuroectodermal Tumors
+Medulloblastoma
+Peripheral Neuroectodermal Tumors  Primitive
+Neuroblastoma
+Olfactory Esthesioneuroblastoma
+Ganglioneuroblastoma
+Pinealoma
+Retinoblastoma
+Melanotic Neuroectodermal Tumor
+Neuroendocrine Tumors
+Acidophil Adenoma
+Basophil Adenoma
+Chromophobe Adenoma
+Apudoma
+Carcinoid Tumor
+Malignant Carcinoid Syndrome
+Carcinoid Heart Disease
+Neuroendocrine Carcinoma
+Medullary Carcinoma
+Merkel Cell Carcinoma
+Somatostatinoma
+Vipoma
+Melanoma
+Hutchinson's Melanotic Freckle
+Amelanotic Melanoma
+Experimental Melanoma
+Neurilemmoma
+Acoustic Neuroma
+Neurofibromatosis 2
+Paraganglioma
+Extra-Adrenal Paraganglioma
+Carotid Body Tumor
+Glomus Jugulare Tumor
+Glomus Tympanicum Tumor
+Pheochromocytoma
+Teratocarcinoma
+Teratoma
+Dermoid Cyst
+Struma Ovarii
+Trophoblastic Neoplasms
+Choriocarcinoma
+Non-gestational Choriocarcinoma
+Placental Site Trophoblastic Tumor
+Gestational Trophoblastic Disease
+Hydatidiform Mole
+Invasive Hydatidiform Mole
+Glandular and Epithelial Neoplasms
+Adenoma
+ACTH-Secreting Pituitary Adenoma
+Acidophil Adenoma
+Basophil Adenoma
+Bile Duct Adenoma
+Chromophobe Adenoma
+Islet Cell Adenoma
+Insulinoma
+Liver Cell Adenoma
+Oxyphilic Adenoma
+Pleomorphic Adenoma
+Sweat Gland Adenoma
+Acrospiroma
+Poroma
+Hidrocystoma
+Syringoma
+Villous Adenoma
+Adenomatoid Tumor
+Pulmonary Adenomatosis
+Adenomatous Polyps
+Adenomatous Polyposis Coli
+Gardner Syndrome
+Adrenal Rest Tumor
+Apudoma
+Cystadenoma
+Mucinous Cystadenoma
+Papillary Cystadenoma
+Serous Cystadenoma
+Growth Hormone-Secreting Pituitary Adenoma
+Mesothelioma
+Cystic Mesothelioma
+Prolactinoma
+Carcinoma
+Adenocarcinoma
+Adenocarcinoma in Situ
+Bronchiolo-Alveolar Adenocarcinoma
+Clear Cell Adenocarcinoma
+Follicular Adenocarcinoma
+Follicular Carcinoma  Papillary
+Mucinous Adenocarcinoma
+Papillary Adenocarcinoma
+Follicular Carcinoma  Papillary
+Scirrhous Adenocarcinoma
+Linitis Plastica
+Sebaceous Adenocarcinoma
+Adrenocortical Carcinoma
+Carcinoid Tumor
+Malignant Carcinoid Syndrome
+Carcinoid Heart Disease
+Acinar Cell Carcinoma
+Adenoid Cystic Carcinoma
+Ductal Carcinoma
+Breast Carcinoma  Ductal
+Pancreatic Ductal Carcinoma
+Endometrioid Carcinoma
+Hepatocellular Carcinoma
+Noninfiltrating Carcinoma  Intraductal
+Islet Cell Carcinoma
+Gastrinoma
+Glucagonoma
+Lobular Carcinoma
+Mucoepidermoid Carcinoma
+Neuroendocrine Carcinoma
+Medullary Carcinoma
+Merkel Cell Carcinoma
+Somatostatinoma
+Vipoma
+Renal Cell Carcinoma
+Signet Ring Cell Carcinoma
+Krukenberg Tumor
+Skin Appendage Carcinoma
+Cholangiocarcinoma
+Klatskin Tumor
+Choriocarcinoma
+Non-gestational Choriocarcinoma
+Placental Site Trophoblastic Tumor
+Cystadenocarcinoma
+Mucinous Cystadenocarcinoma
+Papillary Cystadenocarcinoma
+Serous Cystadenocarcinoma
+Eccrine Porocarcinoma
+Extramammary Paget Disease
+Ovine Pulmonary Adenomatosis
+Adenosquamous Carcinoma
+Basal Cell Carcinoma
+Basal Cell Nevus Syndrome
+Basosquamous Carcinoma
+Ehrlich Tumor Carcinoma
+Giant Cell Carcinoma
+Carcinoma in Situ
+Adenocarcinoma in Situ
+Breast Carcinoma In Situ
+Noninfiltrating Carcinoma  Intraductal
+Mammary Paget's Disease
+Cervical Intraepithelial Neoplasia
+Prostatic Intraepithelial Neoplasia
+Krebs 2 Carcinoma
+Large Cell Carcinoma
+Lewis Lung Carcinoma
+Papillary Carcinoma
+Small Cell Carcinoma
+Squamous Cell Carcinoma
+Bowen's Disease
+Transitional Cell Carcinoma
+Verrucous Carcinoma
+Buschke-Lowenstein Tumor
+Mammary Analogue Secretory Carcinoma
+Anaplastic Thyroid Carcinoma
+Adnexal and Skin Appendage Neoplasms
+Sebaceous Adenocarcinoma
+Sweat Gland Adenoma
+Acrospiroma
+Poroma
+Hidrocystoma
+Syringoma
+Skin Appendage Carcinoma
+Basal Cell Neoplasms
+Basal Cell Carcinoma
+Basal Cell Nevus Syndrome
+Basosquamous Carcinoma
+Pilomatrixoma
+and Serous Neoplasms  Cystic  Mucinous
+Mucinous Adenocarcinoma
+Mucoepidermoid Carcinoma
+Signet Ring Cell Carcinoma
+Krukenberg Tumor
+Cystadenocarcinoma
+Mucinous Cystadenocarcinoma
+Papillary Cystadenocarcinoma
+Serous Cystadenocarcinoma
+Cystadenofibroma
+Cystadenoma
+Mucinous Cystadenoma
+Papillary Cystadenoma
+Serous Cystadenoma
+Mucoepidermoid Tumor
+Pseudomyxoma Peritonei
+and Medullary Neoplasms  Ductal  Lobular
+Ductal Carcinoma
+Breast Carcinoma  Ductal
+Pancreatic Ductal Carcinoma
+Noninfiltrating Carcinoma  Intraductal
+Mammary Paget's Disease
+Lobular Carcinoma
+Medullary Carcinoma
+Extramammary Paget Disease
+Intraductal Papilloma
+Fibroepithelial Neoplasms
+Adenofibroma
+Cystadenofibroma
+Brenner Tumor
+Fibroadenoma
+Mesothelial Neoplasms
+Adenomatoid Tumor
+Mesothelioma
+Cystic Mesothelioma
+Neuroepithelial Neoplasms
+Ganglioneuroma
+Glioma
+Astrocytoma
+Glioblastoma
+Ependymoma
+Subependymal Glioma
+Ganglioglioma
+Gliosarcoma
+Medulloblastoma
+Oligodendroglioma
+Optic Nerve Glioma
+Neurocytoma
+Primitive Neuroectodermal Tumors
+Medulloblastoma
+Peripheral Neuroectodermal Tumors  Primitive
+Neuroblastoma
+Olfactory Esthesioneuroblastoma
+Ganglioneuroblastoma
+Pinealoma
+Retinoblastoma
+Squamous Cell Neoplasms
+Acanthoma
+Papillary Carcinoma
+Squamous Cell Carcinoma
+Bowen's Disease
+Verrucous Carcinoma
+Buschke-Lowenstein Tumor
+Papilloma
+Inverted Papilloma
+Gonadal Tissue Neoplasms
+Gonadoblastoma
+Sex Cord-Gonadal Stromal Tumors
+Granulosa Cell Tumor
+Luteoma
+Sertoli-Leydig Cell Tumor
+Leydig Cell Tumor
+Sertoli Cell Tumor
+Thecoma
+Nerve Tissue Neoplasms
+Meningioma
+Nerve Sheath Neoplasms
+Neurofibroma
+Plexiform Neurofibroma
+Neurofibromatoses
+Neurofibromatosis 1
+Neurofibromatosis 2
+Neurofibrosarcoma
+Neuroma
+Neurilemmoma
+Acoustic Neuroma
+Neurofibromatosis 2
+Neurothekeoma
+Neuroectodermal Tumors
+Craniopharyngioma
+Neuroepithelial Neoplasms
+Ganglioneuroma
+Glioma
+Astrocytoma
+Glioblastoma
+Ependymoma
+Subependymal Glioma
+Ganglioglioma
+Gliosarcoma
+Medulloblastoma
+Oligodendroglioma
+Optic Nerve Glioma
+Neurocytoma
+Primitive Neuroectodermal Tumors
+Medulloblastoma
+Peripheral Neuroectodermal Tumors  Primitive
+Neuroblastoma
+Olfactory Esthesioneuroblastoma
+Ganglioneuroblastoma
+Pinealoma
+Retinoblastoma
+Melanotic Neuroectodermal Tumor
+Neuroendocrine Tumors
+Acidophil Adenoma
+Basophil Adenoma
+Chromophobe Adenoma
+Apudoma
+Carcinoid Tumor
+Malignant Carcinoid Syndrome
+Carcinoid Heart Disease
+Neuroendocrine Carcinoma
+Medullary Carcinoma
+Merkel Cell Carcinoma
+Melanoma
+Hutchinson's Melanotic Freckle
+Amelanotic Melanoma
+Experimental Melanoma
+Neurilemmoma
+Acoustic Neuroma
+Paraganglioma
+Extra-Adrenal Paraganglioma
+Carotid Body Tumor
+Glomus Jugulare Tumor
+Glomus Tympanicum Tumor
+Pheochromocytoma
+Plasma Cell Neoplasms
+Multiple Myeloma
+Plasma Cell Leukemia
+Plasmacytoma
+Waldenstrom Macroglobulinemia
+Vascular Tissue Neoplasms
+Angiofibroma
+Angiokeratoma
+Glomus Tumor
+Hemangioma
+Central Nervous System Venous Angioma
+Hemangioendothelioma
+Epithelioid Hemangioendothelioma
+Capillary Hemangioma
+Hemangioblastoma
+Cavernous Hemangioma
+Central Nervous System Hemangioma  Cavernous
+Kasabach-Merritt Syndrome
+Sturge-Weber Syndrome
+Hemangiopericytoma
+Hemangiosarcoma
+Meningioma
+Kaposi Sarcoma
+Nevi and Melanomas
+Melanoma
+Hutchinson's Melanotic Freckle
+Amelanotic Melanoma
+Experimental Melanoma
+Nevus
+Dysplastic Nevus Syndrome
+Halo Nevus
+Intradermal Nevus
+Pigmented Nevus
+Mongolian Spot
+Blue Nevus
+Nevus of Ota
+Spindle Cell Nevus
+Epithelioid and Spindle Cell Nevus
+Sebaceous of Jadassohn Nevus
+Odontogenic Tumors
+Ameloblastoma
+Cementoma
+Calcifying Odontogenic Cyst
+Squamous Odontogenic Tumor
+Odontoma
+Neoplasms by Site
+Abdominal Neoplasms
+Peritoneal Neoplasms
+Retroperitoneal Neoplasms
+Sister Mary Joseph's Nodule
+Anal Gland Neoplasms
+Bone Neoplasms
+Adamantinoma
+Femoral Neoplasms
+Skull Neoplasms
+Jaw Neoplasms
+Mandibular Neoplasms
+Maxillary Neoplasms
+Palatal Neoplasms
+Nose Neoplasms
+Orbital Neoplasms
+Skull Base Neoplasms
+Spinal Neoplasms
+Breast Neoplasms
+Breast Carcinoma In Situ
+Male Breast Neoplasms
+Breast Carcinoma  Ductal
+Lobular Carcinoma
+Hereditary Breast and Ovarian Cancer Syndrome
+Inflammatory Breast Neoplasms
+Unilateral Breast Neoplasms
+Triple Negative Breast Neoplasms
+Digestive System Neoplasms
+Biliary Tract Neoplasms
+Bile Duct Neoplasms
+Common Bile Duct Neoplasms
+Gallbladder Neoplasms
+Gastrointestinal Neoplasms
+Esophageal Neoplasms
+Intestinal Neoplasms
+Cecal Neoplasms
+Appendiceal Neoplasms
+Colorectal Neoplasms
+Adenomatous Polyposis Coli
+Gardner Syndrome
+Colonic Neoplasms
+Sigmoid Neoplasms
+Hereditary Nonpolyposis Colorectal Neoplasms
+Rectal Neoplasms
+Anus Neoplasms
+Anal Gland Neoplasms
+Duodenal Neoplasms
+Ileal Neoplasms
+Jejunal Neoplasms
+Stomach Neoplasms
+Liver Neoplasms
+Liver Cell Adenoma
+Hepatocellular Carcinoma
+Experimental Liver Neoplasms
+Pancreatic Neoplasms
+Islet Cell Adenoma
+Insulinoma
+Islet Cell Carcinoma
+Gastrinoma
+Glucagonoma
+Somatostatinoma
+Vipoma
+Pancreatic Ductal Carcinoma
+Peritoneal Neoplasms
+Endocrine Gland Neoplasms
+Adrenal Gland Neoplasms
+Adrenal Cortex Neoplasms
+Adrenocortical Adenoma
+Adrenocortical Carcinoma
+Multiple Endocrine Neoplasia
+Multiple Endocrine Neoplasia Type 1
+Multiple Endocrine Neoplasia Type 2a
+Multiple Endocrine Neoplasia Type 2b
+Ovarian Neoplasms
+Granulosa Cell Tumor
+Hereditary Breast and Ovarian Cancer Syndrome
+Luteoma
+Meigs Syndrome
+Sertoli-Leydig Cell Tumor
+Thecoma
+Pancreatic Neoplasms
+Islet Cell Adenoma
+Insulinoma
+Islet Cell Carcinoma
+Gastrinoma
+Glucagonoma
+Somatostatinoma
+Vipoma
+Pancreatic Ductal Carcinoma
+Paraneoplastic Endocrine Syndromes
+Parathyroid Neoplasms
+Pituitary Neoplasms
+ACTH-Secreting Pituitary Adenoma
+Nelson Syndrome
+Growth Hormone-Secreting Pituitary Adenoma
+Prolactinoma
+Testicular Neoplasms
+Sertoli-Leydig Cell Tumor
+Leydig Cell Tumor
+Sertoli Cell Tumor
+Thyroid Neoplasms
+Thyroid Nodule
+Eye Neoplasms
+Conjunctival Neoplasms
+Intraocular Lymphoma
+Orbital Neoplasms
+Ocular Paraneoplastic Syndromes
+Retinal Neoplasms
+Retinoblastoma
+Uveal Neoplasms
+Choroid Neoplasms
+Iris Neoplasms
+Head and Neck Neoplasms
+Esophageal Neoplasms
+Facial Neoplasms
+Eyelid Neoplasms
+Mouth Neoplasms
+Gingival Neoplasms
+Oral Leukoplakia
+Hairy Leukoplakia
+Lip Neoplasms
+Palatal Neoplasms
+Salivary Gland Neoplasms
+Parotid Neoplasms
+Sublingual Gland Neoplasms
+Submandibular Gland Neoplasms
+Tongue Neoplasms
+Otorhinolaryngologic Neoplasms
+Ear Neoplasms
+Laryngeal Neoplasms
+Nose Neoplasms
+Paranasal Sinus Neoplasms
+Maxillary Sinus Neoplasms
+Pharyngeal Neoplasms
+Hypopharyngeal Neoplasms
+Nasopharyngeal Neoplasms
+Oropharyngeal Neoplasms
+Tonsillar Neoplasms
+Parathyroid Neoplasms
+Thyroid Neoplasms
+Thyroid Nodule
+Tracheal Neoplasms
+Hematologic Neoplasms
+Bone Marrow Neoplasms
+Polycythemia Vera
+Animal Mammary Neoplasms
+Experimental Mammary Neoplasms
+Nervous System Neoplasms
+Central Nervous System Neoplasms
+Brain Neoplasms
+Cerebral Ventricle Neoplasms
+Choroid Plexus Neoplasms
+Choroid Plexus Papilloma
+Infratentorial Neoplasms
+Brain Stem Neoplasms
+Cerebellar Neoplasms
+Neurocytoma
+Pinealoma
+Supratentorial Neoplasms
+Hypothalamic Neoplasms
+Pallister-Hall Syndrome
+Pituitary Neoplasms
+Central Nervous System Cysts
+Arachnoid Cysts
+Colloid Cysts
+Meningeal Neoplasms
+Meningeal Carcinomatosis
+Meningioma
+Spinal Cord Neoplasms
+Epidural Neoplasms
+Cranial Nerve Neoplasms
+Acoustic Neuroma
+Optic Nerve Neoplasms
+Optic Nerve Glioma
+Nervous System Paraneoplastic Syndromes
+Anti-N-Methyl-D-Aspartate Receptor Encephalitis
+Lambert-Eaton Myasthenic Syndrome
+Limbic Encephalitis
+Transverse Myelitis
+Opsoclonus-Myoclonus Syndrome
+Paraneoplastic Cerebellar Degeneration
+Paraneoplastic Polyneuropathy
+Peripheral Nervous System Neoplasms
+Cranial Nerve Neoplasms
+Acoustic Neuroma
+Optic Nerve Neoplasms
+Optic Nerve Glioma
+Pelvic Neoplasms
+Skin Neoplasms
+Acanthoma
+Sebaceous Gland Neoplasms
+Muir-Torre Syndrome
+Sweat Gland Neoplasms
+Soft Tissue Neoplasms
+Muscle Neoplasms
+Vascular Neoplasms
+Splenic Neoplasms
+Thoracic Neoplasms
+Heart Neoplasms
+Carney Complex
+Mediastinal Neoplasms
+Respiratory Tract Neoplasms
+Lung Neoplasms
+Bronchial Neoplasms
+Bronchogenic Carcinoma
+Non-Small-Cell Lung Carcinoma
+Small Cell Lung Carcinoma
+Multiple Pulmonary Nodules
+Pancoast Syndrome
+Pulmonary Blastoma
+Pulmonary Sclerosing Hemangioma
+Pleural Neoplasms
+Malignant Pleural Effusion
+Pleural Solitary Fibrous Tumor
+Tracheal Neoplasms
+Thymus Neoplasms
+Thymoma
+Urogenital Neoplasms
+Female Genital Neoplasms
+Fallopian Tube Neoplasms
+Uterine Neoplasms
+Endometrial Neoplasms
+Endometrioid Carcinoma
+Uterine Cervical Neoplasms
+Vaginal Neoplasms
+Vulvar Neoplasms
+Male Genital Neoplasms
+Penile Neoplasms
+Prostatic Neoplasms
+Castration-Resistant Prostatic Neoplasms
+Testicular Neoplasms
+Sertoli-Leydig Cell Tumor
+Leydig Cell Tumor
+Sertoli Cell Tumor
+Urologic Neoplasms
+Kidney Neoplasms
+Renal Cell Carcinoma
+Wilms Tumor
+Denys-Drash Syndrome
+WAGR Syndrome
+Mesoblastic Nephroma
+Ureteral Neoplasms
+Urethral Neoplasms
+Urinary Bladder Neoplasms
+Veterinary Venereal Tumors
+Experimental Neoplasms
+Walker Carcinoma 256
+Brown-Pearce Carcinoma
+Ehrlich Tumor Carcinoma
+Krebs 2 Carcinoma
+Lewis Lung Carcinoma
+Experimental Leukemia
+Avian Leukosis
+Leukemia L1210
+Leukemia L5178
+Leukemia P388
+Experimental Liver Neoplasms
+Experimental Mammary Neoplasms
+Experimental Melanoma
+Experimental Sarcoma
+Sarcoma 37
+Sarcoma 180
+Avian Sarcoma
+Yoshida Sarcoma
+Hormone-Dependent Neoplasms
+Multiple Primary Neoplasms
+Multiple Hamartoma Syndrome
+Proteus Syndrome
+Multiple Endocrine Neoplasia
+Multiple Endocrine Neoplasia Type 1
+Multiple Endocrine Neoplasia Type 2a
+Multiple Endocrine Neoplasia Type 2b
+Tuberous Sclerosis
+Post-Traumatic Neoplasms
+Radiation-Induced Neoplasms
+Radiation-Induced Leukemia
+Second Primary Neoplasms
+Neoplastic Processes
+Anaplasia
+Carcinogenesis
+Neoplastic Cell Transformation
+Blast Crisis
+Viral Cell Transformation
+Cocarcinogenesis
+Neoplasm Invasiveness
+Leukemic Infiltration
+Neoplasm Metastasis
+Lymphatic Metastasis
+Neoplasm Micrometastasis
+Neoplasm Seeding
+Unknown Primary Neoplasms
+Circulating Neoplastic Cells
+Local Neoplasm Recurrence
+Spontaneous Neoplasm Regression
+Residual Neoplasm
+Hereditary Neoplastic Syndromes
+Adenomatous Polyposis Coli
+Gardner Syndrome
+Basal Cell Nevus Syndrome
+Birt-Hogg-Dube Syndrome
+Hereditary Nonpolyposis Colorectal Neoplasms
+Lynch Syndrome II
+Muir-Torre Syndrome
+Dysplastic Nevus Syndrome
+Multiple Hereditary Exostoses
+Multiple Hamartoma Syndrome
+Hereditary Breast and Ovarian Cancer Syndrome
+Li-Fraumeni Syndrome
+Multiple Endocrine Neoplasia
+Multiple Endocrine Neoplasia Type 1
+Multiple Endocrine Neoplasia Type 2a
+Multiple Endocrine Neoplasia Type 2b
+Tuberous Sclerosis
+Wilms Tumor
+Denys-Drash Syndrome
+WAGR Syndrome
+Neurofibromatoses
+Neurofibromatosis 1
+Neurofibromatosis 2
+Peutz-Jeghers Syndrome
+Paraneoplastic Syndromes
+Paraneoplastic Endocrine Syndromes
+Ectopic ACTH Syndrome
+Zollinger-Ellison Syndrome
+Nervous System Paraneoplastic Syndromes
+Anti-N-Methyl-D-Aspartate Receptor Encephalitis
+Lambert-Eaton Myasthenic Syndrome
+Limbic Encephalitis
+Transverse Myelitis
+Opsoclonus-Myoclonus Syndrome
+Paraneoplastic Cerebellar Degeneration
+Paraneoplastic Polyneuropathy
+Ocular Paraneoplastic Syndromes
+Precancerous Conditions
+Aberrant Crypt Foci
+Erythroplasia
+Actinic Keratosis
+Leukoplakia
+Oral Leukoplakia
+Hairy Leukoplakia
+Lymphomatoid Granulomatosis
+Preleukemia
+Uterine Cervical Dysplasia
+Atypical Squamous Cells of the Cervix
+Squamous Intraepithelial Lesions of the Cervix
+Xeroderma Pigmentosum
+Neoplastic Pregnancy Complications
+Trophoblastic Neoplasms
+Choriocarcinoma
+Non-gestational Choriocarcinoma
+Placental Site Trophoblastic Tumor
+Gestational Trophoblastic Disease
+Hydatidiform Mole
+Invasive Hydatidiform Mole
+Adjuvant Chemotherapy
+Neoplastic Processes
+Anaplasia
+Carcinogenesis
+Neoplastic Cell Transformation
+Blast Crisis
+Viral Cell Transformation
+Cocarcinogenesis
+Neoplasm Invasiveness
+Leukemic Infiltration
+Neoplasm Metastasis
+Lymphatic Metastasis
+Neoplasm Micrometastasis
+Neoplasm Seeding
+Unknown Primary Neoplasms
+Circulating Neoplastic Cells
+Local Neoplasm Recurrence
+Spontaneous Neoplasm Regression
+Residual Neoplasm
+Oncologists
